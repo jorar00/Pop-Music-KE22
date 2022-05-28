@@ -1,0 +1,18 @@
+@prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
+@prefix ex: <https://w3id.org/OWLunit/examples/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
+@prefix td: 
+
+ex:cq1.ttl a owlunit:CompetencyQuestionVerification ;
+ 	owlunit:hasCompetencyQuestion "When was a song published?" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
+     SELECT DISTINCT ?place
+    WHERE{
+        ?songVersion pm:hasRelease ?release.
+        ?release :hasPlace ?place
+    }" ;
+	owlunit:hasInputData pm:TD5.ttl ;
+	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"place\" ] } ,  \"results\": {  \"bindings\": [ {  \"place\": {  \"type\":  \"uri\" ,  \"value\":  \"https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/test/competency-question/toy-dataset/Bologna\" } } ] } }";
+	owlunit:testsOntology pm: .
