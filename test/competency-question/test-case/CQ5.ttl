@@ -2,13 +2,13 @@
 @prefix ex: <https://w3id.org/OWLunit/examples/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
-@prefix td: 
+@prefix td: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/test/competency-question/toy-dataset/>
 
 ex:cq1.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "When was a song published?" ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
      SELECT DISTINCT ?place
-    WHERE{
+    	WHERE{
         ?songVersion pm:hasRelease ?release.
         ?release :hasPlace ?place
     }" ;
