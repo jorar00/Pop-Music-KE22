@@ -5,12 +5,7 @@
 
 tc:cq5.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "Where was a song published?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl>
-     SELECT DISTINCT ?place
-    	WHERE{
-        ?songVersion pm:hasRelease ?release.
-        ?release pm:hasPlace ?place
-    }" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl>SELECT DISTINCT ?place WHERE{ ?songVersion pm:hasRelease ?release. ?release pm:hasPlace ?place }" ;
 	owlunit:hasInputData td:TD5.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"place\" ] } ,  \"results\": {  \"bindings\": [ {  \"place\": {  \"type\":  \"uri\" ,  \"value\":  \"https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/test/competency-question/toy-dataset/Bologna\" } } ] } }";
