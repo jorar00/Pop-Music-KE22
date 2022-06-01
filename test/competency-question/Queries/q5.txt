@@ -4,5 +4,5 @@ PREFIX pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e
 SELECT DISTINCT ?place
 WHERE{
     ?songVersion pm:hasRelease ?release.
-    ?release :hasPlace ?place
+    ?release pm:hasPlace ?place
 }
