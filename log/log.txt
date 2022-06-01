@@ -6,3 +6,7 @@ ERROR 2022-06-01 17:52:17,517 [main] (ErrorHandlerFactory.java:106) - [line: 8, 
 ERROR 2022-06-01 17:56:49,996 [main] (ErrorHandlerFactory.java:106) - [line: 8, col: 11] Bad character in IRI (space): <!DOCTYPE[space]...>
  INFO 2022-06-01 17:59:32,433 [main] (OWLUnit.java:89) - Test case URI https://github.com/jorar00/Pop-Music-KE22/blob/88a866b51a17237fc5bd098af607c1c3297c7265/test/competency-question/test-case/CQ5.ttl
 ERROR 2022-06-01 17:59:35,168 [main] (ErrorHandlerFactory.java:106) - [line: 8, col: 11] Bad character in IRI (space): <!DOCTYPE[space]...>
+ INFO 2022-06-01 18:00:14,844 [main] (OWLUnit.java:89) - Test case URI https://github.com/jorar00/Pop-Music-KE22/blob/88a866b51a17237fc5bd098af607c1c3297c7265/test/competency-question/test-case/CQ5.ttl
+ERROR 2022-06-01 18:00:17,575 [main] (ErrorHandlerFactory.java:106) - [line: 8, col: 11] Bad character in IRI (space): <!DOCTYPE[space]...>
+ INFO 2022-06-01 18:02:27,568 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ERROR 2022-06-01 18:02:29,502 [main] (ErrorHandlerFactory.java:106) - [line: 9, col: 1 ] Broken token (newline): PREFIX pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
