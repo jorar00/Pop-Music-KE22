@@ -1,5 +1,5 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
-@prefix pm: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/Ontology/popMusic.owl>
+@prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl>
 @prefix td: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/test/competency-question/toy-dataset/>
 @prefix tc: <https://github.com/jorar00/Pop-Music-KE22/blob/b1617294e0e9e40eafd7e87b1a66f1d327a2e822/test/competency-question/test-case/>
 
