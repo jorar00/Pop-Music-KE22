@@ -23,3 +23,6 @@ ERROR 2022-06-01 18:11:00,839 [main] (ErrorHandlerFactory.java:106) - [line: 1, 
  INFO 2022-06-01 18:15:03,847 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
 ERROR 2022-06-01 18:15:06,007 [main] (ErrorHandlerFactory.java:106) - [line: 1, col: 1 ] Content is not allowed in prolog.
 ERROR 2022-06-01 18:15:06,187 [main] (ErrorHandlerFactory.java:106) - [line: 1, col: 1 ] Content is not allowed in prolog.
+ INFO 2022-06-01 18:25:36,904 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ERROR 2022-06-01 18:25:40,061 [main] (ErrorHandlerFactory.java:106) - [line: 1, col: 1 ] Content is not allowed in prolog.
+ERROR 2022-06-01 18:25:40,344 [main] (ErrorHandlerFactory.java:106) - [line: 1, col: 1 ] Content is not allowed in prolog.

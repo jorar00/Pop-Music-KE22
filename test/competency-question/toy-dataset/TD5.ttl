@@ -1,4 +1,4 @@
-@prefix td: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/TD5.ttl> .
+@prefix td: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
 @prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> .
 
 td:VersionPrueba pm:hasRelease td:ReleasePrueba .
