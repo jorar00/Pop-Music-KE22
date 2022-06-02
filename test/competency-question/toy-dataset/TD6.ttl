@@ -3,4 +3,3 @@
 
 td:HereComesTheSun pm:hasMusicalFeatures td:hctsMusicFeatures .
 td:guitar pm:subclassOf td:hctsMusicFeatures .
-td:trumpet pm:subclassOf td:hctsMusicFeatures .
