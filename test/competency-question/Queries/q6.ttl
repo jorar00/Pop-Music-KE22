@@ -6,3 +6,15 @@ WHERE{
     ?songVersion pm:hasMusicalFeatures ?musicFeatures .
     ?instruments pm:subclassOf ?musicFeatures .
 }
+
+
+RESULT:
+
+{  \"head\":​
+
+{  \"vars\": [  \"instrument\" ] } ,  ​
+
+   \"results\": {  \"bindings\": ​
+
+[ {  \"instrument\": {  \"type\":  \"uri\" ,  \"value\":  \"https://raw.githubusercontent.com/polifonia-project/musical-performance/main/test/competency-question/toy-dataset/guitar\" } } ],
+[ {  \"instrument\": {  \"type\":  \"uri\" ,  \"value\":  \"https://raw.githubusercontent.com/polifonia-project/musical-performance/main/test/competency-question/toy-dataset/trumpet\" } } ] } }​
