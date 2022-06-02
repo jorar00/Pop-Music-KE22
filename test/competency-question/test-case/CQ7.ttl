@@ -8,5 +8,5 @@ tc:CQ7.ttl a owlunit:CompetencyQuestionVerification ;
 	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> SELECT DISTINCT ?fact WHERE{ ?song pm:hasFacts ?fact }" ;
 	owlunit:hasInputData td:TD7.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
-	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"fact\" ] } ,  \"results\": {  \"bindings\": [ {  \"fact\": {  \"type\":  \"uri\" ,  \"value\":  \"https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/"Makes reference to the Italian Republic Day"\" } } ] } }" ;
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"fact\" ] } ,  \"results\": {  \"bindings\": [ {  \"fact\": {  \"type\":  \"uri\" ,  \"value\":  \"https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/Republic\" } } ] } }" ;
 	owlunit:testsOntology pm: .

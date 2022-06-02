@@ -1,4 +1,4 @@
 @prefix td: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
 @prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> .
 
-td:ItalianRep pm:hasFact td:"Makes reference to the Italian Republic Day" .
+td:ItalianRep pm:hasFact td:"Republic" .

@@ -64,3 +64,7 @@ ERROR 2022-06-02 12:28:48,462 [main] (ErrorHandlerFactory.java:106) - [line: 12,
  INFO 2022-06-02 12:31:52,408 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ6.ttl
  INFO 2022-06-02 12:31:58,121 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
  INFO 2022-06-02 17:29:38,032 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ INFO 2022-06-02 18:41:07,421 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ INFO 2022-06-02 18:41:14,926 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ6.ttl
+ INFO 2022-06-02 18:41:22,890 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ7.ttl
+ERROR 2022-06-02 18:41:24,435 [main] (ErrorHandlerFactory.java:106) - [line: 11, col: 258] Triples not terminated by DOT
