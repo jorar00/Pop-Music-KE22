@@ -49,3 +49,12 @@ ERROR 2022-06-02 11:53:42,664 [main] (ErrorHandlerFactory.java:106) - [line: 9, 
 ERROR 2022-06-02 12:24:34,720 [main] (ErrorHandlerFactory.java:106) - [line: 12, col: 1 ] Broken token (newline): {  "head": 
  INFO 2022-06-02 12:25:35,071 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
 ERROR 2022-06-02 12:25:36,347 [main] (ErrorHandlerFactory.java:106) - [line: 12, col: 1 ] Broken token (newline): {  "head": 
+ INFO 2022-06-02 12:27:22,383 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ERROR 2022-06-02 12:27:23,717 [main] (ErrorHandlerFactory.java:106) - [line: 12, col: 1 ] Broken token (newline): {  "head": 
+ INFO 2022-06-02 12:27:30,092 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_bien.ttl
+ INFO 2022-06-02 12:27:31,647 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_bien.ttl doesn't define any test case.
+ INFO 2022-06-02 12:27:55,023 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ6.ttl
+ INFO 2022-06-02 12:28:17,056 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_bien.ttl
+ INFO 2022-06-02 12:28:18,366 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_bien.ttl doesn't define any test case.
+ INFO 2022-06-02 12:28:47,110 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ERROR 2022-06-02 12:28:48,462 [main] (ErrorHandlerFactory.java:106) - [line: 12, col: 1 ] Broken token (newline): {  "head": 
