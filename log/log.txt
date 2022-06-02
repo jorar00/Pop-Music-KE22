@@ -37,3 +37,4 @@ ERROR 2022-06-01 18:41:43,600 [main] (ErrorHandlerFactory.java:106) - [line: 13,
 ERROR 2022-06-01 18:41:44,250 [main] (ErrorHandlerFactory.java:106) - [line: 13, col: 4 ] {E201} The attributes on this property element, are not permitted with any content; expecting end element tag.
  INFO 2022-06-02 11:32:11,054 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/polifonia-project/musical-performance-ontology/main/test/competency-question/test-case/CQ5.ttl
  INFO 2022-06-02 11:32:39,575 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl
+ INFO 2022-06-02 11:36:14,720 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5.ttl

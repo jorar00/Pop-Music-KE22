@@ -1,0 +1,6 @@
+@prefix td: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
+@prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+
+td:HereComesTheSun pm:hasMusicalFeatures td:hctsMusicFeatures .
+td:guitar pm:subclassOf td:hctsMusicFeatures .
+td:trumpet pm:subclassOf td:hctsMusicFeatures .
