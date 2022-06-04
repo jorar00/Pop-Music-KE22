@@ -1,0 +1,253 @@
+{
+  "@graph" : [ {
+    "@id" : "pm:resource/Recording/da77d23c-3acb-4b3d-9596-24aa55f03ece",
+    "@type" : "pm:Recording",
+    "hasAnnotatiton" : "On Vee Jay release of this song the count-in \"One, two, three, four!\" was edited out—but the \"Four!\" is still audible.\n\nISRC GB-AYE-09-00605 is for 2009 mono remaster",
+    "hasDisambiguation" : "original mono studio mix",
+    "hasLength" : "175800",
+    "hasRate" : "3.35",
+    "hasRelease" : [ "pm:resource/Release/ad9a5857-7223-46b8-8594-093c4e5303db", "pm:resource/Release/fab453da-7015-4a2c-b297-6be56b0695e1", "pm:resource/Release/ade577f6-6087-4a4f-8e87-38b0f8169814", "pm:resource/Release/7135d32a-4868-4280-866a-aa7c2f821403", "pm:resource/Release/c6eb75b6-5e5e-431e-a9df-057f74d644d2", "pm:resource/Release/5baf400e-e37e-41d9-99c0-2cca0eb5bd38", "pm:resource/Release/b8834834-dfb9-4d9a-97cf-fc5f89bbed7c", "pm:resource/Release/0d406e63-549a-4326-a319-509ff15398f0", "pm:resource/Release/c197ef6d-a6dc-4c8b-b560-91516e3991dc", "pm:resource/Release/0ff5e81b-3f77-4eca-9324-167d1615c183", "pm:resource/Release/caa95fdb-7630-4543-880e-0c9f89b12ef7", "pm:resource/Release/239c14a6-ab3b-4d3a-8267-229a85a64781", "pm:resource/Release/b13c7b8f-c04f-435e-80fc-95d15418ec8e", "pm:resource/Release/08f40342-e89d-4f62-be1c-e7cc240e2b23", "pm:resource/Release/46f83483-2ad3-4660-ad91-043f8953cb29", "pm:resource/Release/2999bc64-9246-41b1-9469-178a1a9a9227", "pm:resource/Release/3538e59b-8ca3-3c21-a454-73cdec8ac2f6", "pm:resource/Release/27cf1b80-8ecb-4417-9683-10ab63e20a0d", "pm:resource/Release/a83d1eb2-4c76-4103-ac9b-bd9910aa7a83", "pm:resource/Release/3efc3a17-a43c-4d02-8379-003668d3aaea", "pm:resource/Release/14ba4ef7-9f2a-4bd7-85da-af2f75942e43", "pm:resource/Release/4fc448ac-7da2-4d03-b674-e2cc155a65a2", "pm:resource/Release/fbad1a2f-751b-4905-81d6-3f267b619da5", "pm:resource/Release/fdab6b1b-fec0-4e3a-9041-f60fe4479d0a", "pm:resource/Release/57c402b0-9cdc-4354-aac5-f3ad6d4d4078" ],
+    "hasTitle" : "I Saw Her Standing There",
+    "recordedAt" : "Abbey Road Studios: Studio 2",
+    "recordedIn" : "1963-02-11"
+  }, {
+    "@id" : "pm:resource/Release/08f40342-e89d-4f62-be1c-e7cc240e2b23",
+    "@type" : "pm:Release",
+    "hasCountry" : "CA",
+    "hasDate" : "1964-05-11",
+    "hasTitle" : "The Beatles’ Long Tall Sally"
+  }, {
+    "@id" : "pm:resource/Release/0d406e63-549a-4326-a319-509ff15398f0",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-11-01",
+    "hasDisambiguation" : "serif",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "No. 1"
+  }, {
+    "@id" : "pm:resource/Release/0ff5e81b-3f77-4eca-9324-167d1615c183",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964",
+    "hasDisambiguation" : "mono, v2, all black labels, brackets logo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/14ba4ef7-9f2a-4bd7-85da-af2f75942e43",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, brackets logo, left justified titles, Coffin-King typo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/239c14a6-ab3b-4d3a-8267-229a85a64781",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, brackets logo, centered titles",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/27cf1b80-8ecb-4417-9683-10ab63e20a0d",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-01-10",
+    "hasDisambiguation" : "mono, v1, oval logo, left justified titles",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/2999bc64-9246-41b1-9469-178a1a9a9227",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963",
+    "hasDisambiguation" : "mono, 5th press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/3538e59b-8ca3-3c21-a454-73cdec8ac2f6",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-01-10",
+    "hasDisambiguation" : "mono, v1, oval logo, centered titles",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/3efc3a17-a43c-4d02-8379-003668d3aaea",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1965",
+    "hasDisambiguation" : "mono, 6th press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/46f83483-2ad3-4660-ad91-043f8953cb29",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, brackets logo, left justified titles, indented credits",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/4fc448ac-7da2-4d03-b674-e2cc155a65a2",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, all black labels, VJ letters, Side",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/57c402b0-9cdc-4354-aac5-f3ad6d4d4078",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-01-10",
+    "hasDisambiguation" : "mono, v1, oval logo, left justified titles, long playing",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/5baf400e-e37e-41d9-99c0-2cca0eb5bd38",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, brackets logo, left justified titles",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/7135d32a-4868-4280-866a-aa7c2f821403",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964",
+    "hasDisambiguation" : "mono, v2, all black labels, VJ letters, SIDE",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing...The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/a83d1eb2-4c76-4103-ac9b-bd9910aa7a83",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-05",
+    "hasDisambiguation" : "mono, 4th press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/ad9a5857-7223-46b8-8594-093c4e5303db",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-11-01",
+    "hasDisambiguation" : "sans-serif",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "No. 1"
+  }, {
+    "@id" : "pm:resource/Release/ade577f6-6087-4a4f-8e87-38b0f8169814",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-03-22",
+    "hasDisambiguation" : "mono, 1st press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/b13c7b8f-c04f-435e-80fc-95d15418ec8e",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963",
+    "hasDisambiguation" : "mono, 5th press, Decca contract",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/b8834834-dfb9-4d9a-97cf-fc5f89bbed7c",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, oval logo, Coffin-King typo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/c197ef6d-a6dc-4c8b-b560-91516e3991dc",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-05",
+    "hasDisambiguation" : "mono, 3rd press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  }, {
+    "@id" : "pm:resource/Release/c6eb75b6-5e5e-431e-a9df-057f74d644d2",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964",
+    "hasDisambiguation" : "mono, v2, all black labels, oval logo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/caa95fdb-7630-4543-880e-0c9f89b12ef7",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, oval logo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/fab453da-7015-4a2c-b297-6be56b0695e1",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-02-10",
+    "hasDisambiguation" : "mono, v2, 45-size labels",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/fbad1a2f-751b-4905-81d6-3f267b619da5",
+    "@type" : "pm:Release",
+    "hasCountry" : "US",
+    "hasDate" : "1964-01-10",
+    "hasDisambiguation" : "mono, v1, brackets logo",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Introducing… The Beatles"
+  }, {
+    "@id" : "pm:resource/Release/fdab6b1b-fec0-4e3a-9041-f60fe4479d0a",
+    "@type" : "pm:Release",
+    "hasCountry" : "GB",
+    "hasDate" : "1963-04",
+    "hasDisambiguation" : "mono, 2nd press",
+    "hasPackaging" : "Cardboard/Paper Sleeve",
+    "hasTitle" : "Please Please Me"
+  } ],
+  "@context" : {
+    "hasCountry" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasCountry"
+    },
+    "hasDate" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasDate"
+    },
+    "hasPackaging" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasPackaging"
+    },
+    "hasDisambiguation" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasDisambiguation"
+    },
+    "hasTitle" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasTitle"
+    },
+    "hasLength" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasLength"
+    },
+    "hasRelease" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasRelease",
+      "@type" : "@id"
+    },
+    "recordedIn" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/recordedIn"
+    },
+    "hasRate" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasRate"
+    },
+    "hasAnnotatiton" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/hasAnnotatiton"
+    },
+    "recordedAt" : {
+      "@id" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/recordedAt"
+    },
+    "fx" : "http://sparql.xyz/facade-x/ns/",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xyz" : "http://sparql.xyz/facade-x/data/",
+    "rdfs" : "http://www.w3.org./2000/01/rdf-schema#",
+    "pm" : "https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/"
+  }
+}
