@@ -8,5 +8,5 @@ tc:CQ1_Maria.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?namePublisher WHERE{?Song pm:isPublishedBy ?Publisher . ?Publisher pm:hasName ?namePublisher}" ;
 	owlunit:hasInputData td:TD1_Maria.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
-	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"namePublisher\" ] } ,  \"results\": {  \"bindings\": [ {  \"namePublisher\": {  \"type\":  \"uri\" ,  \"value\": \"https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/'Sony'\" } } ] } }";
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"namePublisher\" ] } ,  \"results\": {  \"bindings\": [ {  \"namePublisher\": {  \"type\":  \"uri\" ,  \"value\": \"https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/"Sony"\" } } ] } }";
 	owlunit:testsOntology pm: .
