@@ -8,5 +8,5 @@ tc:CQ2_Maria.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?lang WHERE{?Song pm:hasLanguage ?lang}" ;
 	owlunit:hasInputData td:TD2_Maria.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
-	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"lang\" ] } ,  \"results\": {  \"bindings\": [ {  \"lang\": {  \"type\":  \"literal\" ,  \"value\": \"en\" } } ] } }";
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"lang\" ] } ,  \"results\": {  \"bindings\": [ {  \"lang\": {  \"type\":  \"xml:lang\" ,  \"value\": \"en\" } } ] } }";
 	owlunit:testsOntology pm: .
