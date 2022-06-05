@@ -124,3 +124,4 @@ ERROR 2022-06-05 13:23:49,961 [main] (ErrorHandlerFactory.java:106) - [line: 4, 
  INFO 2022-06-05 13:26:05,072 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
  INFO 2022-06-05 13:26:06,642 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl doesn't define any test case.
  INFO 2022-06-05 13:34:29,518 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
+ INFO 2022-06-05 13:37:03,582 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
