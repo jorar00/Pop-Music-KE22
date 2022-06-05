@@ -173,3 +173,4 @@ ERROR 2022-06-05 16:28:48,641 [main] (ErrorHandlerFactory.java:106) - [line: 8, 
  INFO 2022-06-05 16:39:17,325 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
  INFO 2022-06-05 16:40:17,304 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
  INFO 2022-06-05 16:40:25,880 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
+ INFO 2022-06-05 16:41:52,918 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
