@@ -70,6 +70,8 @@
     <!-- http://www.semanticweb.org/KE/Ontology/PopMusic#hasRelease -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/KE/Ontology/PopMusic#hasRelease">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Recording"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Release"/>
         <rdfs:comment xml:lang="en">A relation between Recoridng and Release, where a Recording may be released one or more times.</rdfs:comment>
         <rdfs:label xml:lang="en">hasRelease</rdfs:label>
     </owl:ObjectProperty>
