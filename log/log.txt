@@ -142,3 +142,11 @@ ERROR 2022-06-05 13:23:49,961 [main] (ErrorHandlerFactory.java:106) - [line: 4, 
  INFO 2022-06-05 13:51:45,631 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
  INFO 2022-06-05 13:51:50,965 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl
  INFO 2022-06-05 13:51:52,565 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:52:20,841 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl
+ INFO 2022-06-05 13:52:22,424 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:52:24,333 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl
+ INFO 2022-06-05 13:52:25,903 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:52:27,949 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl
+ INFO 2022-06-05 13:52:29,501 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:52:30,966 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl
+ INFO 2022-06-05 13:52:32,534 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ4_Maria.ttl doesn't define any test case.
