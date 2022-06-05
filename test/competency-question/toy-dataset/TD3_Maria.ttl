@@ -4,4 +4,4 @@
 
 td:Song_01 pm:hasRecording td:Recording_01 .
 td:Recording_01 pm:hasRelease td:Release_01 .
-td:Release_01 pm:hasDate "10-10-2020" .
+td:Release_01 pm:hasDate "2020-10-10" .
