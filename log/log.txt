@@ -109,3 +109,11 @@ ERROR 2022-06-05 13:18:19,821 [main] (ErrorHandlerFactory.java:106) - [line: 5, 
  INFO 2022-06-05 13:19:38,732 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
  INFO 2022-06-05 13:20:09,565 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ1_Maria.ttl
  INFO 2022-06-05 13:20:21,430 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ1_Maria.ttl
+ INFO 2022-06-05 13:23:35,109 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
+ INFO 2022-06-05 13:23:36,972 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:23:47,045 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ERROR 2022-06-05 13:23:49,961 [main] (ErrorHandlerFactory.java:106) - [line: 4, col: 27] Unrecognized keyword: en
+ INFO 2022-06-05 13:24:10,125 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
+ INFO 2022-06-05 13:24:11,679 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl doesn't define any test case.
+ INFO 2022-06-05 13:25:04,156 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
+ INFO 2022-06-05 13:25:05,678 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl doesn't define any test case.

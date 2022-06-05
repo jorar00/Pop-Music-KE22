@@ -4,7 +4,7 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace/> .
 
-tc:CQ2_Maria.ttl a owlunit:CompetencyQuestionVerification ;
+tc:CQ3_Maria.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "Where is a certain Band form?" ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?place WHERE{?Band pm:hasPlace ?place}" ;
 	owlunit:hasInputData td:TD3_Maria.ttl ;
