@@ -2,7 +2,6 @@
 @prefix tc: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/> .
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace/> .
 
 tc:CQ3_Maria.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "Where is a certain Band form?" ;
