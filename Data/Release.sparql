@@ -1,0 +1,40 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
+PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+
+
+CONSTRUCT {
+    ?ReleaseMyNS a pm:Release;
+       pm:hasTitle ?releaseTitle;
+       pm:hasPackaging ?releasePackaging;
+       pm:hasDate ?releaseDate;
+       pm:hasAnnotation ?releaseAnnotation;
+       pm:hasPlace ?releaseCountry . 
+
+
+
+
+}WHERE{
+    SERVICE <x-sparql-anything:>{
+            fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_release_meta/release_0a4e95ce-c9b8-4ff1-91d2-2a0eaf3ef896_14.json" .
+
+            ?root rdf:type fx:root;
+                xyz:release ?release_NS.
+            ?release_NS xyz:id ?releaseID .
+            
+            OPTIONAL{?release_NS xyz:title ?releaseTitle .}
+            OPTIONAL{?release_NS xyz:packaging ?releasePackaging .}
+            OPTIONAL{?release_NS xyz:date ?releaseDate .}
+            OPTIONAL{?release_NS xyz:annotation ?annotation .}
+            OPTIONAL{?annotation xyz:text ?releaseAnnotation .}
+            OPTIONAL{?release_NS xyz:country ?releaseCountry .}
+
+           
+    }
+    
+
+
+BIND(fx:entity (pm:,"resource/Release/", ?releaseID) as ?ReleaseMyNS) .
+}
