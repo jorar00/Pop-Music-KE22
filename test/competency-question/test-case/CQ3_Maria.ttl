@@ -8,5 +8,5 @@ tc:CQ3_Maria.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?place WHERE{?Song pm:hasRecording ?Recording . ?Recording pm:hasRelease ?Release . ?Relase pm:hasDate ?date}" ;
 	owlunit:hasInputData td:TD3_Maria.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
-	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"date\" ] } ,  \"results\": {  \"bindings\": [ {  \"date\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#dateTime\" ,  \"value\": \"10-10-2020\" } } ] } }";
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"date\" ] } ,  \"results\": {  \"bindings\": [ {  \"date\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#dateTime\" ,  \"value\": \"2020-10-10\" } } ] } }";
 	owlunit:testsOntology pm: .
