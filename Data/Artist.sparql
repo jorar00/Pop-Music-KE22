@@ -2,7 +2,7 @@ PREFIX fx: <http://sparql.xyz/facade-x/ns/>
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
-PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+PREFIX pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> 
 
 
 CONSTRUCT {
@@ -24,7 +24,7 @@ CONSTRUCT {
 
 }WHERE{
     SERVICE <x-sparql-anything:>{
-        fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_artist_meta/artist_0cdc9b5b-b16b-4ff1-9f16-5b4ba76f1c17_1.json" .
+        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Beatles/Artist/artist_fd8dec5e-c45f-4761-9d15-c1fb675cc21b_1.json  " .
 
         ?root rdf:type fx:root;
             xyz:artist ?Band_NS.
