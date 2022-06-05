@@ -86,3 +86,5 @@ ERROR 2022-06-02 18:43:40,031 [main] (ErrorHandlerFactory.java:106) - [line: 11,
  INFO 2022-06-05 13:04:46,664 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
  INFO 2022-06-05 13:05:16,741 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
  INFO 2022-06-05 13:06:08,335 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ INFO 2022-06-05 13:06:57,686 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ INFO 2022-06-05 13:07:04,951 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
