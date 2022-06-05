@@ -1,7 +1,8 @@
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 
 td:Song_01 pm:hasRecording td:Recording_01 .
 td:Recording_01 pm:hasRelease td:Release_01 .
-td:Release_01 pm:hasDate "2020-10-10" .
+td:Release_01 pm:hasDate "2020-10-10"^^xsd:dateTime .
