@@ -92,3 +92,7 @@ ERROR 2022-06-02 18:43:40,031 [main] (ErrorHandlerFactory.java:106) - [line: 11,
  INFO 2022-06-05 13:11:05,636 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
  INFO 2022-06-05 13:13:26,804 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
 ERROR 2022-06-05 13:13:28,631 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
+ INFO 2022-06-05 13:14:14,434 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ERROR 2022-06-05 13:14:16,029 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
+ INFO 2022-06-05 13:14:36,993 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ERROR 2022-06-05 13:14:38,569 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
