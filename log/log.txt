@@ -100,3 +100,5 @@ ERROR 2022-06-05 13:14:38,569 [main] (ErrorHandlerFactory.java:106) - [line: 5, 
 ERROR 2022-06-05 13:15:18,662 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
  INFO 2022-06-05 13:15:51,086 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
 ERROR 2022-06-05 13:15:52,692 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
+ INFO 2022-06-05 13:16:38,645 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ERROR 2022-06-05 13:16:40,229 [main] (ErrorHandlerFactory.java:106) - [line: 5, col: 9 ] Bad IRI: <"http://www.w3.org/XML/1998/namespace"> Code: 0/ILLEGAL_CHARACTER in SCHEME: The character violates the grammar rules for URIs/IRIs.
