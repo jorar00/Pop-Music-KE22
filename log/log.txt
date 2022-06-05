@@ -130,3 +130,4 @@ ERROR 2022-06-05 13:23:49,961 [main] (ErrorHandlerFactory.java:106) - [line: 4, 
  INFO 2022-06-05 13:38:56,273 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
  INFO 2022-06-05 13:40:30,273 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ3_Maria.ttl
  INFO 2022-06-05 13:42:10,152 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
+ INFO 2022-06-05 13:42:57,538 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ2_Maria.ttl
