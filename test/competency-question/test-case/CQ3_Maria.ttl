@@ -4,9 +4,9 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 
 tc:CQ3_Maria.ttl a owlunit:CompetencyQuestionVerification ;
- 	owlunit:hasCompetencyQuestion "When was a certain song released?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?date WHERE{?Song pm:hasRecording ?Recording . ?Recording pm:hasRelease ?Release . ?Release pm:hasDate ?date}" ;
+ 	owlunit:hasCompetencyQuestion "What is the original language of a certain song?" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?language WHERE{?Song pm:hasLanguage ?language}" ;
 	owlunit:hasInputData td:TD3_Maria.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
-	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"date\" ] } ,  \"results\": {  \"bindings\": [ {  \"date\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#dateTime\" , \"type\":  \"literal\", \"value\": \"2010-03-23T13:40:22.489+00:00\" } } ] } }";
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"language\" ] } ,  \"results\": {  \"bindings\": [ {  \"language\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#language\" , \"type\":  \"literal\", \"value\": \"fr\" } } ] } }";
 	owlunit:testsOntology pm: .
