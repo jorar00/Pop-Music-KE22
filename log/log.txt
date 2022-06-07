@@ -202,3 +202,7 @@ ERROR 2022-06-07 11:34:59,360 [main] (ErrorHandlerFactory.java:106) - [line: 9, 
  INFO 2022-06-07 11:40:10,562 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/ireneherrero7/KE-pop/main/test/test-case/CQ4.ttl
  INFO 2022-06-07 11:41:40,274 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ1_Irene.ttl
 ERROR 2022-06-07 11:41:42,089 [main] (ErrorHandlerFactory.java:106) - [line: 6, col: 5 ] Unrecognized keyword: Photograph
+ INFO 2022-06-07 11:42:43,981 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ1_Irene.ttl
+ERROR 2022-06-07 11:42:45,364 [main] (ErrorHandlerFactory.java:106) - [line: 6, col: 5 ] Unrecognized keyword: Photograph
+ INFO 2022-06-07 11:43:45,038 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/CQ1_Irene.ttl
+ERROR 2022-06-07 11:43:46,372 [main] (ErrorHandlerFactory.java:106) - [line: 6, col: 5 ] Unrecognized keyword: Photograph

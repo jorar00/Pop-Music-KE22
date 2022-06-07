@@ -1,6 +1,0 @@
-@prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-
-td: Song1 pm:hasLanguage td: "en"^^xsd:language

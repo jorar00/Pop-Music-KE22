@@ -1,7 +1,0 @@
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl>
-
-
-SELECT DISTINCT ?language
-WHERE{
-    ?Song pm:hasLanguage ?language
-}
