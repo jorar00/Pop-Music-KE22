@@ -1,0 +1,9 @@
+PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> 
+
+
+SELECT ?nameMusician 
+
+WHERE{
+    ?Song pm:isPlayedBy ?Musician . 
+    ?Musician pm:hasName ?nameMusician
+    } 
