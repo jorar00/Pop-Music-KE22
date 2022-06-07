@@ -3,5 +3,5 @@ PREFIX pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontolo
 
 SELECT DISTINCT ?place
 WHERE{
-    ?Band pm:hasPlace "England" .
+    ?Band pm:hasPlace ?place .
 }
