@@ -1,14 +1,2 @@
-java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Work.sparql -o D:\Isophonics\output\output_Work.json
-
-
 java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Work.sparql -o D:\Isophonics\output\output_Work.ttl -f TTL
 
-java -jar sparql-anything-0.7.0.jar -q D:\Pop-Music-KE22\Data\Artist.sparql -o D:\Pop-Music-KE22\Data\Output\Artist 
-
-java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Recording.sparql -o D:\Isophonics\output\output_Recording.json
-
-
-java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Release.sparql -o D:\Isophonics\output\output_Release.json
-
-
-java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Artist.sparql -o D:\Isophonics\output\output_Artist.json
