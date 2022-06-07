@@ -2,4 +2,4 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 
 td:Song_01 pm:isPlayedBy td: Musician .
-td:Musician pm:hasName td: "EdSheeran" .
+td:Musician pm:hasName "EdSheeran" .
