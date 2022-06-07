@@ -1,8 +1,8 @@
 @prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> 
 
 
-SELECT DISTINCT ?place
+SELECT DISTINCT ?language
 WHERE{
-    ?songVersion pm:hasRelease ?release.
-    ?release pm:hasPlace ?place
+    ?song pm:hasVersion ?version .
+    ?version pm:hasLanguage ?language
 }
