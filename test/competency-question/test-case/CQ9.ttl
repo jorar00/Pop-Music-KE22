@@ -4,10 +4,10 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 
 
-tc:CQ9_2.ttl a owlunit:CompetencyQuestionVerification ;
+tc:CQ9.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "Who is the musician that plays a certain song?" ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?name WHERE{ ?song pm:isPlayedBy ?musician . ?musician pm:hasName ?name }" ;
-	owlunit:hasInputData td:TD9_2.ttl ;
+	owlunit:hasInputData td:TD9.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"name\" ] } ,  \"results\": {  \"bindings\": [ {  \"name\": {  \"type\":  \"literal\" ,  \"value\": \"MusicianName\" } } ] } }";
 	owlunit:testsOntology pm: .
