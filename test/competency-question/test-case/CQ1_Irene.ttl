@@ -1,0 +1,12 @@
+@prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
+@prefix tc: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/> .
+@prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+
+tc:CQ1_Irene.ttl a owlunit:CompetencyQuestionVerification ;
+ 	owlunit:hasCompetencyQuestion "What is the language of a certain song?" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?language WHERE{ ?Song pm:hasLanguage ?language }";
+    owlunit:hasInputData td:TD1_Irene.ttl ;
+	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"language\" ] } ,  \"results\": {  \"bindings\": [ {  \"language\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#language\" , \"type\":  \"literal\", \"value\": \"en\" } } ] } }";
+	owlunit:testsOntology pm: .
