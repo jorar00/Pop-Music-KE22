@@ -3,4 +3,4 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 
-td:musician pm:hasBeginDate "2015-04-11"^^xsd:dateTime .
+td:Musician pm:hasBeginDate "2015-04-11"^^xsd:dateTime .
