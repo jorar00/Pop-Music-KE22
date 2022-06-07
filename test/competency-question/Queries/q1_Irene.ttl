@@ -5,5 +5,5 @@ SELECT ?nameMusician
 
 WHERE{
     ?Song pm:isPlayedBy ?Musician . 
-    ?Musician pm:hasName ?nameMusician
+    ?Musician pm:hasName ?nameMusician . 
     } 
