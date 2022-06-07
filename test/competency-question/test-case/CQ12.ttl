@@ -6,7 +6,7 @@
 
 tc:CQ12.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "What is the begin date of a band?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?place WHERE{ ?Band pm:hasPlace ?place .}";
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?date WHERE{ ?Band pm:hasBeginDate ?date .}";
 	owlunit:hasInputData td:TD12.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"date\" ] } ,  \"results\": {  \"bindings\": [ {  \"date\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#dateTime\" , \"type\":  \"literal\", \"value\": \"2015-04-11\" } } ] } }";
