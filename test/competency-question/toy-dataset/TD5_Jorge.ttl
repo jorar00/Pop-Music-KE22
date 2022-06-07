@@ -2,6 +2,5 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-
 td:Song_01 pm:hasVersion td:Version_01 .
 td:Version_01 pm:hasTitle "VersionName_01" .   

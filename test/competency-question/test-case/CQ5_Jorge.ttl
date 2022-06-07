@@ -5,7 +5,7 @@
 
 tc:CQ5_Jorge.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "What is the title of one version of a song?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?title WHERE{ ?song pm:hasVersion ?version . ?version pm:hasTitle ?title }; "
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?title WHERE{ ?song pm:hasVersion ?version . ?version pm:hasTitle ?title } ";
 	owlunit:hasInputData td:TD5_Jorge.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"versionTitle\" ] } ,  \"results\": {  \"bindings\": [ {  \"versionTitle\": {  \"type\":  \"literal\" ,  \"value\": \"VersionName_01\" } } ] } }";

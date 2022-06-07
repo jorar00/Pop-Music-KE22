@@ -198,3 +198,7 @@ ERROR 2022-06-07 11:31:22,376 [main] (ErrorHandlerFactory.java:106) - [line: 9, 
 ERROR 2022-06-07 11:34:20,582 [main] (ErrorHandlerFactory.java:106) - [line: 9, col: 2 ] Triples not terminated by DOT
  INFO 2022-06-07 11:34:58,029 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_Jorge.ttl
 ERROR 2022-06-07 11:34:59,360 [main] (ErrorHandlerFactory.java:106) - [line: 9, col: 2 ] Triples not terminated by DOT
+ INFO 2022-06-07 11:36:05,367 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_Jorge.ttl
+ERROR 2022-06-07 11:36:06,778 [main] (ErrorHandlerFactory.java:106) - [line: 9, col: 2 ] Triples not terminated by DOT
+ INFO 2022-06-07 11:52:06,040 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/test/competency-question/test-case/CQ5_Jorge.ttl
+ERROR 2022-06-07 11:52:07,759 [main] (ErrorHandlerFactory.java:106) - [line: 9, col: 2 ] Triples not terminated by DOT
