@@ -1,0 +1,13 @@
+@prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
+@prefix tc: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/> .
+@prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+
+
+tc:CQ7.ttl a owlunit:CompetencyQuestionVerification ;
+ 	owlunit:hasCompetencyQuestion "Which is the length of a recording?" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?length WHERE{ ?recording pm:hasLength ?length . }" ;
+	owlunit:hasInputData td:TD7.ttl ;
+	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
+	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"length\" ] } ,  \"results\": {  \"bindings\": [ {  \"length\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#double\" , \"type\":  \"literal\", \"value\": \"3.42\" } } ] } }";
+	owlunit:testsOntology pm: .
