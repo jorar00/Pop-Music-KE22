@@ -1,7 +1,7 @@
-PREFIX pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> 
+PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl>
 
 
 SELECT DISTINCT ?place
 WHERE{
-    ?Band pm:hasPlace "England" .
+    ?Band pm:hasPlace ?place .
 }
