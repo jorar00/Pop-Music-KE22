@@ -1,0 +1,8 @@
+@prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> 
+
+
+SELECT DISTINCT ?title
+WHERE{
+    ?song pm:hasVersion ?version .
+    ?version pm:hasTitle ?title
+}
