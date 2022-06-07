@@ -2,7 +2,7 @@ PREFIX fx: <http://sparql.xyz/facade-x/ns/>
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
-PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic.owl/>
 
 
 CONSTRUCT {
