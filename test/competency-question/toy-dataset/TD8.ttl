@@ -2,4 +2,4 @@
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-td:recording pm:hasLength "4.7"^^xsd:double .
+td:recording pm:hasRate "4.7"^^xsd:double .
