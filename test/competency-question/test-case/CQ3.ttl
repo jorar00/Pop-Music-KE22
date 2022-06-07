@@ -3,10 +3,10 @@
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
 @prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
 
-tc:CQ3_Maria.ttl a owlunit:CompetencyQuestionVerification ;
+tc:CQ3.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "What is the original language of a certain song?" ;
  	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?language WHERE{?Song pm:hasLanguage ?language}" ;
-	owlunit:hasInputData td:TD3_Maria.ttl ;
+	owlunit:hasInputData td:TD3.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"language\" ] } ,  \"results\": {  \"bindings\": [ {  \"language\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#language\" , \"type\":  \"literal\", \"value\": \"fr\" } } ] } }";
 	owlunit:testsOntology pm: .
