@@ -1,0 +1,88 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
+PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+
+
+CONSTRUCT {
+    ?SongMyNS a pm:Song;
+        pm:hasLanguage ?lang ;
+        pm:hasTitle ?title ;
+        pm:hasRate ?rateSong;
+        pm:isPlayedBy ?MusicianMyNS ;
+        pm:isPublishedBy ?PublicatorMyNS ;
+        pm:hasRecording ?RecordingMyNS ;
+        pm:hasVersion ?VersionMyNS .
+
+    ?MusicianMyNS a pm:Musician ;
+        pm:hasName ?nameMusician .
+        
+    ?PublicatorMyNS a pm:Publicator ;
+        pm:hasName ?publicatorName .
+
+    ?RecordingMyNS a pm:Recording ;
+        pm:hasTitle ?recordingName ;
+        pm:hasLength ?recordingLength ;
+        pm:hasDisambiguation ?recordingDisambiguation ;
+        pm:hasBeginDate ?recoridingBeginningDate ;
+        pm:hasEndDate ?recoridingEndingDate .
+
+    ?VersionMyNS a pm:Version ;
+        pm:hasTitle ?versionTitle ;
+        pm:hasLanguage ?versionLanguage .
+
+
+}WHERE{
+    SERVICE <x-sparql-anything:>{ 
+        fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_work_meta/work_0c80db24-389e-3620-8e0b-84dc2b7c009a.json" .
+
+        ?root rdf:type fx:root;
+            xyz:work ?Song_NS.
+        ?Song_NS xyz:id ?songID.
+        BIND(fx:entity (pm:,"resource/Song/", ?songID) as ?SongMyNS) .
+
+        OPTIONAL {?Song_NS xyz:title ?title .}
+        OPTIONAL {?Song_NS xyz:language ?lang .}
+        OPTIONAL {?Song_NS xyz:rating ?rate .}
+        OPTIONAL {?rate xyz:rating ?rateSong .}
+
+        OPTIONAL {?Song_NS xyz:artist-relation-list/fx:anySlot ?Artist .}
+        ?Artist xyz:target ?musicianID .
+        BIND(fx:entity (pm:,"resource/Musician/", ?musicianID)  as ?MusicianMyNS) .
+        OPTIONAL {?Artist xyz:artist ?Musician .}
+        OPTIONAL {?Musician xyz:name ?nameMusician .}
+        OPTIONAL {?Musician xyz:disambiguation ?band .}
+
+        OPTIONAL {?Song_NS xyz:label-relation-list/fx:anySlot ?Publicator_NS .}
+        ?Publicator_NS xyz:target ?publicatorID .
+        BIND(fx:entity (pm:, "resource/Publicator/", ?publicatorID) as ?PublicatorMyNS) .
+        OPTIONAL {?Publicator_NS xyz:label ?publicatorLabel .}
+        OPTIONAL {?publicatorLabel xyz:name ?publicatorName .}
+
+        OPTIONAL {?Song_NS xyz:recording-relation-list/fx:anySlot ?Recording_NS .}
+        ?Recording_NS xyz:target ?recordingID .
+        BIND(fx:entity (pm:, "resource/Recording/", ?recordingID) as ?RecordingMyNS) .
+        OPTIONAL {?Recording_NS xyz:begin ?recoridingBeginningDate .}
+        OPTIONAL {?Recording_NS xyz:end ?recoridingEndingDate .}
+        OPTIONAL {?Recording_NS xyz:recording ?Recording .}
+        OPTIONAL {?Recording xyz:title ?recordingName .}
+        OPTIONAL {?Recording xyz:length ?recordingLength .}
+        OPTIONAL {?Recording xyz:disambiguation ?recordingDisambiguation .}
+
+        OPTIONAL {?Song_NS xyz:work-relation-list/fx:anySlot ?Version_NS .}
+        ?Version_NS xyz:target ?versionID .
+        BIND(fx:entity (pm:, "resource/Version/", ?versionID) as ?VersionMyNS) .
+        OPTIONAL {?Version_NS xyz:work ?version_work .}
+        OPTIONAL {?version_work xyz:title ?versionTitle .}
+        OPTIONAL {?version_work xyz:language ?versionLanguage .}
+
+
+
+        
+       
+        
+        
+    }
+  
+}

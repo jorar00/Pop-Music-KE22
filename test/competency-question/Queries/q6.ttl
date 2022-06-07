@@ -1,8 +1,0 @@
-@prefix pm: <https://raw.githubusercontent.com/jorar00/Pop-Music-KE22/main/Ontology/popMusic.owl> 
-
-
-SELECT DISTINCT ?instruments
-WHERE{
-    ?songVersion pm:hasMusicalFeatures ?musicFeatures .
-    ?instruments pm:subclassOf ?musicFeatures .
-}

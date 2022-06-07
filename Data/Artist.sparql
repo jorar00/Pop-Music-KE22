@@ -1,0 +1,59 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
+PREFIX pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> 
+
+
+CONSTRUCT {
+    ?BandMyNS a pm:Band;
+        pm:hasName ?nameBand;
+        pm:hasAnnotation ?annotationBand;
+        pm:hasPlace ?countryBand;
+        pm:hasBeginDate ?beginDateBand;
+        pm:hasEndDate ?endDateBand;
+        pm:containsMusician ?MusicianMyNS;
+        pm:hasRate ?rateBand .
+
+    ?MusicianMyNS a pm:Musician;
+        pm:hasName ?nameMusician;
+        pm:hasBeginDate ?BeginMusician;
+        pm:hasEndDate ?EndMusician;
+        pm:hasAttribute ?attributesMusician .
+        
+
+}WHERE{
+    SERVICE <x-sparql-anything:>{
+        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Beatles/Artist/artist_fd8dec5e-c45f-4761-9d15-c1fb675cc21b_1.json  " .
+
+        ?root rdf:type fx:root;
+            xyz:artist ?Band_NS.
+        ?Band_NS xyz:id ?bandID.
+        OPTIONAL{?Band_NS xyz:name ?nameBand .}
+        OPTIONAL{?Band_NS xyz:annotation ?annotation .}
+        OPTIONAL{?annotation xyz:text ?annotationBand .}
+        OPTIONAL{?Band_NS xyz:country ?countryBand .}
+        OPTIONAL{?Band_NS xyz:life-span ?lifeBand .}
+        OPTIONAL{?lifeBand xyz:begin ?beginDateBand .}
+        OPTIONAL{?lifeBand xyz:end ?endDateBand .}
+        OPTIONAL{?Band_NS xyz:rating ?rate .}
+        OPTIONAL{?rate xyz:rating ?rateBand .}
+
+        ?Band_NS xyz:artist-relation-list/fx:anySlot ?Musician_NS .
+        ?Musician_NS xyz:type ?type . 
+        FILTER(?type="member of band").
+        ?Musician_NS xyz:target ?musicianID .
+        OPTIONAL{?Musician_NS xyz:begin ?BeginMusician .}
+        OPTIONAL{?Musician_NS xyz:end ?EndMusician .}
+        OPTIONAL{?Musician_NS xyz:artist ?Artist .}
+        OPTIONAL{?Artist xyz:name ?nameMusician .}
+        OPTIONAL{?Musician_NS xyz:attributes ?Attribute .}
+        OPTIONAL{?Attribute xyz:attribute ?attributesMusician .}
+
+
+        BIND(fx:entity (pm:,"resource/Band/", ?bandID)  as ?BandMyNS) .
+        BIND(fx:entity (pm:,"resource/Musician/", ?musicianID)  as ?MusicianMyNS) .
+        }
+
+}
+   

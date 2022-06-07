@@ -1,0 +1,65 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
+PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+
+
+CONSTRUCT {
+     ?RecordingMyNS a pm:Recording;
+        pm:hasTitle ?recordingTitle;
+        pm:hasLength ?recordingLength;
+        pm:hasDisambiguation ?recordingDisambiguation;
+        pm:hasAnnotatiton ?recordingAnotation;
+        pm:hasRelease ?ReleaseMyNS;
+        pm:hasRate ?recordingRate ;
+        pm:hasPlace ?recordingPlace ;
+        pm:hasDate ?recordingDate .
+
+    ?ReleaseMyNS a pm:Release;
+        pm:hasTitle ?releaseTitle;
+        pm:hasDisambiguation ?releaseDisambiguation;
+        pm:hasPackaging ?releasePackaging;
+        pm:hasDate ?releaseDate;
+        pm:hasPlace ?releaseCountry .
+
+
+
+
+}WHERE{
+    SERVICE <x-sparql-anything:> {
+        fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_recording_meta/recording_da77d23c-3acb-4b3d-9596-24aa55f03ece.json" .
+
+            ?root rdf:type fx:root;
+                xyz:recording ?recording_NS.
+            ?recording_NS xyz:id ?recordingID.
+
+        OPTIONAL{?recording_NS xyz:title ?recordingTitle .}
+        OPTIONAL{?recording_NS xyz:length ?recordingLength .}
+        OPTIONAL{?recording_NS xyz:disambiguation ?recordingDisambiguation .}
+        OPTIONAL{?recording_NS xyz:anotation ?anotation .}
+        OPTIONAL{?anotation xyz:text ?recordingAnotation .}
+        OPTIONAL{?recording_NS xyz:rating ?rate .}
+        OPTIONAL{?rate xyz:rating ?recordingRate .}
+        OPTIONAL{?recoridng_NS xyz:place-relation-list/fx:anySlot ?place_list.}
+        OPTIONAL{?place_list xyz:type ?type . }
+        FILTER(?type="recorded at").
+        OPTIONAL{?place_list xyz:begin ?recordingDate .}
+        OPTIONAL{?place_list xyz:place ?place .}
+        OPTIONAL{?place xyz:name ?recordingPlace}
+
+        OPTIONAL{?recording_NS xyz:release-list/fx:anySlot ?release_NS .}
+        ?release_NS xyz:id ?releaseID .
+        OPTIONAL{?release_NS xyz:title ?releaseTitle .}
+        OPTIONAL{?release_NS xyz:disambiguation ?releaseDisambiguation .}
+        OPTIONAL{?release_NS xyz:packaging ?releasePackaging .}
+        OPTIONAL{?release_NS xyz:date ?releaseDate .}
+        OPTIONAL{?release_NS xyz:country ?releaseCountry .}
+
+
+        BIND(fx:entity (pm:,"resource/Recording/", ?recordingID) as ?RecordingMyNS) .
+        BIND(fx:entity (pm:,"resource/Release/", ?releaseID) as ?ReleaseMyNS) .
+
+    }
+   
+}
