@@ -29,7 +29,7 @@ CONSTRUCT {
     
 }WHERE{
     SERVICE <x-sparql-anything:> {
-        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Queen/Recording/recording_d4009c09-a339-4b89-bc45-d91ab649acb6.json" .
+        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Queen/Recording/recording_471dc436-80be-4f06-bc8f-7e2685876cfc.json" .
 
             ?root rdf:type fx:root;
                 xyz:recording ?recording_NS.
@@ -46,7 +46,7 @@ CONSTRUCT {
         OPTIONAL{?rate xyz:rating ?recordingRate .}
         OPTIONAL{?recoridng_NS xyz:place-relation-list/fx:anySlot ?place_list.}
         OPTIONAL{?place_list xyz:type ?type . }
-        FILTER(?type="recorded at").
+        OPTIONAL{FILTER(?type="recorded at").}
         OPTIONAL{?place_list xyz:begin ?recordingDate .}
         OPTIONAL{?place_list xyz:place ?place .}
         OPTIONAL{?place xyz:name ?recordingPlace .}
