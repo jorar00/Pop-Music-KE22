@@ -62,7 +62,6 @@
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Recording"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Artist"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Band"/>
         <rdfs:comment xml:lang="en">A relation between Recording and Artist, where theArtist is itself the owner of the credits of the Record.</rdfs:comment>
         <rdfs:label xml:lang="en">hasCreditArtist</rdfs:label>
     </owl:ObjectProperty>
@@ -106,7 +105,6 @@
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Recording"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Artist"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Musician"/>
         <rdfs:comment xml:lang="en">A relation between Recording and Artist, where theArtist is itself the one who interpretates the Recording.</rdfs:comment>
         <rdfs:label xml:lang="en">isPlayedBy</rdfs:label>
     </owl:ObjectProperty>
