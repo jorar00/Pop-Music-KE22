@@ -93,6 +93,7 @@
     <!-- http://www.semanticweb.org/KE/Ontology/PopMusic#isComposedBy -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/KE/Ontology/PopMusic#isComposedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Song"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/KE/Ontology/PopMusic#Artist"/>
         <rdfs:comment xml:lang="en">A relation between Song  and Artist, where the Artist is itself the one who composes the Song.</rdfs:comment>
