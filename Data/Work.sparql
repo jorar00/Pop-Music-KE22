@@ -2,7 +2,7 @@ PREFIX fx: <http://sparql.xyz/facade-x/ns/>
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
-PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic_New.owl/>
+PREFIX pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> 
 
 
 CONSTRUCT {
@@ -10,23 +10,26 @@ CONSTRUCT {
         pm:hasLanguage ?lang ;
         pm:hasTitle ?title ;
         pm:hasRate ?rateSong;
-        pm:isPlayedBy ?MusicianMyNS ;
+        pm:isComposedBy ?MusicianMyNS ;
         pm:isPublishedBy ?PublicatorMyNS ;
         pm:hasRecording ?RecordingMyNS ;
         pm:hasVersion ?VersionMyNS .
 
-    ?MusicianMyNS a pm:Musician ;
-        pm:hasName ?nameMusician .
+    ?MusicianMyNS rdfs:subClassOf pm:Artist;
+        a pm:Musician ;
+        pm:hasName ?nameMusician ;
+        pm:hasBeginDate ?BeginMusician;
+        pm:hasEndDate ?EndMusician;
+        pm:hasRole ?roleMusician .
         
     ?PublicatorMyNS a pm:Publicator ;
         pm:hasName ?publicatorName .
 
     ?RecordingMyNS a pm:Recording ;
-        pm:hasTitle ?recordingName ;
-        pm:hasLength ?recordingLength ;
-        pm:hasDisambiguation ?recordingDisambiguation ;
-        pm:hasBeginDate ?recoridingBeginningDate ;
-        pm:hasEndDate ?recoridingEndingDate .
+        pm:hasTitle ?recordingTitle;
+        pm:hasLength ?recordingLength;
+        pm:hasDisambiguation ?recordingDisambiguation;
+        pm:hasDate ?recordingDate .
 
     ?VersionMyNS a pm:Version ;
         pm:hasTitle ?versionTitle ;
@@ -35,7 +38,7 @@ CONSTRUCT {
 
 }WHERE{
     SERVICE <x-sparql-anything:>{ 
-        fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_work_meta/work_0c80db24-389e-3620-8e0b-84dc2b7c009a.json" .
+        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Beatles/Work/work_a8a158e3-0a0e-37e1-b5b5-9480a02d816e.json" .
 
         ?root rdf:type fx:root;
             xyz:work ?Song_NS.
@@ -50,9 +53,11 @@ CONSTRUCT {
         OPTIONAL {?Song_NS xyz:artist-relation-list/fx:anySlot ?Artist .}
         ?Artist xyz:target ?musicianID .
         BIND(fx:entity (pm:,"resource/Musician/", ?musicianID)  as ?MusicianMyNS) .
+        OPTIONAL{?Artist xyz:begin ?BeginMusician .}
+        OPTIONAL{?Artist xyz:end ?EndMusician .}
+        OPTIONAL{?Artist xyz:type ?roleMusician .}
         OPTIONAL {?Artist xyz:artist ?Musician .}
         OPTIONAL {?Musician xyz:name ?nameMusician .}
-        OPTIONAL {?Musician xyz:disambiguation ?band .}
 
         OPTIONAL {?Song_NS xyz:label-relation-list/fx:anySlot ?Publicator_NS .}
         ?Publicator_NS xyz:target ?publicatorID .
@@ -63,10 +68,9 @@ CONSTRUCT {
         OPTIONAL {?Song_NS xyz:recording-relation-list/fx:anySlot ?Recording_NS .}
         ?Recording_NS xyz:target ?recordingID .
         BIND(fx:entity (pm:, "resource/Recording/", ?recordingID) as ?RecordingMyNS) .
-        OPTIONAL {?Recording_NS xyz:begin ?recoridingBeginningDate .}
-        OPTIONAL {?Recording_NS xyz:end ?recoridingEndingDate .}
+        OPTIONAL {?Recording_NS xyz:begin ?recoridingDate .}
         OPTIONAL {?Recording_NS xyz:recording ?Recording .}
-        OPTIONAL {?Recording xyz:title ?recordingName .}
+        OPTIONAL {?Recording xyz:title ?recordingTitle .}
         OPTIONAL {?Recording xyz:length ?recordingLength .}
         OPTIONAL {?Recording xyz:disambiguation ?recordingDisambiguation .}
 

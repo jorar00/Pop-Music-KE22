@@ -2,7 +2,7 @@ PREFIX fx: <http://sparql.xyz/facade-x/ns/>
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org./2000/01/rdf-schema#>
-PREFIX pm: <https://raw.githubusercontent.com/mariasanvill/PopMusic/main/Ontology/PopMusic.owl/>
+PREFIX pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> 
 
 
 CONSTRUCT {
@@ -11,18 +11,48 @@ CONSTRUCT {
        pm:hasPackaging ?releasePackaging;
        pm:hasDate ?releaseDate;
        pm:hasAnnotation ?releaseAnnotation;
-       pm:hasPlace ?releaseCountry . 
+       pm:hasPlace ?releaseCountry ;
+       pm:hasType ?typeRelease;
+       pm:hasCreditArtist ?BandMyNS_Release ;
+       pm:containsRecordings ?RecordingMyNS .
+    
+    ?BandMyNS_Release rdfs:subClassOf pm:Artist;
+        a pm:Band;
+        pm:hasName ?nameBandRelease .
+
+
+
+    ?RecordingMyNS a pm:Recording ;
+        pm:hasTitle ?recordingTitle;
+        pm:hasLength ?recordingLength;
+        pm:hasDisambiguation ?recordingDisambiguation;
+        pm:hasAnnotatiton ?recordingAnotation;
+        pm:hasRate ?recordingRate ;
+        pm:hasCreditArtist ?BandMyNS;
+        pm:isPlayedBy ?MusicianMyNS .
+
+    ?MusicianMyNS rdfs:subClassOf pm:Artist;
+        a pm:Musician;
+        pm:hasName ?nameMusician;
+        pm:hasBeginDate ?BeginMusician;
+        pm:hasEndDate ?EndMusician .
+
+    ?BandMyNS rdfs:subClassOf pm:Artist;
+        a pm:Band;
+        pm:hasName ?nameBand .
+   
 
 
 
 
 }WHERE{
     SERVICE <x-sparql-anything:>{
-            fx:properties fx:location "D:/Isophonics/cornucopia_data/musicbrainz/iso_beatles_release_meta/release_0a4e95ce-c9b8-4ff1-91d2-2a0eaf3ef896_14.json" .
+            fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Beatles/Release/release_3efc3a17-a43c-4d02-8379-003668d3aaea_22.json" .
 
             ?root rdf:type fx:root;
                 xyz:release ?release_NS.
             ?release_NS xyz:id ?releaseID .
+            BIND(fx:entity (pm:,"resource/Release/", ?releaseID) as ?ReleaseMyNS) .
             
             OPTIONAL{?release_NS xyz:title ?releaseTitle .}
             OPTIONAL{?release_NS xyz:packaging ?releasePackaging .}
@@ -30,11 +60,45 @@ CONSTRUCT {
             OPTIONAL{?release_NS xyz:annotation ?annotation .}
             OPTIONAL{?annotation xyz:text ?releaseAnnotation .}
             OPTIONAL{?release_NS xyz:country ?releaseCountry .}
+            OPTIONAL{?release_NS xyz:release-group ?release_group .}
+            OPTIONAL{?release_group xyz:type ?typeRelease .}
 
-           
+            OPTIONAL{?release_NS xyz:artist-credit/fx:anySlot ?Artist_Credit_Release .}
+            OPTIONAL{?Artist_Credit_Release xyz:artist ?Band_Release .}
+            ?Band_Release xyz:type "Group" .
+            OPTIONAL{?Band_Release xyz:id ?BandIDRelease .}
+            OPTIONAL{?Band_Release xyz:name ?nameBandRelease .}
+            BIND(fx:entity (pm:,"resource/Band/", ?BandIDRelease) as ?BandMyNS_Release) .
+
+            OPTIONAL{?release_NS xyz:medium-list/fx:anySlot ?medium_list .}
+            OPTIONAL{?medium_list xyz:track-list/fx:anySlot ?track_list .}
+            OPTIONAL{?track_list xyz:recording ?recording_NS .}
+            OPTIONAL{?recording_NS xyz:id ?recordingID .}
+            OPTIONAL{?recording_NS xyz:title ?recordingTitle .}
+            OPTIONAL{?recording_NS xyz:length ?recordingLength .}
+            OPTIONAL{?recording_NS xyz:disambiguation ?recordingDisambiguation .}
+            OPTIONAL{?recording_NS xyz:rating ?rate .}
+            OPTIONAL{?rate xyz:rating ?recordingRate .}
+            BIND(fx:entity (pm:,"resource/Recording/", ?recordingID) as ?RecordingMyNS) .
+
+            OPTIONAL{?recording_NS xyz:artist-credit/fx:anySlot ?Artist_Credit .}
+            OPTIONAL{?Artists_Credit xyz:artist ?Band .}
+            ?Band xyz:type "Group" .
+            OPTIONAL{?Band xyz:id ?BandID .}
+            OPTIONAL{?Band xyz:name ?nameBand .}
+            BIND(fx:entity (pm:,"resource/Band/", ?BandID) as ?BandMyNS) .
+
+            OPTIONAL{?recording_NS xyz:artist-relation-list/fx:anySlot ?Artist .}
+            OPTIONAL{?Artist xyz:begin ?BeginMusician .}
+            OPTIONAL{?Artist xyz:end ?EndMusician .}
+            OPTIONAL{?Artist xyz:artist ?Musician .}
+            ?Musician xyz:type "Person" .
+            OPTIONAL{?Musician xyz:id ?MusicianID .}
+            OPTIONAL{?Musician xyz:name ?nameMusician .}
+            BIND(fx:entity (pm:,"resource/Musician/", ?MusicianID) as ?MusicianMyNS) .
+
+          
     }
     
 
-
-BIND(fx:entity (pm:,"resource/Release/", ?releaseID) as ?ReleaseMyNS) .
 }
