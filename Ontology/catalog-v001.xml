@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1654671672312" name="http://www.semanticweb.org/KE/Ontology/PopMusic" uri="popMusic.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1654672427436" name="http://www.semanticweb.org/KE/Ontology/PopMusic" uri="popMusic.owl"/>
     </group>
 </catalog>
