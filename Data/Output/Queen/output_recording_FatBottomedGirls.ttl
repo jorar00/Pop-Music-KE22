@@ -1,0 +1,55 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Queen" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Brian May" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Roger Taylor" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Freddie Mercury" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Etchells" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Roy Thomas Baker" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Deacon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Geoff Workman" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eab2a796-b692-4c95-97ee-092517da0345>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasDate          "1978-07" ;
+        pm:hasLength        "203000" ;
+        pm:hasPlace         "Super Bear Studios" , "Mountain Studios" ;
+        pm:hasRate          "4" ;
+        pm:hasTitle         "Fat Bottomed Girls" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> .

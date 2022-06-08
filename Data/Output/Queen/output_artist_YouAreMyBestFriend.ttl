@@ -1,0 +1,75 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3>
+        rdf:type             pm:Band ;
+        rdfs:subClassOf      pm:Artist ;
+        pm:containsMusician  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/8d1a38a7-7e7b-4673-ad32-b4833f88842f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ad040bd7-b175-4c3a-ab93-d27f4d541235> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/8201ee6e-a7d8-4e10-aebd-60699d7e91cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> ;
+        pm:hasBeginDate      "1970-06-27" ;
+        pm:hasName           "Queen" ;
+        pm:hasPlace          "GB" ;
+        pm:hasRate           "4.7" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "guitar" , "background vocals" ;
+        pm:hasBeginDate  "1970" ;
+        pm:hasName       "Brian May" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "drums (drum set)" , "background vocals" ;
+        pm:hasBeginDate  "1970" ;
+        pm:hasName       "Roger Taylor" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "lead vocals" ;
+        pm:hasBeginDate  "1970" ;
+        pm:hasEndDate    "1991-11-24" ;
+        pm:hasName       "Freddie Mercury" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/8201ee6e-a7d8-4e10-aebd-60699d7e91cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "bass guitar" ;
+        pm:hasBeginDate  "1971-01" ;
+        pm:hasEndDate    "1971-02" ;
+        pm:hasName       "Doug Bogie" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "bass guitar" ;
+        pm:hasBeginDate  "1971-02" ;
+        pm:hasEndDate    "1997" ;
+        pm:hasName       "John Deacon" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/8d1a38a7-7e7b-4673-ad32-b4833f88842f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "bass guitar" ;
+        pm:hasBeginDate  "1970-06" ;
+        pm:hasEndDate    "1970-08" ;
+        pm:hasName       "Mike Grose" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ad040bd7-b175-4c3a-ab93-d27f4d541235>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "bass guitar" ;
+        pm:hasBeginDate  "1970-08" ;
+        pm:hasEndDate    "1971-01" ;
+        pm:hasName       "Barry Mitchell" ;
+        pm:hasRole       "member of band" .

@@ -47,7 +47,7 @@ CONSTRUCT {
 
 }WHERE{
     SERVICE <x-sparql-anything:>{
-            fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Beatles/Release/release_3efc3a17-a43c-4d02-8379-003668d3aaea_22.json" .
+            fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Queen/Release/release_04fa4243-e37c-479c-ab0e-b981b0be63da_25.json" .
 
             ?root rdf:type fx:root;
                 xyz:release ?release_NS.

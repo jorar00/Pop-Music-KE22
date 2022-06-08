@@ -1,0 +1,827 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f20888a2-b11c-47fe-905d-5fa7bb16e87a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124373" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d4b3875-9ad4-4da4-b8bb-b5e6872784a7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "231000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11b20c90-93f9-4df1-9048-639b99959de7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83aa22e9-270d-4c37-b166-fb6d3088ad66>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109987" ;
+        pm:hasTitle   "Do You Want to Know a Secret (live at BBC for “Saturday Club” / 26th January, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e365a47-835d-4f3e-825d-a9d1a82a2a07>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0baa3db6-ce7d-4eab-b7b8-e67a0632518a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0414d6c-1d98-46ca-a7e7-4808794a7d7d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8837689b-9963-46f7-ad1b-a0ec87f4db04>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4fa7f12-8c8e-4620-a755-1b646a2b7119>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122600" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9622ece9-6340-4959-abe1-57cb13076e92>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ff141f87-5156-4ee7-bdaa-263ca952a4ee>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb1a30ba-b86e-4f2f-b8c5-0239034fbd09>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0044510-ac1d-4493-b0a1-9323036daa26>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128733" ;
+        pm:hasTitle   "Do You Want To Know A Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0602c3e7-55ee-45d4-b30e-855e6d182368>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115040" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0636459-22bc-4294-b406-f1200ff99cc8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "120000" ;
+        pm:hasTitle           "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1ec27cd-6d58-4422-9633-045fc2331835>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4745aca-c2e4-445a-b72b-69fb4d5a424f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5dd0e652-8f4f-44bc-a4d5-11d8a8def805>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/fb3fe0c9-6af4-4962-907b-8007fc4b0411>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Metric Music Co" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a8da5deb-8ef5-4653-a7d0-c38846f579de>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Unart Catalog Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce8ddf9c-1b76-4353-a3d4-274f372ba673>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/376a5680-6c24-4f26-a3f0-c7e1105c880b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129000" ;
+        pm:hasTitle   "Do You Want to Know a Secret? (vocals)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6faf599b-152e-4a20-b493-2083fc49dadf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2df92299-b2b1-4623-9e1a-0688a6e9af62>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40a9164d-2c5e-4fad-aa75-e54874baa7a7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115733" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebbcdb7b-bd5f-4f56-8f29-fc03b280719b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121951" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e663ebdf-4407-4e17-b5cc-19c2ebe09cb1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127133" ;
+        pm:hasTitle   "Do You Want Ot Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b2f7dc2-1e15-41ab-9b20-096b8985739c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125533" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b92bd0a4-739b-473c-90d8-e0c9a81db3db>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125231" ;
+        pm:hasTitle   "Do You Want To Know A Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/140bdcdc-c3bc-4395-bc39-b33f2d246a2e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159666" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a063b78-84af-4da9-87fe-64a08fa96525>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126346" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f3194d7-211a-4b3b-85e5-e3d99bad3fdd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127066" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e488f198-4c71-4712-9f47-d22a3ef18b56>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129306" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76bc3c71-3a11-4b00-a9d7-a2441ed7f6f3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret (take 8 - Complete M)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/beb8f081-e920-4f3f-b243-22b3171bf11d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "169000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9914f5b2-084e-4159-ac36-190eaaf11832>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157333" ;
+        pm:hasTitle   "Do You Want to Know a Secret (track 2, take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3481913-69f6-439d-9def-6610ab16d1d2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123066" ;
+        pm:hasTitle   "Do You Want to Know a Secret (track 2, take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e15a56b9-efe0-4474-a89d-947efe0e1051>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "re-recorded by the artist" ;
+        pm:hasLength          "126173" ;
+        pm:hasTitle           "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac58e9b6-5ae1-491d-abd1-d66a946bbb41>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127640" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc0f1218-81d8-4f47-ad42-755a69b097f2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122573" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "MCA Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4291206-bfbf-461f-841f-8fe375b27549>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b7d92c9-edde-42bf-9c77-26740c5b659e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret? (RM take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/408039bf-eeac-4ef9-ae9f-184f5e2502c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126546" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27ac01e7-ad99-4ca6-ab0a-95a3d14a2900>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/037f79a5-6663-4036-a796-09d594b23e70>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret (take 7 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5eb89c88-3f00-4cbd-b4a9-92d37a61d521>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "113640" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a896ba3c-797e-4699-bac8-31ae45edb199>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/711fe399-29c2-43da-9684-d66a0cae4dae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fcf9ed2-4e76-406d-86f4-d6e59eab7661>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5486b5b4-c153-4718-9f48-c144a53eaa9a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89315129-c48e-48ba-b7fc-1fe65f29691f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129493" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5f13a2f-5f03-4b9f-a8a0-f1b8145d22c5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/387d7374-445e-4622-a74a-eba574054724>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89d11700-f1d8-428d-8e57-cd52a3dd5ac7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d29f19cb-1236-41ec-92b8-6c2ba1e74c91>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a2f3729-0c4b-4dcf-ada2-84a1cd0594ec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84b814cd-4383-4715-b77b-9b23feed5560>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐03‐06: Playhouse Theatre, Manchester, UK" ;
+        pm:hasLength          "112000" ;
+        pm:hasTitle           "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Northern Songs Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b29db6f7-841e-418a-a4ea-cff314ee3d77>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Stars on 45" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cac17b3f-5625-444c-b835-9c11ae6c0192>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Stars on 45" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d830a9bd-67c4-4c5c-a1b0-bb7e6687e953>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3c37580-789c-42d4-a906-ee0cf5cf4649>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "117013" ;
+        pm:hasTitle           "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bd080c2-8994-4148-b876-11e123309671>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want To Know A Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b8d97e7-538f-4904-a509-169a4f1f4c64>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42bf0ec8-7728-4028-8673-476a18c5675d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166946" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddf1c051-fbb1-4eb5-9fea-db7edb4021ff>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eabeddf-dd73-480d-ada9-6bcd0fe8bc06>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret [Bolero]" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d61b9bd-dd96-426e-ae19-ad1f16df1ebf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a0616d-10ac-4cd2-90b8-6dbdae6dc04e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "re‐recording" ;
+        pm:hasLength          "134186" ;
+        pm:hasTitle           "You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5caf3025-5480-492e-b20f-27b0991c3e13>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82c8e8c2-4e29-449a-8c7f-339bd6b835be>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126573" ;
+        pm:hasTitle   "Do You Want to Know a Secret? (take 8, track 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1193c7ec-c016-48d8-be19-e5f77d546e3e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44656b2c-f80d-4fd1-985c-741c26599ff9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126173" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de49cde5-58ab-483a-ad13-87b3552accc9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e467965-7de1-4549-97d1-f67b0516d657>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Хочешь Узнать Тайно? = Do You Want To Know A Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91be5feb-e968-4c4f-968e-384bcec18ed2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cfe50967-61b1-4aef-b94f-25ef5e89ace8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127173" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/085f4690-4d15-4b88-8826-014d9dc2e6d8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (track 2 take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ee8a8f0-3d8f-4099-877e-0c2a5255e6d4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06db05c4-1489-4f5c-ad9d-438f3e7ba0ab>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123875" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6c379df-b3aa-43f2-93fa-3d1170f3a57a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want To Know A Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf3e7301-7b95-40e6-a067-a580f89e8e98>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119093" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/984b73d1-b9f4-4c99-991b-436927a6f7e2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8efaa443-95fd-4b02-816e-981c1f354a85>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164133" ;
+        pm:hasTitle   "Do You Want to Know a Secret? (take 8: 1963-02-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a715f6aa-c71d-414d-99a6-25d67e072304>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef8011bb-0043-43b3-999c-715d7a9cfe11>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25e63cb8-074b-47d4-9f16-98330cbd9cbb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129066" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fbababb-bea9-4651-8716-edff4924735c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7199640d-8561-47a8-8760-6a384653a777>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret (1963-03-06)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d2d3ce9-d617-4e7d-a35d-dcdd853152c5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26feb54b-11ad-4da5-971a-4c7322cbb9a2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17526e07-a4f9-4b4e-bb71-4913b9455d3d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret? (RS take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462e36a2-e40d-4082-8fc0-97e366a59e07>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142956" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/117c4819-d8e3-4c9f-bd6c-4a51a2671376>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df9d3a6e-fa05-4e9d-8535-c1b7489b9a7a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180346" ;
+        pm:hasTitle   "Dow You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec5f5c3b-eb56-4333-af0a-baafbaaecec5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125333" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcf8422c-7cf8-4bab-80df-f01f60fe2e9e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b0ec4de-e7c6-49b0-a224-81135ecf1660>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84f0a224-2df6-46b8-a891-6d83019b974e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cb2c52e-f122-438d-9a39-6971a6a65c09>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161333" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/bf51bdc8-5623-36af-a516-083166bb0bff>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0044510-ac1d-4493-b0a1-9323036daa26> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd518ff5-6957-4f1e-9554-3cc419dd5428> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ff141f87-5156-4ee7-bdaa-263ca952a4ee> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/948bcb17-52f4-4bc4-8796-e45b0a9df6de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fb08f58-66ff-42cb-bd2f-5c2717e6dfb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fcf9ed2-4e76-406d-86f4-d6e59eab7661> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84f0a224-2df6-46b8-a891-6d83019b974e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8837689b-9963-46f7-ad1b-a0ec87f4db04> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0636459-22bc-4294-b406-f1200ff99cc8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af434a81-c74f-4a4f-a534-56a625ab7c4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e488f198-4c71-4712-9f47-d22a3ef18b56> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06da1280-bd74-4225-96d7-1810d761713b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f08a21a-2f18-48f8-bc52-978e9342aa1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d4b3875-9ad4-4da4-b8bb-b5e6872784a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d2d3ce9-d617-4e7d-a35d-dcdd853152c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebbcdb7b-bd5f-4f56-8f29-fc03b280719b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02854508-6469-4e3f-8d56-5a28935f4636> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5c8dca0-a8b6-4735-a50d-35c777b6f434> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/196d9997-5bc5-420b-9da1-08481f46051c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a063b78-84af-4da9-87fe-64a08fa96525> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf3e7301-7b95-40e6-a067-a580f89e8e98> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac58e9b6-5ae1-491d-abd1-d66a946bbb41> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/408039bf-eeac-4ef9-ae9f-184f5e2502c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2df92299-b2b1-4623-9e1a-0688a6e9af62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef8011bb-0043-43b3-999c-715d7a9cfe11> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82c8e8c2-4e29-449a-8c7f-339bd6b835be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a2f3729-0c4b-4dcf-ada2-84a1cd0594ec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/beb8f081-e920-4f3f-b243-22b3171bf11d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462e36a2-e40d-4082-8fc0-97e366a59e07> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5486b5b4-c153-4718-9f48-c144a53eaa9a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d1ab403-6a9c-405c-bf05-b46d3a271bfe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8efaa443-95fd-4b02-816e-981c1f354a85> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08e9e817-6983-46be-a497-ea1018cf316c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1bc3327b-b292-4a8b-95d4-41dca5506e42> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b12b768-38a9-450b-ad37-7d8648f37af6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cfe50967-61b1-4aef-b94f-25ef5e89ace8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ee8a8f0-3d8f-4099-877e-0c2a5255e6d4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8d862e9-5aa5-4c0d-bc9d-5269e2e67ced> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a0616d-10ac-4cd2-90b8-6dbdae6dc04e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3943890d-a6bc-4d64-b849-d1cdd009ada4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec5f5c3b-eb56-4333-af0a-baafbaaecec5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5eb89c88-3f00-4cbd-b4a9-92d37a61d521> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46add2da-cc42-4bcd-967c-17125dca17de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dff8487-9494-47e2-9086-599cb980ce7c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9622ece9-6340-4959-abe1-57cb13076e92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0602c3e7-55ee-45d4-b30e-855e6d182368> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0a7187-6852-4173-bd58-52d925e93c4c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d61b9bd-dd96-426e-ae19-ad1f16df1ebf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2439eba-b7c6-4010-a7aa-72e4e40e7031> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e45cf6d3-9faf-4f08-a655-e54ceda7337b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de49cde5-58ab-483a-ad13-87b3552accc9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fbababb-bea9-4651-8716-edff4924735c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5f13a2f-5f03-4b9f-a8a0-f1b8145d22c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a896ba3c-797e-4699-bac8-31ae45edb199> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89d11700-f1d8-428d-8e57-cd52a3dd5ac7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0baa3db6-ce7d-4eab-b7b8-e67a0632518a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4745aca-c2e4-445a-b72b-69fb4d5a424f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/10b5eb76-ac9e-44aa-904c-de707cb9d8fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc0f1218-81d8-4f47-ad42-755a69b097f2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/140bdcdc-c3bc-4395-bc39-b33f2d246a2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4db4a0b-fe51-4cfa-9f70-20822bf8ebf2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e449102-6dfd-4e25-8d1c-2214477f3de8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5caf3025-5480-492e-b20f-27b0991c3e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eabeddf-dd73-480d-ada9-6bcd0fe8bc06> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b2f7dc2-1e15-41ab-9b20-096b8985739c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76bc3c71-3a11-4b00-a9d7-a2441ed7f6f3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08ec8883-db57-46b5-a27c-e2ab4c9f12c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e5b211-559d-488e-b542-aa14fa489987> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e365a47-835d-4f3e-825d-a9d1a82a2a07> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d583ccf3-8ce1-4a10-8b3a-b95a628bda26> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a1b76e7-b5a5-45e2-877c-76846b2676df> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3c37580-789c-42d4-a906-ee0cf5cf4649> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/387d7374-445e-4622-a74a-eba574054724> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f20888a2-b11c-47fe-905d-5fa7bb16e87a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06db05c4-1489-4f5c-ad9d-438f3e7ba0ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27ac01e7-ad99-4ca6-ab0a-95a3d14a2900> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/711fe399-29c2-43da-9684-d66a0cae4dae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bd080c2-8994-4148-b876-11e123309671> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/148fc78a-49f8-4de6-a4be-327361ed11c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1959b164-7d51-46b4-83f7-c64ed603dc9c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7199640d-8561-47a8-8760-6a384653a777> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ab11d45-b2fa-4409-be21-2f9512e6386a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72ee43fe-ea3d-4d48-840e-68b52955a28e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e663ebdf-4407-4e17-b5cc-19c2ebe09cb1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83aa22e9-270d-4c37-b166-fb6d3088ad66> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddf1c051-fbb1-4eb5-9fea-db7edb4021ff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b0ec4de-e7c6-49b0-a224-81135ecf1660> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b7d92c9-edde-42bf-9c77-26740c5b659e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df9d3a6e-fa05-4e9d-8535-c1b7489b9a7a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4291206-bfbf-461f-841f-8fe375b27549> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60e7ca02-543c-4a28-b032-604a0f2f2a23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44656b2c-f80d-4fd1-985c-741c26599ff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59337a92-037f-4147-9285-41ad7f2cc597> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b8d97e7-538f-4904-a509-169a4f1f4c64> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b064e770-f5de-42ab-bb2b-795bd6349930> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c6c87fa-b10c-44ef-893f-78861ac96108> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/07b2b967-e5e8-42e1-801e-2cde8aa8adf6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6481e41b-67e4-437a-9ece-2ba46bf97385> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59371574-087d-4d70-9751-a32bd8f4e8e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d830a9bd-67c4-4c5c-a1b0-bb7e6687e953> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/376a5680-6c24-4f26-a3f0-c7e1105c880b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/117c4819-d8e3-4c9f-bd6c-4a51a2671376> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26feb54b-11ad-4da5-971a-4c7322cbb9a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b9b7498-5e11-4a13-b919-65050e5ba281> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4f79b98-8cb3-40db-b418-8c45e309c258> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11b20c90-93f9-4df1-9048-639b99959de7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6faf599b-152e-4a20-b493-2083fc49dadf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3481913-69f6-439d-9def-6610ab16d1d2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5dd0e652-8f4f-44bc-a4d5-11d8a8def805> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23d6e6de-5bbb-45b1-8e93-42bb0a13b874> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42bf0ec8-7728-4028-8673-476a18c5675d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e15a56b9-efe0-4474-a89d-947efe0e1051> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40a9164d-2c5e-4fad-aa75-e54874baa7a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7d8daff-2523-43d2-a3ab-a63f07e7c358> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d29f19cb-1236-41ec-92b8-6c2ba1e74c91> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0928dc51-f680-4608-b4a9-7b8434c92a2a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba2376f8-8622-489e-b72d-1e41afd3437d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6c379df-b3aa-43f2-93fa-3d1170f3a57a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84b814cd-4383-4715-b77b-9b23feed5560> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9914f5b2-084e-4159-ac36-190eaaf11832> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0340d07d-1dca-4448-b354-8b822109414c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4fa7f12-8c8e-4620-a755-1b646a2b7119> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714fdba5-eb7e-4094-ae93-65b7bcb18184> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9791fdf5-7592-402c-b7d9-bcc2b36752f5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1ec27cd-6d58-4422-9633-045fc2331835> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd2e5a4c-8d31-4d09-9afa-05e2c1266d0e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e467965-7de1-4549-97d1-f67b0516d657> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e0f58377-9459-4207-aba7-bf0b0a3ceb69> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17526e07-a4f9-4b4e-bb71-4913b9455d3d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/037f79a5-6663-4036-a796-09d594b23e70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33b2b6f2-3769-4128-b3bc-5892fafad0fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b92bd0a4-739b-473c-90d8-e0c9a81db3db> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/143fbd3b-a178-478d-9468-07e70a5e80c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77d6fb9b-5a5a-44d6-8c76-0326d9ee8bcf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcf8422c-7cf8-4bab-80df-f01f60fe2e9e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb1a30ba-b86e-4f2f-b8c5-0239034fbd09> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee99768d-4339-4b9d-af7c-2a58a1b844fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2ccf3ed-f907-4612-b37f-fd2945ceeb09> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce8ddf9c-1b76-4353-a3d4-274f372ba673> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65df9654-08cb-4333-9f27-ee810605afe7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a715f6aa-c71d-414d-99a6-25d67e072304> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0414d6c-1d98-46ca-a7e7-4808794a7d7d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/085f4690-4d15-4b88-8826-014d9dc2e6d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f3194d7-211a-4b3b-85e5-e3d99bad3fdd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f21a3a8-fd14-4ae2-aeea-5f36966a3018> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/984b73d1-b9f4-4c99-991b-436927a6f7e2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89315129-c48e-48ba-b7fc-1fe65f29691f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1193c7ec-c016-48d8-be19-e5f77d546e3e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81564c84-1b06-4613-8643-f5f28446dce2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25e63cb8-074b-47d4-9f16-98330cbd9cbb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8af879f-da37-457b-a2f8-421d07f9f652> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cb2c52e-f122-438d-9a39-6971a6a65c09> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91be5feb-e968-4c4f-968e-384bcec18ed2> ;
+        pm:hasTitle       "Do You Want to Know a Secret" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d74ec57c-9364-4a5b-82e8-a9511d511bfa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/83a303e2-32a4-3d80-b91f-f7a5dd1f203e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cac17b3f-5625-444c-b835-9c11ae6c0192> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b29db6f7-841e-418a-a4ea-cff314ee3d77> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45b0694c-8461-452a-af1b-f0fe960f18a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b5caaf7-04a2-493d-b6e1-2107161be031> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/fb3fe0c9-6af4-4962-907b-8007fc4b0411> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a8da5deb-8ef5-4653-a7d0-c38846f579de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ab11d45-b2fa-4409-be21-2f9512e6386a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124226" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4f79b98-8cb3-40db-b418-8c45e309c258>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154133" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46add2da-cc42-4bcd-967c-17125dca17de>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121133" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fb08f58-66ff-42cb-bd2f-5c2717e6dfb6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182733" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/10b5eb76-ac9e-44aa-904c-de707cb9d8fb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77d6fb9b-5a5a-44d6-8c76-0326d9ee8bcf>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23d6e6de-5bbb-45b1-8e93-42bb0a13b874>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126213" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1bc3327b-b292-4a8b-95d4-41dca5506e42>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122666" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60e7ca02-543c-4a28-b032-604a0f2f2a23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127640" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba2376f8-8622-489e-b72d-1e41afd3437d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129106" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd518ff5-6957-4f1e-9554-3cc419dd5428>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33b2b6f2-3769-4128-b3bc-5892fafad0fb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121653" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2439eba-b7c6-4010-a7aa-72e4e40e7031>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125333" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72ee43fe-ea3d-4d48-840e-68b52955a28e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "115000" ;
+        pm:hasTitle           "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6481e41b-67e4-437a-9ece-2ba46bf97385>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "104666" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/07b2b967-e5e8-42e1-801e-2cde8aa8adf6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128506" ;
+        pm:hasTitle   "Do You Want to Know a Secre (1963-03-06)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b9b7498-5e11-4a13-b919-65050e5ba281>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f08a21a-2f18-48f8-bc52-978e9342aa1c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee99768d-4339-4b9d-af7c-2a58a1b844fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (live at BBC for “Here We Go” / 12th March, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0340d07d-1dca-4448-b354-8b822109414c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65df9654-08cb-4333-9f27-ee810605afe7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08e9e817-6983-46be-a497-ea1018cf316c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/83a303e2-32a4-3d80-b91f-f7a5dd1f203e>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Lyssna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8d862e9-5aa5-4c0d-bc9d-5269e2e67ced>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2ccf3ed-f907-4612-b37f-fd2945ceeb09>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "may not include all of the original members" ;
+        pm:hasLength          "126973" ;
+        pm:hasTitle           "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b5caaf7-04a2-493d-b6e1-2107161be031>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "Daraus mach ich kein Geheimnis" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e5b211-559d-488e-b542-aa14fa489987>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐07‐10: Aeolian Hall Studio 2, London, UK" ;
+        pm:hasLength          "107520" ;
+        pm:hasTitle           "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81564c84-1b06-4613-8643-f5f28446dce2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d1ab403-6a9c-405c-bf05-b46d3a271bfe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0928dc51-f680-4608-b4a9-7b8434c92a2a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af434a81-c74f-4a4f-a534-56a625ab7c4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b12b768-38a9-450b-ad37-7d8648f37af6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e45cf6d3-9faf-4f08-a655-e54ceda7337b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/148fc78a-49f8-4de6-a4be-327361ed11c0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59337a92-037f-4147-9285-41ad7f2cc597>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "103000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/143fbd3b-a178-478d-9468-07e70a5e80c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130093" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd2e5a4c-8d31-4d09-9afa-05e2c1266d0e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dff8487-9494-47e2-9086-599cb980ce7c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127173" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1959b164-7d51-46b4-83f7-c64ed603dc9c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160000" ;
+        pm:hasTitle   "Do You Want to Know a Secret (track 2 take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e449102-6dfd-4e25-8d1c-2214477f3de8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714fdba5-eb7e-4094-ae93-65b7bcb18184>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128240" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f21a3a8-fd14-4ae2-aeea-5f36966a3018>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d74ec57c-9364-4a5b-82e8-a9511d511bfa>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fin" ;
+        pm:hasTitle     "Salaisuuteni" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c6c87fa-b10c-44ef-893f-78861ac96108>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/196d9997-5bc5-420b-9da1-08481f46051c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "306506" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06da1280-bd74-4225-96d7-1810d761713b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165312" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e0f58377-9459-4207-aba7-bf0b0a3ceb69>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127520" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a1b76e7-b5a5-45e2-877c-76846b2676df>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "285866" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02854508-6469-4e3f-8d56-5a28935f4636>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59371574-087d-4d70-9751-a32bd8f4e8e1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Sony/ATV Music Publishing LLC" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4db4a0b-fe51-4cfa-9f70-20822bf8ebf2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9791fdf5-7592-402c-b7d9-bcc2b36752f5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127693" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d583ccf3-8ce1-4a10-8b3a-b95a628bda26>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Do You Wanna Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3943890d-a6bc-4d64-b849-d1cdd009ada4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129906" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0a7187-6852-4173-bd58-52d925e93c4c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118213" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7d8daff-2523-43d2-a3ab-a63f07e7c358>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/948bcb17-52f4-4bc4-8796-e45b0a9df6de>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127493" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5c8dca0-a8b6-4735-a50d-35c777b6f434>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128133" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8af879f-da37-457b-a2f8-421d07f9f652>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Do You Want to Know a Secret?" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b064e770-f5de-42ab-bb2b-795bd6349930>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136893" ;
+        pm:hasTitle   "Do You Want to Know a Secret (studio outtake / take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45b0694c-8461-452a-af1b-f0fe960f18a7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Beatles Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08ec8883-db57-46b5-a27c-e2ab4c9f12c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Do You Want to Know a Secret" .

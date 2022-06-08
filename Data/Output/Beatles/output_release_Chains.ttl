@@ -1,0 +1,217 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Andy White" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "The Beatles" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-25" ;
+        pm:hasEndDate    "1963-02-25" ;
+        pm:hasName       "A. B. Lincoln" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c91fd146-01cb-4673-b653-d0845c05e164>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "111000" ;
+        pm:hasTitle           "Misery" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3ff7a3d9-a800-4de4-94a6-41a35c96c0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/5a87f472-9c42-4756-ad24-6cff277b310f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-11-30" , "1963-02-25" , "1963-02-20" , "1963-02-11" , "1962-11-26" ;
+        pm:hasEndDate    "1963-02-11" , "1962-11-30" , "1963-02-20" , "1962-11-26" , "1963-02-25" ;
+        pm:hasName       "George Martin" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Release/c1e9f78a-9626-49cf-8dd4-6f1996ca3894>
+        rdf:type               pm:Release ;
+        pm:containsRecordings  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f518811-7cf9-4bdc-a656-0958e130f312> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c91fd146-01cb-4673-b653-d0845c05e164> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db567516-40c0-46b0-9198-a196b8d2a19c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6fbba57-6e43-4a8b-a017-c9c2cf64b282> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4e7e5e2-69a5-423c-be62-6a888d07ccb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af6fb155-b03c-46ea-a44e-22ce394b2a46> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c84e23aa-20d9-45df-85cb-a6ecdba6e44e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9b03c87-41da-4e69-b97d-500d587e3703> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04532aae-d0cb-403c-8e09-7ea1716a124c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da77d23c-3acb-4b3d-9596-24aa55f03ece> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da> ;
+        pm:hasAnnotation       "Garrod & Lofthouse Ltd. front laminated cover, with small “mono” on front. Black label with yellow logo and silver print. \r\n“The Gramophone Co. Ltd.” printed at the start perimeter print and “Sold in UK…” text. Times New Roman font.\r\nMatrix numbers: Side 1: XEX 421-1N; Side 2: XEX 422-2N" ;
+        pm:hasCreditArtist     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDate             "1966" ;
+        pm:hasPackaging        "Cardboard/Paper Sleeve" ;
+        pm:hasPlace            "GB" ;
+        pm:hasTitle            "Please Please Me" ;
+        pm:hasType             "Album" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db567516-40c0-46b0-9198-a196b8d2a19c>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "177933" ;
+        pm:hasTitle           "Anna (Go to Him)" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "120000" ;
+        pm:hasTitle           "Do You Want to Know a Secret" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/5a87f472-9c42-4756-ad24-6cff277b310f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-20" ;
+        pm:hasEndDate    "1963-02-20" ;
+        pm:hasName       "Stuart Eltham" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9b03c87-41da-4e69-b97d-500d587e3703>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "160226" ;
+        pm:hasTitle           "Baby It’s You" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/5a87f472-9c42-4756-ad24-6cff277b310f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3ff7a3d9-a800-4de4-94a6-41a35c96c0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da77d23c-3acb-4b3d-9596-24aa55f03ece>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "175800" ;
+        pm:hasTitle           "I Saw Her Standing There" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "147506" ;
+        pm:hasTitle           "Boys" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3ff7a3d9-a800-4de4-94a6-41a35c96c0ae>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-20" ;
+        pm:hasEndDate    "1963-02-20" ;
+        pm:hasName       "Geoff Emerick" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04532aae-d0cb-403c-8e09-7ea1716a124c>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "mono studio mix #2" ;
+        pm:hasLength          "147693" ;
+        pm:hasTitle           "Ask Me Why" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" , "1963-02-11" , "1962-11-26" ;
+        pm:hasEndDate    "1962-09-11" , "1963-02-11" , "1962-11-26" ;
+        pm:hasName       "Paul McCartney" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" , "1962-11-26" , "1963-02-11" ;
+        pm:hasEndDate    "1962-09-11" , "1962-11-26" , "1963-02-11" ;
+        pm:hasName       "George Harrison" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6fbba57-6e43-4a8b-a017-c9c2cf64b282>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "125000" ;
+        pm:hasTitle           "A Taste of Honey" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c84e23aa-20d9-45df-85cb-a6ecdba6e44e>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "124000" ;
+        pm:hasTitle           "P.S. I Love You" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-11" ;
+        pm:hasEndDate    "1963-02-11" ;
+        pm:hasName       "Richard Langham" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "121333" ;
+        pm:hasTitle           "Please Please Me" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "113000" ;
+        pm:hasTitle           "There’s a Place" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-11" , "1962-11-30" , "1962-11-26" , "1963-02-25" , "1962-09-11" ;
+        pm:hasEndDate    "1963-02-11" , "1962-11-30" , "1962-11-26" , "1963-02-25" , "1962-09-11" ;
+        pm:hasName       "Norman Smith" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4e7e5e2-69a5-423c-be62-6a888d07ccb6>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "146493" ;
+        pm:hasTitle           "Chains" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Ron Richards" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af6fb155-b03c-46ea-a44e-22ce394b2a46>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "153466" ;
+        pm:hasTitle           "Twist and Shout" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-11-26" , "1963-02-11" , "1962-09-11" ;
+        pm:hasEndDate    "1962-11-26" , "1963-02-11" , "1962-09-11" ;
+        pm:hasName       "Ringo Starr" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f518811-7cf9-4bdc-a656-0958e130f312>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "drums: Andy White; original mono studio mix" ;
+        pm:hasLength          "141693" ;
+        pm:hasTitle           "Love Me Do" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" , "1962-11-26" , "1963-02-11" ;
+        pm:hasEndDate    "1962-09-11" , "1962-11-26" , "1963-02-11" ;
+        pm:hasName       "John Lennon" .

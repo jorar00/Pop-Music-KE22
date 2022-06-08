@@ -1,0 +1,632 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65c94e60-9264-4a23-a166-91b237f2c0a5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145866" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7eb2410-0bc6-43db-ade6-c87bd4755ec2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146586" ;
+        pm:hasTitle   "Ask Me Why (1962-06-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f5834caa-3a89-4ce3-803f-b8e7658766e3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/04a77b29-c6af-43a4-aaf7-79d915aa41a6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-ask-me-why-lyrics>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0b48b7d6-ff9e-445c-a0bb-4eff50558805>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a1074a57-4bfc-4981-8c0a-34e6867d1e37>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e1501969-e0c5-4743-a46d-4c2a3cbbab2a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f651cb41-dd2b-4285-a329-e67eb17857d0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7b3b62f9-6de8-415d-8209-68ffe609b147>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33d98a11-d2b4-4ba4-9b9b-251284b76d49>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Polygram Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f5834caa-3a89-4ce3-803f-b8e7658766e3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/04532aae-d0cb-403c-8e09-7ea1716a124c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a77b29-c6af-43a4-aaf7-79d915aa41a6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Ask Me Why (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/df54cad8-e736-4eda-a6fd-a964e2f2cb20>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49a2ac42-5a90-495c-8c96-78bee11acbda>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "152906" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b48b7d6-ff9e-445c-a0bb-4eff50558805>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156493" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f651cb41-dd2b-4285-a329-e67eb17857d0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1eb8aca4-dfad-4388-a03a-f2e828d07a4f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-04" ;
+        pm:hasEndDate    "1962-04" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d9944f08-0291-4939-9630-65f0ae8657ae>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/afcc4174-1b01-477c-9401-b45a02a9f35d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0de502f6-81e4-48bb-ba6b-510ad657fc15>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "144000" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df54cad8-e736-4eda-a6fd-a964e2f2cb20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146706" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7bfd0935-d58c-4088-9bb7-0f463354c4d8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/49c5a59c-d1e4-43bb-8fcf-1a14597a593b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37188fbb-5c23-4b38-835c-6e1703b08e83>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "146000" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b01ee790-99f6-4f44-9076-0077d6754ab2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d9944f08-0291-4939-9630-65f0ae8657ae>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "146533" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/afcc4174-1b01-477c-9401-b45a02a9f35d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cbcfc936-2ff0-4869-8a37-4435771b39fc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/26f22438-2042-40d9-925c-86a876d78b3f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/93e0d361-a5ec-4c32-8e6d-188a811298ca>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc5f2680-20b2-484a-a034-ed8885444451>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7bfd0935-d58c-4088-9bb7-0f463354c4d8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "170666" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ec9634b-ed39-457d-8934-2e72a06e288f>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Dick James Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f9f37ec5-fb5a-497b-85f6-62a5256085b3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/03059a1e-f429-4eed-a5d9-c85426243670>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbcfc936-2ff0-4869-8a37-4435771b39fc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145986" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93e0d361-a5ec-4c32-8e6d-188a811298ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5d8536d2-2d0d-49bd-83c8-0ffad6538f36>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e80101c6-3d50-41d2-a945-d1f2c7aeaf84>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/61aad22e-2139-411d-91af-1514d22e6c2d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c329b40b-d4fa-45bc-a3bc-c69a4de8c971>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9f37ec5-fb5a-497b-85f6-62a5256085b3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8da403f-3c34-48b0-ae9e-7aa419df07c3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "142000" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03059a1e-f429-4eed-a5d9-c85426243670>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why (RS take 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9334e322-c791-4d9a-83d5-ea3601c7011c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q1799542>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4a564e41-0424-4b0d-92f4-a4542a348518>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61aad22e-2139-411d-91af-1514d22e6c2d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2ff0d4ac-1182-42f7-8db6-5d35fbcc786f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1074a57-4bfc-4981-8c0a-34e6867d1e37>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1501969-e0c5-4743-a46d-4c2a3cbbab2a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "153000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c329b40b-d4fa-45bc-a3bc-c69a4de8c971>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "104000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b3b62f9-6de8-415d-8209-68ffe609b147>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136706" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/15ae0fc1-20ee-4b07-a256-0926dcf23cf2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a564e41-0424-4b0d-92f4-a4542a348518>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/07760ebd-56ef-3b95-b776-c0ff787326d8>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3f42f1a-301d-42d9-a065-204b7a6f0fbe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8da403f-3c34-48b0-ae9e-7aa419df07c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8dac115-6c68-4ed7-93ee-b4cf8c26359e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7eb2410-0bc6-43db-ade6-c87bd4755ec2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f5834caa-3a89-4ce3-803f-b8e7658766e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b01ee790-99f6-4f44-9076-0077d6754ab2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65c94e60-9264-4a23-a166-91b237f2c0a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c640b4fa-8304-4c7b-b740-e548da9104de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8871970f-aefd-41bb-8e0a-708519dc6d9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a564e41-0424-4b0d-92f4-a4542a348518> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/10146638-dd83-4e38-955d-c5801472ba3c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d8536d2-2d0d-49bd-83c8-0ffad6538f36> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d9944f08-0291-4939-9630-65f0ae8657ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49c5a59c-d1e4-43bb-8fcf-1a14597a593b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93e0d361-a5ec-4c32-8e6d-188a811298ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c22b7b86-e231-4dac-a68c-a10c959e2220> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15ae0fc1-20ee-4b07-a256-0926dcf23cf2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98e3da53-3ab5-4ccb-b8a3-4cc269123bf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df54cad8-e736-4eda-a6fd-a964e2f2cb20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d466f9d-75a5-4078-95c8-1d595c0f02e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e80101c6-3d50-41d2-a945-d1f2c7aeaf84> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26f22438-2042-40d9-925c-86a876d78b3f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f71e5a22-3c9e-4a25-b836-e15fc8619d2c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7bfd0935-d58c-4088-9bb7-0f463354c4d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b48b7d6-ff9e-445c-a0bb-4eff50558805> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49a2ac42-5a90-495c-8c96-78bee11acbda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1eb8aca4-dfad-4388-a03a-f2e828d07a4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9ee4132-4668-4b17-982c-92eda1fba1bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a105afc-f82c-4d41-9c8f-678d3807ecf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1074a57-4bfc-4981-8c0a-34e6867d1e37> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c329b40b-d4fa-45bc-a3bc-c69a4de8c971> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/afcc4174-1b01-477c-9401-b45a02a9f35d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1501969-e0c5-4743-a46d-4c2a3cbbab2a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04532aae-d0cb-403c-8e09-7ea1716a124c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61aad22e-2139-411d-91af-1514d22e6c2d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d215059-3192-485b-90b1-76747097a840> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b42e831f-5f20-4869-b08a-f5cdb2b1b2b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9334e322-c791-4d9a-83d5-ea3601c7011c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/905aad25-952e-424c-9dee-4b04de9b344a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc5f2680-20b2-484a-a034-ed8885444451> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f16a5fec-65d3-4fd5-a4ef-b7065682f669> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8990c316-a9a6-4ab8-97dc-29067db1ae07> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b3b62f9-6de8-415d-8209-68ffe609b147> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbcfc936-2ff0-4869-8a37-4435771b39fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03059a1e-f429-4eed-a5d9-c85426243670> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ff0d4ac-1182-42f7-8db6-5d35fbcc786f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9f37ec5-fb5a-497b-85f6-62a5256085b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/844335fd-c411-495c-8d3a-26db198dd636> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f651cb41-dd2b-4285-a329-e67eb17857d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0de502f6-81e4-48bb-ba6b-510ad657fc15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a77b29-c6af-43a4-aaf7-79d915aa41a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5d5d2e0-d205-422f-8833-fd794d1a18a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37188fbb-5c23-4b38-835c-6e1703b08e83> ;
+        pm:hasTitle       "Ask Me Why" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c640b4fa-8304-4c7b-b740-e548da9104de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8990c316-a9a6-4ab8-97dc-29067db1ae07> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cc5f2680-20b2-484a-a034-ed8885444451> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/26f22438-2042-40d9-925c-86a876d78b3f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/11f9a729-88e5-48ae-8bb9-ea1fa4b76537> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0de502f6-81e4-48bb-ba6b-510ad657fc15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f651cb41-dd2b-4285-a329-e67eb17857d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/afcc4174-1b01-477c-9401-b45a02a9f35d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/844335fd-c411-495c-8d3a-26db198dd636> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/04532aae-d0cb-403c-8e09-7ea1716a124c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7d215059-3192-485b-90b1-76747097a840> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4a564e41-0424-4b0d-92f4-a4542a348518> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.allmusic.com/song/mt0010100433> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7b3b62f9-6de8-415d-8209-68ffe609b147> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b9ee4132-4668-4b17-982c-92eda1fba1bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f16a5fec-65d3-4fd5-a4ef-b7065682f669> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e80101c6-3d50-41d2-a945-d1f2c7aeaf84> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2d466f9d-75a5-4078-95c8-1d595c0f02e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-ask-me-why-lyrics> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9334e322-c791-4d9a-83d5-ea3601c7011c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e1501969-e0c5-4743-a46d-4c2a3cbbab2a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2ec9634b-ed39-457d-8934-2e72a06e288f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/65c94e60-9264-4a23-a166-91b237f2c0a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d9944f08-0291-4939-9630-65f0ae8657ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b42e831f-5f20-4869-b08a-f5cdb2b1b2b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/61aad22e-2139-411d-91af-1514d22e6c2d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c329b40b-d4fa-45bc-a3bc-c69a4de8c971> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/15ae0fc1-20ee-4b07-a256-0926dcf23cf2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/33d98a11-d2b4-4ba4-9b9b-251284b76d49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/df54cad8-e736-4eda-a6fd-a964e2f2cb20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8dac115-6c68-4ed7-93ee-b4cf8c26359e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/03059a1e-f429-4eed-a5d9-c85426243670> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/93e0d361-a5ec-4c32-8e6d-188a811298ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7bfd0935-d58c-4088-9bb7-0f463354c4d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8da403f-3c34-48b0-ae9e-7aa419df07c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2ff0d4ac-1182-42f7-8db6-5d35fbcc786f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f71e5a22-3c9e-4a25-b836-e15fc8619d2c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cbcfc936-2ff0-4869-8a37-4435771b39fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/38670> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/905aad25-952e-424c-9dee-4b04de9b344a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0b48b7d6-ff9e-445c-a0bb-4eff50558805> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q1799542> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b3f42f1a-301d-42d9-a065-204b7a6f0fbe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/10146638-dd83-4e38-955d-c5801472ba3c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a5d5d2e0-d205-422f-8833-fd794d1a18a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/724c65a8-68bb-4a63-881b-9ea6208ee585> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/04a77b29-c6af-43a4-aaf7-79d915aa41a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/49a2ac42-5a90-495c-8c96-78bee11acbda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/37188fbb-5c23-4b38-835c-6e1703b08e83> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/49c5a59c-d1e4-43bb-8fcf-1a14597a593b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f5834caa-3a89-4ce3-803f-b8e7658766e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f9f37ec5-fb5a-497b-85f6-62a5256085b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/98e3da53-3ab5-4ccb-b8a3-4cc269123bf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b7eb2410-0bc6-43db-ade6-c87bd4755ec2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c22b7b86-e231-4dac-a68c-a10c959e2220> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b01ee790-99f6-4f44-9076-0077d6754ab2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3a105afc-f82c-4d41-9c8f-678d3807ecf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1eb8aca4-dfad-4388-a03a-f2e828d07a4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5d8536d2-2d0d-49bd-83c8-0ffad6538f36> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8871970f-aefd-41bb-8e0a-708519dc6d9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a1074a57-4bfc-4981-8c0a-34e6867d1e37> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/724c65a8-68bb-4a63-881b-9ea6208ee585> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/11f9a729-88e5-48ae-8bb9-ea1fa4b76537> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ec9634b-ed39-457d-8934-2e72a06e288f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33d98a11-d2b4-4ba4-9b9b-251284b76d49> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04532aae-d0cb-403c-8e09-7ea1716a124c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono studio mix #2" ;
+        pm:hasLength          "147693" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/724c65a8-68bb-4a63-881b-9ea6208ee585>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Dick James Music, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a5d5d2e0-d205-422f-8833-fd794d1a18a3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1eb8aca4-dfad-4388-a03a-f2e828d07a4f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15ae0fc1-20ee-4b07-a256-0926dcf23cf2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3a105afc-f82c-4d41-9c8f-678d3807ecf3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/38670>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f71e5a22-3c9e-4a25-b836-e15fc8619d2c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8990c316-a9a6-4ab8-97dc-29067db1ae07>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b42e831f-5f20-4869-b08a-f5cdb2b1b2b8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b9ee4132-4668-4b17-982c-92eda1fba1bf>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-04" ;
+        pm:hasEndDate    "1962-04" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5d5d2e0-d205-422f-8833-fd794d1a18a3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141773" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49c5a59c-d1e4-43bb-8fcf-1a14597a593b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b3f42f1a-301d-42d9-a065-204b7a6f0fbe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b01ee790-99f6-4f44-9076-0077d6754ab2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐09‐03: Aeolian Hall Studio 2, London, UK" ;
+        pm:hasLength          "114213" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a105afc-f82c-4d41-9c8f-678d3807ecf3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why (7\" mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/10146638-dd83-4e38-955d-c5801472ba3c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26f22438-2042-40d9-925c-86a876d78b3f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f71e5a22-3c9e-4a25-b836-e15fc8619d2c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148666" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/11f9a729-88e5-48ae-8bb9-ea1fa4b76537>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Universal/Dick James Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7d215059-3192-485b-90b1-76747097a840>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3f42f1a-301d-42d9-a065-204b7a6f0fbe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/98e3da53-3ab5-4ccb-b8a3-4cc269123bf3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/33d98a11-d2b4-4ba4-9b9b-251284b76d49>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.allmusic.com/song/mt0010100433>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d8536d2-2d0d-49bd-83c8-0ffad6538f36>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e80101c6-3d50-41d2-a945-d1f2c7aeaf84>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why (RM take 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9334e322-c791-4d9a-83d5-ea3601c7011c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98e3da53-3ab5-4ccb-b8a3-4cc269123bf3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why (1962-06-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c640b4fa-8304-4c7b-b740-e548da9104de>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c22b7b86-e231-4dac-a68c-a10c959e2220>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ff0d4ac-1182-42f7-8db6-5d35fbcc786f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121800" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/724c65a8-68bb-4a63-881b-9ea6208ee585>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8dac115-6c68-4ed7-93ee-b4cf8c26359e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/905aad25-952e-424c-9dee-4b04de9b344a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8dac115-6c68-4ed7-93ee-b4cf8c26359e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2ec9634b-ed39-457d-8934-2e72a06e288f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f16a5fec-65d3-4fd5-a4ef-b7065682f669>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8990c316-a9a6-4ab8-97dc-29067db1ae07>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/49a2ac42-5a90-495c-8c96-78bee11acbda>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/11f9a729-88e5-48ae-8bb9-ea1fa4b76537>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2d466f9d-75a5-4078-95c8-1d595c0f02e8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b42e831f-5f20-4869-b08a-f5cdb2b1b2b8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/905aad25-952e-424c-9dee-4b04de9b344a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9ee4132-4668-4b17-982c-92eda1fba1bf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/10146638-dd83-4e38-955d-c5801472ba3c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0de502f6-81e4-48bb-ba6b-510ad657fc15>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f16a5fec-65d3-4fd5-a4ef-b7065682f669>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144333" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/844335fd-c411-495c-8d3a-26db198dd636>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d466f9d-75a5-4078-95c8-1d595c0f02e8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162098" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/37188fbb-5c23-4b38-835c-6e1703b08e83>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d215059-3192-485b-90b1-76747097a840>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "200893" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/844335fd-c411-495c-8d3a-26db198dd636>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147466" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cc5f2680-20b2-484a-a034-ed8885444451>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8871970f-aefd-41bb-8e0a-708519dc6d9d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/65c94e60-9264-4a23-a166-91b237f2c0a5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b7eb2410-0bc6-43db-ade6-c87bd4755ec2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c640b4fa-8304-4c7b-b740-e548da9104de>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "144000" ;
+        pm:hasTitle           "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8da403f-3c34-48b0-ae9e-7aa419df07c3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Ask Me Why (1962-06-11)" , "Ask Me Why (live)" , "Ask Me Why (7\" mix)" , "Ask Me Why (RM take 6)" , "Ask Me Why (RS take 6)" , "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c22b7b86-e231-4dac-a68c-a10c959e2220>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "Ask Me Why" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8871970f-aefd-41bb-8e0a-708519dc6d9d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Ask Me Why" .

@@ -1,0 +1,1023 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a84f811-ca57-494b-8271-b47b2553599b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-08-23: Hollywood Bowl, Los Angeles, CA, US; 2016 remix" ;
+        pm:hasLength          "128747" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f929877-3b74-4fcc-8238-ec919417a63c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150000" ;
+        pm:hasTitle   "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0f929877-3b74-4fcc-8238-ec919417a63c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a2273b8-fc98-4a2d-ba12-2b3ceb2119b3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8db193e3-a15f-4d22-9cd6-3a91554cac9d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964‐09‐02: Philadelphia Convention Hall, Philadelphia, PA, USA" ;
+        pm:hasLength          "147386" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2270ebde-6992-4a66-83e7-1e836b1a1900>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce61d062-53e7-48b0-8f00-fbf32e7061e0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182173" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ce61d062-53e7-48b0-8f00-fbf32e7061e0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f57e82e5-0992-4c8b-b72a-0e73cbfede8a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (mono)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30e0d574-5b6c-44d9-aa15-8e904974d83a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/30e0d574-5b6c-44d9-aa15-8e904974d83a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (mono)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3918c3ca-2c96-40db-a8df-6eeedf18d279>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "132000" ;
+        pm:hasTitle   "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f567893-6a1f-40d5-9c05-ad44af874111>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137466" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9f567893-6a1f-40d5-9c05-ad44af874111>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (It's The Beatles)" , "Boys (Shindig)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/63015017-aec5-43f6-9b0c-e0ea8ad947ef>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Ludix Publishing Co., Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/28d6c981-c186-4379-a8b3-19bb50116330>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (RM take 1)" , "Boys" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8864412a-73b3-4c4c-8607-f715ae458448>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130893" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8864412a-73b3-4c4c-8607-f715ae458448>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7b1bdf-c387-4e97-a45a-08de6cbfebb4>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "182626" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/96b9cffa-c6ae-4f9b-8b4c-42fc205d9d67>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/335bf2a5-55ce-4f70-aa03-9a1c80d5c413>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Shindig)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fb2920b-76cd-4414-a6d7-4abdbbccf9aa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209200" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b672c9a-bda6-4a00-98c9-abcc3b47a8af>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150293" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4fb2920b-76cd-4414-a6d7-4abdbbccf9aa>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8c90845c-5a1f-4259-b5f1-695f46bb1967>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/74a32f18-2dc6-4c36-889f-656d956e94c8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (Shindig)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cd6a3e8-b47e-4bd2-b2bb-d2713741118f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5cd6a3e8-b47e-4bd2-b2bb-d2713741118f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (Shindig)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a4269bda-8260-4c57-bd0e-ca3b8061d114>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c503986-c927-4e3b-8155-dbad1b92ff4d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c503986-c927-4e3b-8155-dbad1b92ff4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162533" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/606667b6-12ac-4e34-9e42-d5c773916d10>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "146440" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/606667b6-12ac-4e34-9e42-d5c773916d10>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c4b2afd-41f7-4a1f-bcd8-0614579d4f51>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/3191>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45bbc0e7-1a1e-4786-b904-223c5e26e3bf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130613" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45bbc0e7-1a1e-4786-b904-223c5e26e3bf>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3dd7096-69f1-44fa-9ce7-85a92de0f0e3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9cfaa400-2585-4f5c-a2d0-c880ace4d37f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9cfaa400-2585-4f5c-a2d0-c880ace4d37f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0fa653b2-65ae-42e6-b2e8-4e42c6bb145e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0fa653b2-65ae-42e6-b2e8-4e42c6bb145e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys" , "Boys (Shindig)" , "Boys (RS take 1)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5157cb8e-bb33-4c54-afb6-4b7543adb3dd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/df56dfd6-a553-4542-8a8c-f31a456f6fda>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e8d10e55-e30c-48ec-ac3a-232b35c70ff9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4de31b8b-f2d8-495e-9fc1-2cda2a785c20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adb31235-0bc4-4c45-be14-126f4af510ab>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/adb31235-0bc4-4c45-be14-126f4af510ab>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4de31b8b-f2d8-495e-9fc1-2cda2a785c20>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys" , "Boys (It's The Beatles)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/914f93a3-12c2-4b65-b789-50ed67d7fc47>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "163772" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dc3c62c-e915-4888-9a28-355ac8b753de>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Ardmore & Beechwood Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3b7d398-3b82-4d86-873d-b03e0d455307>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys (mono)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/03fd8747-a084-405c-a72d-670997e5921a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c93ce673-aa8d-4330-9f54-ffc95a7751ed>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys" , "Boys (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4f88f6c6-c3f6-4583-98e1-2576f1ccf876>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (mono)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/982eb18b-f78e-4603-811a-37d432b99ae6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/982eb18b-f78e-4603-811a-37d432b99ae6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (stereo)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5aaa433-0cc5-4749-b99d-b2f93e36f690>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e5aaa433-0cc5-4749-b99d-b2f93e36f690>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys" , "Boys (It's The Beatles)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/ce7a1aeb-8feb-32ea-ab0f-255599a34107>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8bb28491-810a-4487-a9bf-900de7e2eef2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b672c9a-bda6-4a00-98c9-abcc3b47a8af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3d1b025-779b-46e2-a7b8-73568e90fb74> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/335bf2a5-55ce-4f70-aa03-9a1c80d5c413> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a84f811-ca57-494b-8271-b47b2553599b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2270ebde-6992-4a66-83e7-1e836b1a1900> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74a32f18-2dc6-4c36-889f-656d956e94c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/736eaed7-454e-4995-ad3a-15e51c10dedb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5942390-dc0f-452d-8d9a-1e949cd4b206> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76653b9c-a77a-4460-bf3d-0c073c83cff7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8006eda3-40a2-4503-a51d-0f551c73fd61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4269bda-8260-4c57-bd0e-ca3b8061d114> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5aaa433-0cc5-4749-b99d-b2f93e36f690> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/084430fd-2a76-4b15-8cfa-c9233781d94e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53c51918-3d2e-4c09-8559-a51d35f2f8f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cd6a3e8-b47e-4bd2-b2bb-d2713741118f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03fd8747-a084-405c-a72d-670997e5921a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dfeed7d4-89fb-4f08-9150-fbf2c191da23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8ce1a6ec-dcb6-4c90-9c07-3b40adddd7c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4de31b8b-f2d8-495e-9fc1-2cda2a785c20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df56dfd6-a553-4542-8a8c-f31a456f6fda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9def434c-65c7-485f-9fdd-c125af021d39> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1162b81e-ecc0-4d60-a4a4-e0810037e982> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b17177c0-35be-43b4-93d3-e114aa3c3bdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9382c3f5-3307-4116-96bb-145c12e14cf9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46e8f11b-4602-4e90-8b9f-4d987b843577> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c93ce673-aa8d-4330-9f54-ffc95a7751ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b8a59fd-bae5-41c4-b071-10658b2a1ccb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fb2920b-76cd-4414-a6d7-4abdbbccf9aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a958c8a-a32f-4f0b-9d92-65dd4cd54571> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58bd1924-236c-4efc-9d0b-aef4655bbe77> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c600aa56-89a0-4398-8d0a-959694509476> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc0c5679-ddab-42fd-95cb-ae7e3297871a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0fa653b2-65ae-42e6-b2e8-4e42c6bb145e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c79702e-9feb-4666-a307-795caaaf34d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4392da11-6eb0-46d8-a027-cb1c20aa94f8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28d6c981-c186-4379-a8b3-19bb50116330> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce61d062-53e7-48b0-8f00-fbf32e7061e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96b9cffa-c6ae-4f9b-8b4c-42fc205d9d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/982eb18b-f78e-4603-811a-37d432b99ae6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ae503942-5dac-49b6-8a24-71bf64b83217> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9cfaa400-2585-4f5c-a2d0-c880ace4d37f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adb31235-0bc4-4c45-be14-126f4af510ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3918c3ca-2c96-40db-a8df-6eeedf18d279> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c503986-c927-4e3b-8155-dbad1b92ff4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a2273b8-fc98-4a2d-ba12-2b3ceb2119b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59453f61-d220-421e-bbb9-9046705df003> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1ed82450-137b-46bc-a1bd-437284891b6a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bcdd35c-4014-4c39-9ac2-c9a9a12e3f15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3b7d398-3b82-4d86-873d-b03e0d455307> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8b2ca50-07f1-466b-ab37-7106e22e36fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/722a98e9-3f19-4160-85e3-6f85468e4b71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45bbc0e7-1a1e-4786-b904-223c5e26e3bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8db193e3-a15f-4d22-9cd6-3a91554cac9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1875fb8-69c6-41e3-b69e-b6a1b4267005> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/914f93a3-12c2-4b65-b789-50ed67d7fc47> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/73d089c8-3b12-4a40-b0ba-641c3259c118> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f929877-3b74-4fcc-8238-ec919417a63c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60dbd061-7ed3-4eec-bdd2-4575d6784408> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5157cb8e-bb33-4c54-afb6-4b7543adb3dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8d10e55-e30c-48ec-ac3a-232b35c70ff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7317aedc-3da3-4164-adf5-911a94adbb32> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca325af1-7c90-40dc-bc65-eb0b40f8ab6d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85500243-b4dd-46f0-8fb8-9cb168f85eaa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3dd7096-69f1-44fa-9ce7-85a92de0f0e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c4b2afd-41f7-4a1f-bcd8-0614579d4f51> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79e0ce20-8416-4818-89b9-849d31ffe240> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6f7d117-7740-42be-813d-f6cb7a5fbf12> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4ac1785-0d29-4ab5-a0ec-48816cef7543> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44443a4e-25f5-4209-83b9-cf760ce79658> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f88f6c6-c3f6-4583-98e1-2576f1ccf876> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d23734fc-f9ef-4511-b51e-0fb4ca69004d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e727fa65-d2ae-4249-94ba-d08140f12a17> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/515e4dd6-0422-4839-bd9e-2d3044512857> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/606667b6-12ac-4e34-9e42-d5c773916d10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/19029fe2-48a9-4988-b102-12fbfdcd4c50> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98efac5b-676a-4b60-9382-acf546b2c62a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8864412a-73b3-4c4c-8607-f715ae458448> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c0dd1ff-99ab-4ef4-9deb-59e4339661ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7b1bdf-c387-4e97-a45a-08de6cbfebb4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac26ff8f-3145-4f70-b679-91ec44364f68> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eaafd59a-3726-454f-bc02-5267a1ccbb55> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c90845c-5a1f-4259-b5f1-695f46bb1967> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f567893-6a1f-40d5-9c05-ad44af874111> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30e0d574-5b6c-44d9-aa15-8e904974d83a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca5003c5-b998-4948-8594-425f5cbb96d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71207240-198a-4c5d-b56e-789d8dc3f799> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b047766e-d1b3-40c4-90fa-6a371af88312> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e95091ee-8052-459a-b74c-963c26ad8f61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/740b0605-5b1d-4f99-a9d2-55dcdbc0ff2c> ;
+        pm:hasTitle       "Boys" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4b672c9a-bda6-4a00-98c9-abcc3b47a8af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b047766e-d1b3-40c4-90fa-6a371af88312> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1ed82450-137b-46bc-a1bd-437284891b6a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/58bd1924-236c-4efc-9d0b-aef4655bbe77> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/606667b6-12ac-4e34-9e42-d5c773916d10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/515e4dd6-0422-4839-bd9e-2d3044512857> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c5942390-dc0f-452d-8d9a-1e949cd4b206> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/76653b9c-a77a-4460-bf3d-0c073c83cff7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/85500243-b4dd-46f0-8fb8-9cb168f85eaa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/084430fd-2a76-4b15-8cfa-c9233781d94e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/73d089c8-3b12-4a40-b0ba-641c3259c118> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e5aaa433-0cc5-4749-b99d-b2f93e36f690> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ce61d062-53e7-48b0-8f00-fbf32e7061e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ae503942-5dac-49b6-8a24-71bf64b83217> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8006eda3-40a2-4503-a51d-0f551c73fd61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/740b0605-5b1d-4f99-a9d2-55dcdbc0ff2c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/914f93a3-12c2-4b65-b789-50ed67d7fc47> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q762165> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f3dd7096-69f1-44fa-9ce7-85a92de0f0e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e95091ee-8052-459a-b74c-963c26ad8f61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2b8a59fd-bae5-41c4-b071-10658b2a1ccb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c503986-c927-4e3b-8155-dbad1b92ff4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e8b2ca50-07f1-466b-ab37-7106e22e36fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/79e0ce20-8416-4818-89b9-849d31ffe240> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9a958c8a-a32f-4f0b-9d92-65dd4cd54571> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d23734fc-f9ef-4511-b51e-0fb4ca69004d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d6f7d117-7740-42be-813d-f6cb7a5fbf12> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/28d6c981-c186-4379-a8b3-19bb50116330> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8c90845c-5a1f-4259-b5f1-695f46bb1967> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/19029fe2-48a9-4988-b102-12fbfdcd4c50> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5cd6a3e8-b47e-4bd2-b2bb-d2713741118f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4f88f6c6-c3f6-4583-98e1-2576f1ccf876> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2c0dd1ff-99ab-4ef4-9deb-59e4339661ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a4269bda-8260-4c57-bd0e-ca3b8061d114> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45bbc0e7-1a1e-4786-b904-223c5e26e3bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4de31b8b-f2d8-495e-9fc1-2cda2a785c20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-boys-lyrics> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca5003c5-b998-4948-8594-425f5cbb96d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8bb28491-810a-4487-a9bf-900de7e2eef2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c4b2afd-41f7-4a1f-bcd8-0614579d4f51> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/adb31235-0bc4-4c45-be14-126f4af510ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/53c51918-3d2e-4c09-8559-a51d35f2f8f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b17177c0-35be-43b4-93d3-e114aa3c3bdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9cfaa400-2585-4f5c-a2d0-c880ace4d37f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/63015017-aec5-43f6-9b0c-e0ea8ad947ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/3191> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4fb2920b-76cd-4414-a6d7-4abdbbccf9aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/335bf2a5-55ce-4f70-aa03-9a1c80d5c413> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f4ac1785-0d29-4ab5-a0ec-48816cef7543> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5a84f811-ca57-494b-8271-b47b2553599b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e3d1b025-779b-46e2-a7b8-73568e90fb74> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5dc3c62c-e915-4888-9a28-355ac8b753de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9def434c-65c7-485f-9fdd-c125af021d39> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/03fd8747-a084-405c-a72d-670997e5921a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/98efac5b-676a-4b60-9382-acf546b2c62a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b1875fb8-69c6-41e3-b69e-b6a1b4267005> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca325af1-7c90-40dc-bc65-eb0b40f8ab6d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/71207240-198a-4c5d-b56e-789d8dc3f799> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/44443a4e-25f5-4209-83b9-cf760ce79658> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/982eb18b-f78e-4603-811a-37d432b99ae6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/eaafd59a-3726-454f-bc02-5267a1ccbb55> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/74a32f18-2dc6-4c36-889f-656d956e94c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca14af84-9dc4-4cd8-ad93-0c299881f4df> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5157cb8e-bb33-4c54-afb6-4b7543adb3dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bcdd35c-4014-4c39-9ac2-c9a9a12e3f15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/96b9cffa-c6ae-4f9b-8b4c-42fc205d9d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ac26ff8f-3145-4f70-b679-91ec44364f68> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0f929877-3b74-4fcc-8238-ec919417a63c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7317aedc-3da3-4164-adf5-911a94adbb32> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/30e0d574-5b6c-44d9-aa15-8e904974d83a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cc0c5679-ddab-42fd-95cb-ae7e3297871a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4392da11-6eb0-46d8-a027-cb1c20aa94f8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/736eaed7-454e-4995-ad3a-15e51c10dedb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9a7b1bdf-c387-4e97-a45a-08de6cbfebb4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2c79702e-9feb-4666-a307-795caaaf34d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b8155dca-7b8a-49ae-a4cb-279e8374046e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9f567893-6a1f-40d5-9c05-ad44af874111> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8864412a-73b3-4c4c-8607-f715ae458448> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e8d10e55-e30c-48ec-ac3a-232b35c70ff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8a2273b8-fc98-4a2d-ba12-2b3ceb2119b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c93ce673-aa8d-4330-9f54-ffc95a7751ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0fa653b2-65ae-42e6-b2e8-4e42c6bb145e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/722a98e9-3f19-4160-85e3-6f85468e4b71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3918c3ca-2c96-40db-a8df-6eeedf18d279> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59453f61-d220-421e-bbb9-9046705df003> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dfeed7d4-89fb-4f08-9150-fbf2c191da23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d3b7d398-3b82-4d86-873d-b03e0d455307> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/46e8f11b-4602-4e90-8b9f-4d987b843577> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/df56dfd6-a553-4542-8a8c-f31a456f6fda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f57e82e5-0992-4c8b-b72a-0e73cbfede8a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2270ebde-6992-4a66-83e7-1e836b1a1900> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/60dbd061-7ed3-4eec-bdd2-4575d6784408> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8db193e3-a15f-4d22-9cd6-3a91554cac9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c600aa56-89a0-4398-8d0a-959694509476> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e727fa65-d2ae-4249-94ba-d08140f12a17> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1162b81e-ecc0-4d60-a4a4-e0810037e982> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8ce1a6ec-dcb6-4c90-9c07-3b40adddd7c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9382c3f5-3307-4116-96bb-145c12e14cf9> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ca14af84-9dc4-4cd8-ad93-0c299881f4df> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dc3c62c-e915-4888-9a28-355ac8b753de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f57e82e5-0992-4c8b-b72a-0e73cbfede8a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/63015017-aec5-43f6-9b0c-e0ea8ad947ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/b8155dca-7b8a-49ae-a4cb-279e8374046e> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e727fa65-d2ae-4249-94ba-d08140f12a17>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys (Los Angeles, Hollywood Bowl)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e727fa65-d2ae-4249-94ba-d08140f12a17>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (stereo)" , "Boys (mono)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9382c3f5-3307-4116-96bb-145c12e14cf9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Boys (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9382c3f5-3307-4116-96bb-145c12e14cf9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys (stereo)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9def434c-65c7-485f-9fdd-c125af021d39>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (stereo)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4392da11-6eb0-46d8-a027-cb1c20aa94f8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐06‐17: Maida Vale Studios: Studio 5, London, UK" ;
+        pm:hasLength          "148773" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8ce1a6ec-dcb6-4c90-9c07-3b40adddd7c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142133" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/515e4dd6-0422-4839-bd9e-2d3044512857>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys" , "Boys (Shindig)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ae503942-5dac-49b6-8a24-71bf64b83217>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ae503942-5dac-49b6-8a24-71bf64b83217>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1875fb8-69c6-41e3-b69e-b6a1b4267005>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1162b81e-ecc0-4d60-a4a4-e0810037e982>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Montreal 1964)" , "Boys (Shindig)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/736eaed7-454e-4995-ad3a-15e51c10dedb>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/736eaed7-454e-4995-ad3a-15e51c10dedb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "169000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76653b9c-a77a-4460-bf3d-0c073c83cff7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "132000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8b2ca50-07f1-466b-ab37-7106e22e36fc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146480" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f57e82e5-0992-4c8b-b72a-0e73cbfede8a>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Longitude Music Co." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e8b2ca50-07f1-466b-ab37-7106e22e36fc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/73d089c8-3b12-4a40-b0ba-641c3259c118>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145560" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/73d089c8-3b12-4a40-b0ba-641c3259c118>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys (mono)" , "Boys" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/084430fd-2a76-4b15-8cfa-c9233781d94e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (stereo)" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c0dd1ff-99ab-4ef4-9deb-59e4339661ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149973" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/740b0605-5b1d-4f99-a9d2-55dcdbc0ff2c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b8a59fd-bae5-41c4-b071-10658b2a1ccb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2b8a59fd-bae5-41c4-b071-10658b2a1ccb>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a958c8a-a32f-4f0b-9d92-65dd4cd54571>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9a958c8a-a32f-4f0b-9d92-65dd4cd54571>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c600aa56-89a0-4398-8d0a-959694509476>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "131333" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c600aa56-89a0-4398-8d0a-959694509476>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (RS take 1)" , "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f4ac1785-0d29-4ab5-a0ec-48816cef7543>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (stereo)" , "Boys" , "Boys (mono)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4ac1785-0d29-4ab5-a0ec-48816cef7543>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147466" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60dbd061-7ed3-4eec-bdd2-4575d6784408>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183693" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/60dbd061-7ed3-4eec-bdd2-4575d6784408>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (Shindig)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59453f61-d220-421e-bbb9-9046705df003>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1976 stereo remix" ;
+        pm:hasLength          "144000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca325af1-7c90-40dc-bc65-eb0b40f8ab6d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59453f61-d220-421e-bbb9-9046705df003>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (mono)" , "Boys" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e95091ee-8052-459a-b74c-963c26ad8f61>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e95091ee-8052-459a-b74c-963c26ad8f61>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (It's The Beatles)" , "Boys (mono)" , "Boys" , "Boys (Shindig)" , "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cc0c5679-ddab-42fd-95cb-ae7e3297871a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" , "Boys" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2270ebde-6992-4a66-83e7-1e836b1a1900>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148000" ;
+        pm:hasTitle   "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8bb28491-810a-4487-a9bf-900de7e2eef2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/58bd1924-236c-4efc-9d0b-aef4655bbe77>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys" , "Boys (Shindig)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (stereo)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d6f7d117-7740-42be-813d-f6cb7a5fbf12>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eaafd59a-3726-454f-bc02-5267a1ccbb55>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150000" ;
+        pm:hasTitle   "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/eaafd59a-3726-454f-bc02-5267a1ccbb55>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (mono)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-boys-lyrics>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" , "Boys" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7317aedc-3da3-4164-adf5-911a94adbb32>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys" , "Boys (stereo)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28d6c981-c186-4379-a8b3-19bb50116330>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127760" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71207240-198a-4c5d-b56e-789d8dc3f799>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/71207240-198a-4c5d-b56e-789d8dc3f799>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96b9cffa-c6ae-4f9b-8b4c-42fc205d9d67>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-09-03: Indiana State Fair, Indianapolis, IN, USA" ;
+        pm:hasLength          "149000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q762165>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Shindig)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "147506" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/335bf2a5-55ce-4f70-aa03-9a1c80d5c413>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c90845c-5a1f-4259-b5f1-695f46bb1967>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/722a98e9-3f19-4160-85e3-6f85468e4b71>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112933" ;
+        pm:hasTitle   "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/722a98e9-3f19-4160-85e3-6f85468e4b71>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RS take 1)" , "Boys (stereo)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5a84f811-ca57-494b-8271-b47b2553599b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (stereo)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74a32f18-2dc6-4c36-889f-656d956e94c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "190000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/b8155dca-7b8a-49ae-a4cb-279e8374046e>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Westcraft Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8a2273b8-fc98-4a2d-ba12-2b3ceb2119b3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4269bda-8260-4c57-bd0e-ca3b8061d114>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e3d1b025-779b-46e2-a7b8-73568e90fb74>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys" , "Boys (Shindig)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3d1b025-779b-46e2-a7b8-73568e90fb74>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "114266" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8db193e3-a15f-4d22-9cd6-3a91554cac9d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c4b2afd-41f7-4a1f-bcd8-0614579d4f51>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128199" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df56dfd6-a553-4542-8a8c-f31a456f6fda>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "132467" ;
+        pm:hasTitle   "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3918c3ca-2c96-40db-a8df-6eeedf18d279>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys" , "Boys (stereo)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b047766e-d1b3-40c4-90fa-6a371af88312>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (It's The Beatles)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RS take 1)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b047766e-d1b3-40c4-90fa-6a371af88312>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8d10e55-e30c-48ec-ac3a-232b35c70ff9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9a7b1bdf-c387-4e97-a45a-08de6cbfebb4>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (RM take 1)" , "Boys" , "Boys (Shindig)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53c51918-3d2e-4c09-8559-a51d35f2f8f9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-08-24: Sprint Center, Kansas City, MO, USA" ;
+        pm:hasLength          "72000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/53c51918-3d2e-4c09-8559-a51d35f2f8f9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4b672c9a-bda6-4a00-98c9-abcc3b47a8af>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys (mono)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b8155dca-7b8a-49ae-a4cb-279e8374046e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (Montreal 1964)" , "Boys (mono)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85500243-b4dd-46f0-8fb8-9cb168f85eaa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151480" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/85500243-b4dd-46f0-8fb8-9cb168f85eaa>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (stereo)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Montreal 1964)" , "Boys (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f3dd7096-69f1-44fa-9ce7-85a92de0f0e3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (mono)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03fd8747-a084-405c-a72d-670997e5921a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129800" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c93ce673-aa8d-4330-9f54-ffc95a7751ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5157cb8e-bb33-4c54-afb6-4b7543adb3dd>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (mono)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f88f6c6-c3f6-4583-98e1-2576f1ccf876>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147226" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/63015017-aec5-43f6-9b0c-e0ea8ad947ef>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (mono)" , "Boys" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/914f93a3-12c2-4b65-b789-50ed67d7fc47>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (stereo)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8006eda3-40a2-4503-a51d-0f551c73fd61>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8006eda3-40a2-4503-a51d-0f551c73fd61>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys" , "Boys (RS take 1)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79e0ce20-8416-4818-89b9-849d31ffe240>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963-12-22: Empire Theatre, Liverpool, UK" ;
+        pm:hasLength          "127000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/79e0ce20-8416-4818-89b9-849d31ffe240>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c5942390-dc0f-452d-8d9a-1e949cd4b206>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5942390-dc0f-452d-8d9a-1e949cd4b206>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9def434c-65c7-485f-9fdd-c125af021d39>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d3b7d398-3b82-4d86-873d-b03e0d455307>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1ed82450-137b-46bc-a1bd-437284891b6a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964‐08‐23: Hollywood Bowl, Los Angeles, CA, USA, mono" ;
+        pm:hasLength          "137160" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1ed82450-137b-46bc-a1bd-437284891b6a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys" , "Boys (mono)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/515e4dd6-0422-4839-bd9e-2d3044512857>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-06-17: Melbourne, Australia" ;
+        pm:hasLength          "129907" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1162b81e-ecc0-4d60-a4a4-e0810037e982>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98efac5b-676a-4b60-9382-acf546b2c62a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "128160" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/98efac5b-676a-4b60-9382-acf546b2c62a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca5003c5-b998-4948-8594-425f5cbb96d6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167266" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca5003c5-b998-4948-8594-425f5cbb96d6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (Philadelphia 1964)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (stereo)" , "Boys (Shindig)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5dc3c62c-e915-4888-9a28-355ac8b753de>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Shindig)" , "Boys (stereo)" , "Boys (It's The Beatles)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RM take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/740b0605-5b1d-4f99-a9d2-55dcdbc0ff2c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/084430fd-2a76-4b15-8cfa-c9233781d94e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109600" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bcdd35c-4014-4c39-9ac2-c9a9a12e3f15>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bcdd35c-4014-4c39-9ac2-c9a9a12e3f15>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (It's The Beatles)" , "Boys" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (mono)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dfeed7d4-89fb-4f08-9150-fbf2c191da23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dfeed7d4-89fb-4f08-9150-fbf2c191da23>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys (stereo)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (RS take 1)" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys" , "Boys (RM take 1)" , "Boys (Montreal 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1960-10" ;
+        pm:hasEndDate    "1960-10" ;
+        pm:hasName       "Luther Dixon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4392da11-6eb0-46d8-a027-cb1c20aa94f8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys" , "Boys (It's The Beatles)" , "Boys (mono)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d23734fc-f9ef-4511-b51e-0fb4ca69004d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d23734fc-f9ef-4511-b51e-0fb4ca69004d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca325af1-7c90-40dc-bc65-eb0b40f8ab6d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129706" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8ce1a6ec-dcb6-4c90-9c07-3b40adddd7c7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys" , "Boys (RM take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (mono)" , "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b17177c0-35be-43b4-93d3-e114aa3c3bdf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-08-23: Hollywood Bowl, Hollywood, Los Angeles, CA, USA" ;
+        pm:hasLength          "117000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b17177c0-35be-43b4-93d3-e114aa3c3bdf>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Indianapolis 1964)" , "Boys (Philadelphia 1964)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" , "Boys (It's The Beatles)" , "Boys (RS take 1)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46e8f11b-4602-4e90-8b9f-4d987b843577>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Boys (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/46e8f11b-4602-4e90-8b9f-4d987b843577>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (mono)" , "Boys (stereo)" , "Boys (Indianapolis 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc0c5679-ddab-42fd-95cb-ae7e3297871a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146746" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2c79702e-9feb-4666-a307-795caaaf34d0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (Shindig)" , "Boys (RS take 1)" , "Boys" , "Boys (Montreal 1964)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (Philadelphia 1964)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c79702e-9feb-4666-a307-795caaaf34d0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-08-24: Sprint Center, Kansas City, MO, USA" ;
+        pm:hasLength          "183222" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ca14af84-9dc4-4cd8-ad93-0c299881f4df>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (It's The Beatles)" , "Boys (Indianapolis 1964)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Philadelphia 1964)" , "Boys (RM take 1)" , "Boys (Montreal 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b1875fb8-69c6-41e3-b69e-b6a1b4267005>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (Montreal 1964)" , "Boys (stereo)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Shindig)" , "Boys (It's The Beatles)" , "Boys (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8bb28491-810a-4487-a9bf-900de7e2eef2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-08-02: Greek Theatre, Los Angeles, CA, USA" ;
+        pm:hasLength          "243000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/76653b9c-a77a-4460-bf3d-0c073c83cff7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (RM take 1)" , "Boys (Indianapolis 1964)" , "Boys" , "Boys (mono)" , "Boys (It's The Beatles)" , "Boys (stereo)" , "Boys (Philadelphia 1964)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (RS take 1)" , "Boys (Shindig)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ca14af84-9dc4-4cd8-ad93-0c299881f4df>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1960-10" ;
+        pm:hasEndDate    "1960-10" ;
+        pm:hasName       "Wes Farrell" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58bd1924-236c-4efc-9d0b-aef4655bbe77>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "131266" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6f7d117-7740-42be-813d-f6cb7a5fbf12>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44443a4e-25f5-4209-83b9-cf760ce79658>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "144000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7317aedc-3da3-4164-adf5-911a94adbb32>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003-07-24: Casino Rama, Orillia, ON, Canada" ;
+        pm:hasLength          "184000" ;
+        pm:hasTitle           "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/44443a4e-25f5-4209-83b9-cf760ce79658>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Shindig)" , "Boys (Montreal 1964)" , "Boys" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (Indianapolis 1964)" , "Boys (RM take 1)" , "Boys (It's The Beatles)" , "Boys (mono)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2c0dd1ff-99ab-4ef4-9deb-59e4339661ed>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (mono)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Montreal 1964)" , "Boys (Indianapolis 1964)" , "Boys (stereo)" , "Boys (Shindig)" , "Boys (RM take 1)" , "Boys" , "Boys (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/19029fe2-48a9-4988-b102-12fbfdcd4c50>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "181000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/19029fe2-48a9-4988-b102-12fbfdcd4c50>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (stereo)" , "Boys (RM take 1)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (mono)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Los Angeles, Hollywood Bowl)" , "Boys (RS take 1)" , "Boys (It's The Beatles)" , "Boys (Montreal 1964)" , "Boys (Philadelphia 1964)" , "Boys (Shindig)" , "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac26ff8f-3145-4f70-b679-91ec44364f68>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167000" ;
+        pm:hasTitle   "Boys" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ac26ff8f-3145-4f70-b679-91ec44364f68>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Boys (Los Angeles, Hollywood Bowl)" , "Boys (Indianapolis 1964)" , "Boys (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" , "Boys (Montreal 1964)" , "Boys" , "Boys (It's The Beatles)" , "Boys (live at BBC for “Side by Side” / 13th May, 1963)" , "Boys (Shindig)" , "Boys (Philadelphia 1964)" , "Boys (RS take 1)" , "Boys (stereo)" , "Boys (RM take 1)" , "Boys (mono)" .

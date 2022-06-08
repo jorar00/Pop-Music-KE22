@@ -1,0 +1,1876 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb56a4d0-9435-4020-a0ae-6482e02945b9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "Я Увидел Ее = I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e74fce1-c754-4c7a-9bf2-a62a1d8540d3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215266" ;
+        pm:hasTitle   "I Saw Her Standing There (track 2, takes 11-12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/931efd6a-7f8e-4301-b30a-fc259c47b1d8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1988-01-20: Waldorf-Astoria Hotel, New York City, NY, USA" ;
+        pm:hasLength          "182000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d34cd714-e3b3-4074-8cd0-76badc87a35a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "190800" ;
+        pm:hasTitle   "I Saw Her Standing There (Takes 6 & 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2160efc-1174-4823-8c31-556d8dba8bdd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-06-17: Melbourne, Australia" ;
+        pm:hasLength          "207666" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa0b6229-8bdd-4933-b9de-5e3b02c669af>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "179760" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/070d2f5f-2606-42dd-8109-221d2b6e4b28>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "208000" ;
+        pm:hasTitle   "I Saw Her Standing There (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5562fd5b-47cf-4bd5-a07c-fad9db871d7a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "191000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/199a400c-257a-4e36-81e7-3e2882ea94e7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d190f5e1-e69d-4178-a2c8-5edecad7fd21>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "I Saw Her Standing There (edit pieces takes 3–5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a33b6831-26a7-4bed-bd25-f9ad067139c5>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "George Pincus & Sons Music Corp." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37f4f1f3-c585-44d8-8a67-4718643e526b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a136d375-e201-456d-9036-8063a44100d6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/957123af-0ed3-4be1-841e-a7b76478b5ef>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "297000" ;
+        pm:hasTitle   "I Saw Her Standing There (takes 6–9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/80cbed22-75a5-430b-9de9-c888d41263ae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "235000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c66cf1f4-4ad2-4daa-bc81-a3cfb77f7df3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e537850b-7a6f-4422-a2e0-996935bd6bb4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "191000" ;
+        pm:hasTitle   "I Saw Her Standing There (It's The Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b262e099-7e34-4f74-92df-216441025bb1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Когда я увидел ее" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a221788-cfe9-424b-b4cc-5abbbbc381c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5862c4d-64ae-4926-869b-00376a4b4888>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "148400" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74954988-727d-4625-ba74-e880d47b47bd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "66000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38d2a169-3b2a-4a9c-af7d-c49d12d5131c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "I Saw Her Standing There (live at BBC for “Pop Go The Beatles” / 24th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2f830e09-d09c-4d0f-8a82-0d18f1e5ab8f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177200" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cac70170-3d3c-4eaa-a074-fd65d51c77bb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "169366" ;
+        pm:hasTitle   "Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fce3f390-65c7-4fce-b293-9a75c58d1fd1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29266" ;
+        pm:hasTitle   "I Saw Her Standing There, Using One and Four Count Codes (Guitar Part)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91e184c2-d0fd-4cd9-bbd0-cdfae0072d7f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194360" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dac6c11-d162-492a-a055-5b02de720399>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4b39316-a97c-4cfc-b68b-994ebf125f8b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142960" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/13a070e1-6509-411a-a31c-2a101abeb720>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Leeds Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2d3a291-4273-4431-98d8-e0859d23421f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 11 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd7b659f-0da5-4c3a-9c70-d4081a3d1b6e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 3 - edit Piece)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfa912f1-a246-4422-a84e-9dc0d61af3f3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "206000" ;
+        pm:hasTitle   "I Saw Here Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e04d324-4710-422e-8a4a-1d7362caa5ad>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "175773" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33a55695-f80b-4a36-9e57-3bbb60df7e85>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0cb515e0-4568-4b34-9c37-bd95d6c3f8ad>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/501d6864-6bea-4f6a-8688-5ff064813896>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/afc23302-66fb-4697-a4bc-36110568f8e5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57863b47-a940-45dc-b0b8-331684baccd8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e341610c-db00-4588-ae10-0af674e4a621>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "178000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/daac34d8-bae2-423e-b49f-f470b2f0f760>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cea9681-54d7-46a0-b973-06bfd47f74f2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/649e4404-9acb-4b9b-a5d5-162076d86a18>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fra" ;
+        pm:hasTitle     "Quand je l'ai vue devant moi" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a095e015-ec18-4614-a98a-9331c0e99c8d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04776796-4841-4c6a-af01-433d717833fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97d6f535-9d0d-4cbf-948b-e750f20262eb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (various takes)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed930849-88b5-4f77-a882-f83224cd42ce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "237000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11d4172e-7204-4cc9-b248-4d99149a42f1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ba089ec-70f5-42c7-bd28-8dc5512474b6>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/122cfb05-b1bc-4157-83c7-7da01b2a6bed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ea87649-2010-451f-b334-e8be8d120ceb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1988-01-20: Waldorf-Astoria Hotel, New York City, NY, USA" ;
+        pm:hasLength          "177000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36b2b7f3-f407-4c0b-8749-c813c03f3978>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "169840" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/237131dc-a38e-4ef4-a7d1-2cb4420346a3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf2ba8ef-e35b-46f7-ac74-a557057f2bbd>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fbd6d60-12d4-4e20-99c4-df18205a1897>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "190000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97ec193d-d1eb-445c-90ab-c6cd02abe039>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7db53266-d422-4677-bb7f-0ddc180e2119>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177333" ;
+        pm:hasTitle   "I Saw Her Standing There (Cavern Club rehearsals)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fe30584-32e6-4060-a91c-a1247127639e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 10 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc907237-9f4f-4cde-a419-c054fcde1e19>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0da6b534-6df6-4dec-9a5a-90cb472ff442>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐10‐24: Karlaplansstudion, Stockholm, Sweden" ;
+        pm:hasLength          "168800" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7c7ee2-6b9e-461d-bab0-c273c6997461>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "220840" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0058a41-b201-4f8e-96c7-1c20ee4a2c90>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "258560" ;
+        pm:hasTitle   "I Saw Him Standing Here" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01f01cc3-8dce-4c59-843d-e2ca62524f02>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1970-09-04: The Forum, Inglewood, CA, USA" ;
+        pm:hasLength          "656000" ;
+        pm:hasTitle           "Medley: Communication Breakdown / Good Times Bad Times / For What It's Worth / I Saw Her Standing Here" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f76494a-9242-483a-a54a-2dfdeaba8f90>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174426" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9bf2e5a-f776-4601-b276-267e7d6bb158>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7baa310-b4b8-4f1d-b3a1-9cc60921eefe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "190000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b98e38c0-7348-4624-8dcc-36f223c766a3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158101" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd5b5871-529f-4db2-a208-8d059ce57663>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "single version" ;
+        pm:hasLength          "238000" ;
+        pm:hasTitle           "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ac52631-6c32-41bf-9276-b8bf4ea3485c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f4d51a5-c871-4bab-b21d-b5ef682d7b5f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐10‐16: Playhouse Theatre, London, UK" ;
+        pm:hasLength          "151640" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee1329f9-03c5-413b-ab44-9f59765de1ae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "276000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 6, 11 & 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b91eaa5-45c8-4aad-8613-769f5c1bf1ce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174866" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/a8a158e3-0a0e-37e1-b5b5-9480a02d816e>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b84500b-a8cc-48aa-9971-5667db6ff3e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70162bd3-46af-43f9-b577-1a2db696ab9f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a2c28571-d05b-436e-a3e5-aca26b05beff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d858204-8fe5-4e75-83c0-333a6ff8e140> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33bf9ab0-6800-41f4-abbb-2434b742d3c1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6473d1d0-5637-4942-be1a-502ad3a10a04> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2ae3856-ab69-4d14-8a1c-99ea2302c5ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/548e05d5-d596-44ce-87ba-ed024ff78b89> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b625c18-bfb5-4055-b12b-ae95d5d55f0f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ac52631-6c32-41bf-9276-b8bf4ea3485c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f416c32-01e3-4890-8704-b701f6bed367> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/caeeb509-5de1-448d-b189-5b0e1efdf9d1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eefaf4ba-492d-492f-adb0-e83420ee1d59> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/792ab091-7536-471a-a55d-0b9d5ea1eea6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f768b52b-30c7-457b-a94e-08dc783df51f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b3b8f82-c95f-448a-9a6e-719abaae4f14> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ab94e33-6538-440e-a3ca-b5674f22273b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4667127-96d8-4eb1-9863-ecc45ec53eb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ab223b6-7e31-4af9-9fc1-2f80807b7dfd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c453200-e923-4977-90f9-b312a629a505> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5097c587-d18a-40de-a90a-c0b32ca0e22f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56e44330-4b22-4027-be94-75d04405e79a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/763e0f17-60e3-4482-b376-82790acd876f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75d6adce-d7ce-4e51-ae27-c29035120d03> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b9af59a-1c77-4cb2-8ced-99fdc96bc265> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d022c3a-d466-4f66-9f25-0d9b995cf230> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8cb2fb92-eb5d-4178-b8fb-8accb0f8c24f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a68ab604-a3cc-43ff-b722-d0ae5ae42811> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/852f6ff5-f686-4f02-9795-11c05b07644d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50b6fe0d-1f73-4036-bac3-b1f59b36a231> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/367ec17b-0058-4ab6-b9a0-dee187bade28> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/754a4028-9b32-453f-837a-786928534288> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/211c96a5-799b-42a1-8cbb-5f5407beab2c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f4d51a5-c871-4bab-b21d-b5ef682d7b5f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd4443ff-fe36-4b83-8705-385e5bce0306> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/772a0216-f62b-4d90-b7fd-64ab58c1e2a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bab8987e-16f6-4edd-97d0-4fd43342d3fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b450ccd-5963-4e58-91fc-de0b25024377> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3136e04f-1acb-487a-a7f9-ce9e31438aa9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24578d83-7d2b-4d9e-9200-f223fb3c4ff5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97418282-890a-46f0-a7b9-17c32b18a315> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0cf1c6e2-29a9-40e7-9170-60d8aa1b735c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cfc783d5-b0d6-4e59-9013-919ab1e8feca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e04d324-4710-422e-8a4a-1d7362caa5ad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5aef7570-3daa-4a53-bb18-0eb900f48ce7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09857c03-439e-437c-9fc3-b40f245b5d92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c66cf1f4-4ad2-4daa-bc81-a3cfb77f7df3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b715baea-d81e-45ef-ba77-aeb2a401866e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ff7cc373-60dd-4613-898e-7ee2283ac05a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63198df6-226f-408c-9936-6ff562aba1c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b4718f2-b6b3-4468-bbb1-2246b7eb13ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/501d6864-6bea-4f6a-8688-5ff064813896> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d34cd714-e3b3-4074-8cd0-76badc87a35a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee1329f9-03c5-413b-ab44-9f59765de1ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9855994-f741-4c40-b8d3-445d431fd11d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81996363-5b9a-4f88-b45d-d1e38c25dbff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3373bc5-a26f-42b5-a551-0b15d087fd97> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d23f6d6d-3414-49ea-a454-3d80d8d35dbe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4573dba6-8fb3-42bd-8aff-9f8cb0fdd758> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe15bf30-39f7-4a59-af3e-fb362a91b6b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3b6957f6-d692-482a-b532-6ecb70ae5d14> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e907b23c-f411-4fd3-b6ec-a74cc23a2a4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fe4fa54-2db3-4f7a-b08f-38717866267e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/185d57ba-781a-42c9-a996-35e200484190> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55fc1e1e-8322-416d-a2a0-b5c8fa388611> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2d3a291-4273-4431-98d8-e0859d23421f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a7cb9fb-7b30-4dbb-a4b7-7ef988645504> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5528eb84-9394-4990-8582-e40583ab7d9a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52b44a92-c124-4a4c-8022-f4c23d7a584d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b01cadb-f5fe-449d-93aa-e7307639eafd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2160efc-1174-4823-8c31-556d8dba8bdd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17b462f5-c196-407c-a953-56820734fd7d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0058a41-b201-4f8e-96c7-1c20ee4a2c90> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4923dd02-0643-4b4e-a112-c3543e016ff5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a77d66c-52ef-4574-a463-3a27dd6ddddc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/122cfb05-b1bc-4157-83c7-7da01b2a6bed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eca63126-79f8-46fb-8160-a18d76b37864> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a3e887a-548e-486e-8de5-b04d50152b92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4495e953-ac75-46d2-a722-0a490d444bbd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18f40948-d36f-4bc9-938b-d156588da8ea> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed5dfc4c-c786-4842-889f-24a97888f2a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fe30584-32e6-4060-a91c-a1247127639e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7db53266-d422-4677-bb7f-0ddc180e2119> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc7cb8d6-930f-40a0-82f2-3643b81c0cae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91e184c2-d0fd-4cd9-bbd0-cdfae0072d7f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87e0b311-e983-4894-aa1e-17a1648cd3c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/070d2f5f-2606-42dd-8109-221d2b6e4b28> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6da2dbe-4853-498e-aebf-1d03a4892fcc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffdbca19-d5b5-4ed7-a0d2-6ea3ad4dbe82> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a0bf15c-019b-4d11-900f-3ac415752a66> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec45d546-85ce-4a74-bc31-e81edf16acb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06e9b717-45e8-4cf2-933a-8a7a33ef1a27> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7c7ee2-6b9e-461d-bab0-c273c6997461> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/237131dc-a38e-4ef4-a7d1-2cb4420346a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2f830e09-d09c-4d0f-8a82-0d18f1e5ab8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9731ec87-98bd-4b63-a716-db98fd315ca7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99d95ae6-779f-4717-9e75-5e21b44d29de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7a4f184-d7fe-40e0-9ea5-e888292aec9f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fdc7f14-558e-4b28-a6cc-c7ff8400c3de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a134ebe0-b53a-4622-80f5-a28c0505d21e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa32aca1-a0f7-4feb-acf9-7b3d55d29ef4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cea9681-54d7-46a0-b973-06bfd47f74f2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aaff0b7a-6c5c-4859-8b80-8935bf06b53f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14f27642-4470-4d76-9706-ff278dec5cc9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c065f19-1c4d-4145-9676-ac625cdda72f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/daac34d8-bae2-423e-b49f-f470b2f0f760> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1650e28-a17d-420a-b1bf-f41ec1f63ef7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01f01cc3-8dce-4c59-843d-e2ca62524f02> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3063855-5931-4692-b54c-929404b8c0e2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c912234b-3929-499f-878f-49726bd778ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32cf90eb-6493-487f-8139-1313b7c939d9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96ef94df-c657-46de-850c-f4b34373631c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82e0ab6b-1fab-4b62-adef-fd98ef033bdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28eaa070-c598-4c69-9c6e-d7514fe182ea> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89b49645-d54a-4d5f-a5cb-23e699dcb75d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5012ce82-fbfc-4374-9cec-d1dc4c09deed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0255bfa-dfe0-4cb4-b9eb-01a02919e56e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/51bcf492-99c5-4a25-abdc-c17cb99401b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8b8048f-d72e-4603-a262-8b52999e72b4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24436429-4fe6-4a2e-b359-e649805012b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf2ba8ef-e35b-46f7-ac74-a557057f2bbd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b98e38c0-7348-4624-8dcc-36f223c766a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/200a21b8-2c43-436c-9c2a-3503b6f9bde2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c0f4ef5-1e97-49f6-b7d8-28162d1e59f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57d19e1f-b42d-441e-be6b-7a479f6b1231> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb18dfe5-b952-4abd-91a0-65a7785caece> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9bf2e5a-f776-4601-b276-267e7d6bb158> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74c3fbb3-2a43-4805-8911-a545a66d2879> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ffdd303-95aa-4f55-8544-4e11f0ad4e4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36b2b7f3-f407-4c0b-8749-c813c03f3978> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77dba6ca-2d62-4297-b4cf-08950bfc0970> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5986ecc4-de6e-42e0-90e4-04343893fe7e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57863b47-a940-45dc-b0b8-331684baccd8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c4bd3f6-8507-4852-8c58-dfef1db7bb51> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/931ff072-ab0f-4a28-af2f-9275542f9d53> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52cb8c2a-197d-480b-9bdc-8ce0d5fd6f60> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2371528-e446-4988-a00e-11b327d4ee13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96b8d491-df0e-4696-b645-ebd213066492> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e89d3a0-8e54-4505-8aa5-1aea2d13bd8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be767b91-26ed-4ec2-946d-2a7cae0bd87d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be4145d9-7170-489b-b2a0-1b9fcb8a8624> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63b0e297-726b-48bb-97f0-9f93ef4dfe6c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5862c4d-64ae-4926-869b-00376a4b4888> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7731bbfb-f1ea-4b66-8765-9e722bd4a3d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b250b3f8-0274-4e5f-bdb5-98555563a1b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/211e5aea-9501-4eda-9010-fb6296553710> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74954988-727d-4625-ba74-e880d47b47bd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4c97dfb-b2d0-4c9c-8d4e-0908cf1a980f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e74fce1-c754-4c7a-9bf2-a62a1d8540d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/161f6329-b4aa-4ab6-b63b-982b548fc5c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41abcb11-b81f-4d4a-a568-c2e7ce114a37> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50449891-5c9f-4ff1-bdc9-993b21a0423a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7bd80a8e-9699-430d-955c-ca35b7e8055e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8b3b27a-cbec-4ce3-b0b5-c7ded0dbb1bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6a06573-6c1f-416b-a5cc-9dd36c5c5163> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed0e67b3-0115-4daf-8ee6-f824c19c6eff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e24b66eb-c76b-4857-9ac1-f5ffa97ff8b4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e79853c-d3ee-4fe0-bc05-92ce6afc7963> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e25e3cbe-ee8c-4352-8a80-7754464decc9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24af1d89-a9c3-454a-9165-c60f893dfd0a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed930849-88b5-4f77-a882-f83224cd42ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd5b5871-529f-4db2-a208-8d059ce57663> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4883ed76-74fd-4052-ad0a-c99b76fafdd7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/582157c6-d329-46af-b455-ea4680fcbbe0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0b48cb1-a81a-437b-b622-7a6c0a2597c2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da73b7ff-14a1-4fc8-95f8-c18cc96c3c28> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/197f86a7-e1cd-4aeb-a254-2afa112e7bba> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/243d99c5-e36f-468a-88aa-d512abcbf781> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b29d9550-8eda-48e7-bf0f-d5ffeb556208> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bb0f5fd-57f5-4bc1-8eb5-9d3072c145e4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c19ebccc-b047-4e5a-9433-04f23e259cc5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27812290-b1e3-42a1-9d51-483bb9045b51> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11d4172e-7204-4cc9-b248-4d99149a42f1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96d20fd6-ef0f-4a59-8e2a-9a2845da8005> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee4cebd7-cccf-4f11-b9db-37347142b305> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b91cd4-664c-4d6c-a419-09be63ec8d92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/381160f3-716e-4962-91e9-2719edde2671> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd7b659f-0da5-4c3a-9c70-d4081a3d1b6e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4300ddce-1012-40a2-9624-91e1c2704e0d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/136961c6-e0e4-4201-9539-537d7da9a404> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4ea3d0b-e089-47eb-a74e-e9bf5a0c1f6b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/afc23302-66fb-4697-a4bc-36110568f8e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b57e166f-ee1d-44fd-8d4b-2ac645c98094> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9f3971a-18b1-41ad-8fe3-80a867a92c8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e7d9d5b-eee0-4e41-a423-8ba80f96bc32> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2ef8e5e-67f3-4759-bd36-2419cbcb7980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15b4c613-9859-426f-93c0-e1119cf0ac1b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a221788-cfe9-424b-b4cc-5abbbbc381c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6458fa7-5903-4eea-8ca4-c102024a9ae2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04073b48-ce8e-4963-8118-25c59910e633> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/233f3901-9e08-4afa-afbf-7746c8930add> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd3d723d-1774-47ed-beaf-7ec02fee2c17> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/021fb329-d3a9-469a-bec8-de69c412e594> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b2918a12-fe29-4a98-a9df-5491d99b7927> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c0a482c-4ef8-4128-9bba-7a690be06f6f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9dcb380-0fbb-4e4a-a134-431b9f0af839> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97ec193d-d1eb-445c-90ab-c6cd02abe039> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f1fa00b-2b3c-4727-b878-afdfe1931d52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e82d40a4-3142-46aa-983d-20663e257515> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3d9b0a8-b10d-4fb6-aec0-102673154131> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/940ede4f-b03d-4898-83f7-cb4b7b4f4d33> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c225482f-7cb5-4a4f-8530-a593aba8fc36> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb56a4d0-9435-4020-a0ae-6482e02945b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ce4dc7f-6da3-46fe-a3df-732ab38d858b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76193c71-0f2a-4d94-adf3-0a3b12b59484> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65a77f97-9626-428a-a53d-21ba7c075870> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38d3b221-ab19-4052-87dc-ef4ecd388def> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a639577-919b-49ba-bb11-873633feacb4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4c54ee9-b28e-4a79-9afd-2159ef2abd5d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76db9015-00c4-4a4e-bb7a-f64d94456b68> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a337f97d-efc2-4acd-bcec-78cc5b1be231> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf8cded5-5395-4ce0-aec5-84180b13bcf7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b262e099-7e34-4f74-92df-216441025bb1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64688951-0bf8-4856-9427-e8959139ca90> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e84b216-56a8-43eb-ba21-ff366ac2e9a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5440668-225f-45e5-bba8-b8b1e3be3aa2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/957123af-0ed3-4be1-841e-a7b76478b5ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fbd6d60-12d4-4e20-99c4-df18205a1897> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/199a400c-257a-4e36-81e7-3e2882ea94e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/767de90e-724c-4281-93c7-0a7d557374b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe0b0ec2-0f36-43cd-8d6e-6dd4dd22d767> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1b5f59c-0df5-40e9-8021-5c8a8e4b0458> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97d6f535-9d0d-4cbf-948b-e750f20262eb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0da6b534-6df6-4dec-9a5a-90cb472ff442> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbb4a224-7597-45b3-ba9a-6772a4463df7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c482cf8-e224-448f-a329-f9318a7c2795> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e76af3d-8475-4e96-bc4a-37644927b0d9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e05d0ab2-459a-4450-a312-21ea0c6cba5e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00bed142-3b64-4f71-b154-0440ca50aa0e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/712faa37-314a-47a4-b6a5-198fb7a19f3c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da77d23c-3acb-4b3d-9596-24aa55f03ece> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c52ff3dc-4b5e-46a5-a472-e4a0d91858ec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11a124f5-a39d-4fe8-b994-9cbfe2c59efc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b22ba04-d8b6-4fcf-bd1b-c59107f9755c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77c63353-09b5-495e-9021-9d04b96f0052> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4c4f732-33ef-48f0-ba8b-3ddcf8320d76> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a136d375-e201-456d-9036-8063a44100d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7baa310-b4b8-4f1d-b3a1-9cc60921eefe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc907237-9f4f-4cde-a419-c054fcde1e19> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd76a53c-d9c9-4c21-86b2-42eb0f60a8cb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85c8c725-c13a-4523-90d5-5340f101cd64> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/548ecc82-b4ae-422b-9b69-cd0c3febae1a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a54c5e2b-3e2e-4cc1-9c53-5fea56572fec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e001f196-0873-44a1-8d66-715baeb752c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e537850b-7a6f-4422-a2e0-996935bd6bb4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7dcd0c81-6f33-44b4-90ae-b09731503436> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a277f0a1-bbb7-477f-990c-97d9a503f6c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ed87294-ecec-4b9d-83ad-0150e24eb042> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a592bdf-5b3f-425b-9f77-9103edad7b7b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8e222bf-b33b-4eb9-aaa9-a704bcd8add7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e341610c-db00-4588-ae10-0af674e4a621> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c3353c3-81ee-4b23-a908-74e42defffd0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dac6c11-d162-492a-a055-5b02de720399> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ba089ec-70f5-42c7-bd28-8dc5512474b6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d611eb98-6a2b-46d2-adac-b80f9cbfdd2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d1961c7-27e9-49ab-b05b-8ffe8078f01b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37f4f1f3-c585-44d8-8a67-4718643e526b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee6480f3-a13e-4c2b-b8fb-9ed4b3485f19> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33a55695-f80b-4a36-9e57-3bbb60df7e85> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/877cd6ae-6631-4846-bddb-19cf0350f5d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5823c7fb-8910-4c9d-86af-c32ed788060d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7840222-8eab-48ce-a12e-ee2d01ea05d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b91bd55-ac7d-442f-bc3c-4e0a14865eb5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddef7bfd-2da5-4d5b-9593-f9aea402d644> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db6263a7-e80a-41bf-b7d8-1602fc17943f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c47786e-f402-4bb2-b131-edeef50357f4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b69eaa2e-f9dc-4930-92c4-c59e1589f993> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb8d065c-3e99-48aa-a561-746b203a0344> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfb2b1eb-4bc0-4933-a080-54fcc9513ec9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/810b2b5a-f7e8-4dec-8ee9-9278732b7b1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29dd537b-40a1-4ea1-bf67-127c1edbfa33> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5edd6cb9-d7e0-4628-a0c7-bc850b226c3b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6bf8d1c0-5c7c-4b32-a174-01f0827f0916> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/80cbed22-75a5-430b-9de9-c888d41263ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c3d52f9-3f6b-4e11-bbec-4addc3c67fb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04776796-4841-4c6a-af01-433d717833fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d1255c9-dd80-4e0a-accc-cbc1564e7037> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb5276f5-ce34-4a26-bb76-c62b81466cb7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b58d4f5-39d9-4efd-ae85-94dc41debec5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/637377cd-972c-45b0-8ea9-f5677ba71411> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/000ecbc1-dd36-448f-8be4-05c47ff6288d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0807508c-aa1c-494b-a042-f38a223e7946> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d57f3e84-76dd-4b5a-b689-82b26c261394> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d657bb5-ccb2-4699-b171-48e34c7de7b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f734ad36-09c3-479f-afa6-6ba2541597ee> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5eee2a3d-0c86-4677-8f56-e710115016af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/92cfc511-fdf3-417f-8361-fdb2a08aebab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acdd5826-94e7-4218-ab3e-4d865fb270c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31d14ebe-314d-4f81-8787-e23a75d42ae2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b0eb475-2437-4d0f-8053-373b3456896d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b91eaa5-45c8-4aad-8613-769f5c1bf1ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6fad831-0871-4e53-a315-6bb840bea221> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f76494a-9242-483a-a54a-2dfdeaba8f90> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b153c742-2d9b-4337-b9ad-14851e8e2307> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf1aa71f-66f7-4f11-8b0b-b171e861b169> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1676136-a32d-43a9-a53e-c81ad3c21632> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/476fc666-3486-4d3e-99fd-44845b395822> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/354ae9f9-6d23-4ac3-bede-ce418501e5ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/658d6a76-56a6-47d6-a154-c7782c6c722a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a095e015-ec18-4614-a98a-9331c0e99c8d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/530e5528-3cb0-4ae8-a7ed-15afc2f26601> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ea87649-2010-451f-b334-e8be8d120ceb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/017a96c6-0bc7-452c-b318-700cdbea2349> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83136e9f-ee04-4f17-9ac4-460fbfd878a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/174ebd50-941e-4278-97ad-06c406d84603> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfe4f23e-d667-4b7b-b37f-a82ee92e62ac> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b55a9ffd-a426-44c4-b1ca-517874f37a2a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fce3f390-65c7-4fce-b293-9a75c58d1fd1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3db9c0cf-fb71-4cd7-8801-b1d2346b06c2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4b39316-a97c-4cfc-b68b-994ebf125f8b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c5012a6-7c58-4c1e-ba9e-0efbcfc9072c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38d2a169-3b2a-4a9c-af7d-c49d12d5131c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14d6ab5d-a59f-40b2-9e63-4aff858a8fc9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e95ab927-73dc-4d6e-8567-6132e2895748> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/258f6c3d-ca0a-403f-bf73-23c49c754b24> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f959c88b-effc-4235-a926-51631010a9ff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0543b2bc-45a1-49e3-b330-4872435e3271> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/931efd6a-7f8e-4301-b30a-fc259c47b1d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b13ad0b-7fc9-4a59-9398-ac72208ea219> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37cfd21d-0417-4fcf-bdaa-1d39cb389f81> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3014d72-cae5-4a34-8d32-fa59f760ca18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3f313ac-ba20-423c-834e-3c78c7447eb5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f87082be-eda9-4bf0-bef8-4dcbfd8df309> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfa912f1-a246-4422-a84e-9dc0d61af3f3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc96e292-5666-4325-a31d-88a725860e23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cc6e9b9-f333-45ab-936e-ecca1e9e769e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18f6adca-9a6c-490d-991e-ce05190a9c25> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3aa67ec-2edb-463b-9871-aef0f4658fa2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00710b08-925f-49ea-9fe5-6a835d7fb5cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6fe6d4b4-fc44-4a73-bc24-22cb0721d652> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6c32be1-483d-49cb-ba2b-0d6ffa42651a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a501a7f2-51cc-4fc9-8454-88d0e1d8b982> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49d94bd7-6d98-4713-a8af-5405b31add24> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82d1aa19-1889-4464-9eb1-2d33af3f827f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a114302d-9df7-479a-ab85-e979235a0034> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa927e3d-280e-4cee-bea0-6935c81d706e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e98d108a-f992-44f2-84cd-f66468351822> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91a84f4d-f1ff-4509-a5a9-cc9ecc5adefe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b671978-2794-4861-aca5-6df19f08c580> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a031274b-f240-4b41-9aa7-7cbdc4cfc355> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1b6ccec-6555-4a6b-a31c-7340154ddaa6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/398eb21e-561d-4c8c-be1a-6c7fb6a313d5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0c6621-a76f-4dec-b0c6-8ce0679f196f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/939279d9-eb4c-40c3-9808-96f99b3deef0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa0b6229-8bdd-4933-b9de-5e3b02c669af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5562fd5b-47cf-4bd5-a07c-fad9db871d7a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b8a34471-da9e-4703-afdb-19ff4e8419de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8aa8d6c-403a-488d-b51f-7b82d9821c43> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db9fc921-619f-49d4-bcf8-540393825b96> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cac70170-3d3c-4eaa-a074-fd65d51c77bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d272add-0d6b-4f7e-b065-5fd223ddaa8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2278eab-fde2-40ba-8ef1-025910947cb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/170a4f0a-b18f-4ad9-9507-ed25f31014a8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6de731d6-7a8f-43a0-8cb0-1dca5a40d04e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d190f5e1-e69d-4178-a2c8-5edecad7fd21> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/541ff66f-426a-431d-a60f-5aa702e724ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9819f07c-b77b-4327-a6aa-b499ec616288> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/effccf55-34db-42c4-8df8-05004a1c7ffa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0cb515e0-4568-4b34-9c37-bd95d6c3f8ad> ;
+        pm:hasTitle       "I Saw Her Standing There" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/424e764a-83ce-4f87-9fbd-fbff692e61de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/32566a36-7a92-3ea5-8133-bbf34df34705> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/08509719-d1bf-4936-a0f3-6eae73a140ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f2d79428-1172-448b-82e1-ed5b295d4216> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/08230033-7732-4b63-a334-9c7f7e8a83b4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9b4ee7de-8c99-4775-8240-c6cb099319ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/649e4404-9acb-4b9b-a5d5-162076d86a18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ef6b1073-4239-4d0d-bd27-f479f9579e43> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/3a7d7ab8-57c7-43a9-afcd-f6095d33c702> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dfaee65-164e-43d4-b43b-381439541fdd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/13a070e1-6509-411a-a31c-2a101abeb720> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a789c5e2-2dc5-47f2-bb97-12c23e5805d2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a33b6831-26a7-4bed-bd25-f9ad067139c5> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec45d546-85ce-4a74-bc31-e81edf16acb6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175293" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a7cb9fb-7b30-4dbb-a4b7-7ef988645504>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "229053" ;
+        pm:hasTitle   "I Saw Her Standing There (outfake – Monster version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e84b216-56a8-43eb-ba21-ff366ac2e9a7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (partial)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be4145d9-7170-489b-b2a0-1b9fcb8a8624>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6c32be1-483d-49cb-ba2b-0d6ffa42651a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194360" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d022c3a-d466-4f66-9f25-0d9b995cf230>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/91a84f4d-f1ff-4509-a5a9-cc9ecc5adefe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "222000" ;
+        pm:hasTitle   "I Saw Her Standing There (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d57f3e84-76dd-4b5a-b689-82b26c261394>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 6, 8 & 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a0bf15c-019b-4d11-900f-3ac415752a66>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63198df6-226f-408c-9936-6ff562aba1c9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 10: 1963-02-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f768b52b-30c7-457b-a94e-08dc783df51f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/582157c6-d329-46af-b455-ea4680fcbbe0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "179000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c065f19-1c4d-4145-9676-ac625cdda72f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "219000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b58d4f5-39d9-4efd-ae85-94dc41debec5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "206733" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14f27642-4470-4d76-9706-ff278dec5cc9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-01: Olympia Theatre, Paris, France" ;
+        pm:hasLength          "165000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56e44330-4b22-4027-be94-75d04405e79a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183386" ;
+        pm:hasTitle   "I Saw Her Standing There (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8aa8d6c-403a-488d-b51f-7b82d9821c43>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "246000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/185d57ba-781a-42c9-a996-35e200484190>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aaff0b7a-6c5c-4859-8b80-8935bf06b53f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "140000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed0e67b3-0115-4daf-8ee6-f824c19c6eff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/08230033-7732-4b63-a334-9c7f7e8a83b4>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "I Rammed His Ship With Mine" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b715baea-d81e-45ef-ba77-aeb2a401866e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-06-17: Evening show at Festival Hall, Melbourne, Australia" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c4bd3f6-8507-4852-8c58-dfef1db7bb51>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e89d3a0-8e54-4505-8aa5-1aea2d13bd8c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "225200" ;
+        pm:hasTitle   "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/763e0f17-60e3-4482-b376-82790acd876f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cc6e9b9-f333-45ab-936e-ecca1e9e769e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "181842" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7bd80a8e-9699-430d-955c-ca35b7e8055e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1988-10-10: Ryōgoku Kokugikan, Sumida, Tokyo, Japan" ;
+        pm:hasTitle           "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e82d40a4-3142-46aa-983d-20663e257515>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b4718f2-b6b3-4468-bbb1-2246b7eb13ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/424e764a-83ce-4f87-9fbd-fbff692e61de>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "I Saw the Answer There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0cf1c6e2-29a9-40e7-9170-60d8aa1b735c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "212080" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6473d1d0-5637-4942-be1a-502ad3a10a04>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be767b91-26ed-4ec2-946d-2a7cae0bd87d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f416c32-01e3-4890-8704-b701f6bed367>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204586" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e05d0ab2-459a-4450-a312-21ea0c6cba5e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1990-06-30: Knebworth, Hertfordshire, UK" ;
+        pm:hasLength          "192000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffdbca19-d5b5-4ed7-a0d2-6ea3ad4dbe82>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "67240" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Mainly One Count Codes (Full mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd76a53c-d9c9-4c21-86b2-42eb0f60a8cb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982‐10‐13: Shea Stadium, New York, NY, USA" ;
+        pm:hasLength          "189000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2278eab-fde2-40ba-8ef1-025910947cb9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "179133" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a592bdf-5b3f-425b-9f77-9103edad7b7b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213200" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14d6ab5d-a59f-40b2-9e63-4aff858a8fc9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "168773" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09857c03-439e-437c-9fc3-b40f245b5d92>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 5 - edit Piece)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b84500b-a8cc-48aa-9971-5667db6ff3e3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "187000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74c3fbb3-2a43-4805-8911-a545a66d2879>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147333" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfb2b1eb-4bc0-4933-a080-54fcc9513ec9>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 2 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/021fb329-d3a9-469a-bec8-de69c412e594>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-06-27: Amoeba Music, Hollywood, LA, USA" ;
+        pm:hasLength          "219000" ;
+        pm:hasTitle           "I Saw Her Standing There (live at Amoeba 2007)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4883ed76-74fd-4052-ad0a-c99b76fafdd7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87e0b311-e983-4894-aa1e-17a1648cd3c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221173" ;
+        pm:hasTitle   "I Saw Her Standing There (take 11, track 2 and take 12, track 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e24b66eb-c76b-4857-9ac1-f5ffa97ff8b4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "153000" ;
+        pm:hasTitle   "I Saw Her Standing There (1963-10-24)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a68ab604-a3cc-43ff-b722-d0ae5ae42811>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c47786e-f402-4bb2-b131-edeef50357f4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "230933" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/08509719-d1bf-4936-a0f3-6eae73a140ce>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "She Saw That Rainboom There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d23f6d6d-3414-49ea-a454-3d80d8d35dbe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "55200" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Two and Four Count Codes (Full mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24af1d89-a9c3-454a-9165-c60f893dfd0a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "I Saw Her Standing There (Drop In)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/caeeb509-5de1-448d-b189-5b0e1efdf9d1>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-06-17: Afternoon show at Festival Hall, Melbourne, Australia" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5aef7570-3daa-4a53-bb18-0eb900f48ce7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185640" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa927e3d-280e-4cee-bea0-6935c81d706e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "154626" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bab8987e-16f6-4edd-97d0-4fd43342d3fe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52b44a92-c124-4a4c-8022-f4c23d7a584d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "288573" ;
+        pm:hasTitle   "I Saw Her Standing There (takes 6-9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3b6957f6-d692-482a-b532-6ecb70ae5d14>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cfc783d5-b0d6-4e59-9013-919ab1e8feca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "188200" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0807508c-aa1c-494b-a042-f38a223e7946>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (Sveriges TV, drop in)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a277f0a1-bbb7-477f-990c-97d9a503f6c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "220000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a501a7f2-51cc-4fc9-8454-88d0e1d8b982>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157200" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7dcd0c81-6f33-44b4-90ae-b09731503436>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2010-12-13: Apollo Theater, New York, NY, US" ;
+        pm:hasLength          "191000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4495e953-ac75-46d2-a722-0a490d444bbd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178626" ;
+        pm:hasTitle   "I Saw Her Standing There (track 2, take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2371528-e446-4988-a00e-11b327d4ee13>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-07: Citi Field, New York City, New York, USA" ;
+        pm:hasLength          "189226" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee4cebd7-cccf-4f11-b9db-37347142b305>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174333" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/530e5528-3cb0-4ae8-a7ed-15afc2f26601>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6de731d6-7a8f-43a0-8cb0-1dca5a40d04e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/792ab091-7536-471a-a55d-0b9d5ea1eea6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "192000" ;
+        pm:hasTitle   "I Saw Her Standing There (Rock 'n' Roll Hall of Fame 1988)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a031274b-f240-4b41-9aa7-7cbdc4cfc355>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "189840" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fe4fa54-2db3-4f7a-b08f-38717866267e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2012-07-14: Hyde Park, London, England, UK" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd4443ff-fe36-4b83-8705-385e5bce0306>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c225482f-7cb5-4a4f-8530-a593aba8fc36>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "369000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8b8048f-d72e-4603-a262-8b52999e72b4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "131040" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/200a21b8-2c43-436c-9c2a-3503b6f9bde2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165333" ;
+        pm:hasTitle   "I Saw Her Standing There (live at Star Club)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/211c96a5-799b-42a1-8cbb-5f5407beab2c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb8d065c-3e99-48aa-a561-746b203a0344>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174440" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6a06573-6c1f-416b-a5cc-9dd36c5c5163>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "222733" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2, 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76193c71-0f2a-4d94-adf3-0a3b12b59484>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "I Saw Here Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c453200-e923-4977-90f9-b312a629a505>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "take 9" ;
+        pm:hasLength          "171600" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6fe6d4b4-fc44-4a73-bc24-22cb0721d652>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134533" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4667127-96d8-4eb1-9863-ecc45ec53eb9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174706" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/852f6ff5-f686-4f02-9795-11c05b07644d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003" ;
+        pm:hasLength          "266746" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d611eb98-6a2b-46d2-adac-b80f9cbfdd2e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d1961c7-27e9-49ab-b05b-8ffe8078f01b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5097c587-d18a-40de-a90a-c0b32ca0e22f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172706" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fdc7f14-558e-4b28-a6cc-c7ff8400c3de>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963-12-22: Empire Theatre, Liverpool, UK" ;
+        pm:hasLength          "161000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0b48cb1-a81a-437b-b622-7a6c0a2597c2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29226" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Two and Four Count Codes (Backing Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ab223b6-7e31-4af9-9fc1-2f80807b7dfd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "I Saw Her Standing There (Pop 63)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/170a4f0a-b18f-4ad9-9507-ed25f31014a8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (RS takes 9 & 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/136961c6-e0e4-4201-9539-537d7da9a404>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5440668-225f-45e5-bba8-b8b1e3be3aa2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137626" ;
+        pm:hasTitle   "Songbook Solo: I Saw Her Standing There (Backing Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3aa67ec-2edb-463b-9871-aef0f4658fa2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207133" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/637377cd-972c-45b0-8ea9-f5677ba71411>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "190000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41abcb11-b81f-4d4a-a568-c2e7ce114a37>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "193000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ff7cc373-60dd-4613-898e-7ee2283ac05a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "148826" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/32566a36-7a92-3ea5-8133-bbf34df34705>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Assaut sur mon grand-père" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db9fc921-619f-49d4-bcf8-540393825b96>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "stereo" ;
+        pm:hasLength          "125000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83136e9f-ee04-4f17-9ac4-460fbfd878a2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (1963-03-16)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b8a34471-da9e-4703-afdb-19ff4e8419de>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "159266" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24436429-4fe6-4a2e-b359-e649805012b3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/3a7d7ab8-57c7-43a9-afcd-f6095d33c702>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Sony/ATV Music Publishing (Germany) GmbH" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37cfd21d-0417-4fcf-bdaa-1d39cb389f81>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e79853c-d3ee-4fe0-bc05-92ce6afc7963>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 7 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/174ebd50-941e-4278-97ad-06c406d84603>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2012-07-14: Hyde Park, London, England, UK" ;
+        pm:hasTitle           "When I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38d3b221-ab19-4052-87dc-ef4ecd388def>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3014d72-cae5-4a34-8d32-fa59f760ca18>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c3353c3-81ee-4b23-a908-74e42defffd0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 8 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/476fc666-3486-4d3e-99fd-44845b395822>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "186706" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a114302d-9df7-479a-ab85-e979235a0034>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177840" ;
+        pm:hasTitle   "I Saw Her Standing There (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c482cf8-e224-448f-a329-f9318a7c2795>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "200000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4573dba6-8fb3-42bd-8aff-9f8cb0fdd758>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 3/4/5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/197f86a7-e1cd-4aeb-a254-2afa112e7bba>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76db9015-00c4-4a4e-bb7a-f64d94456b68>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b91bd55-ac7d-442f-bc3c-4e0a14865eb5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "168000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31d14ebe-314d-4f81-8787-e23a75d42ae2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/354ae9f9-6d23-4ac3-bede-ce418501e5ca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-07: Citi Field, New York City, New York, USA" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8cb2fb92-eb5d-4178-b8fb-8accb0f8c24f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a77d66c-52ef-4574-a463-3a27dd6ddddc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "188560" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b91cd4-664c-4d6c-a419-09be63ec8d92>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "187440" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/940ede4f-b03d-4898-83f7-cb4b7b4f4d33>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "387000" ;
+        pm:hasTitle   "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ef6b1073-4239-4d0d-bd27-f479f9579e43>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fin" ;
+        pm:hasTitle     "Kun hänet nähdä sain" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b69eaa2e-f9dc-4930-92c4-c59e1589f993>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00710b08-925f-49ea-9fe5-6a835d7fb5cf>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 4 - edit Piece)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b450ccd-5963-4e58-91fc-de0b25024377>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29400" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Mainly One Count Codes (Backing Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4c54ee9-b28e-4a79-9afd-2159ef2abd5d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9b4ee7de-8c99-4775-8240-c6cb099319ca>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "mul" ;
+        pm:hasTitle     "一見鍾情" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a2c28571-d05b-436e-a3e5-aca26b05beff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183000" ;
+        pm:hasTitle   "I Saw Her Standing There (track 2 take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5eee2a3d-0c86-4677-8f56-e710115016af>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29360" ;
+        pm:hasTitle   "I Saw Her Standing There, Using One and Four Count Codes (Backing Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ffdd303-95aa-4f55-8544-4e11f0ad4e4f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐09‐07: Playhouse Theatre, Manchester, UK" ;
+        pm:hasLength          "155733" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9731ec87-98bd-4b63-a716-db98fd315ca7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a789c5e2-2dc5-47f2-bb97-12c23e5805d2>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Sony/ATV Tunes LLC" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a337f97d-efc2-4acd-bcec-78cc5b1be231>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154520" ;
+        pm:hasTitle   "I Saw Her Standing There (1963-03-16)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f2ef8e5e-67f3-4759-bd36-2419cbcb7980>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ce4dc7f-6da3-46fe-a3df-732ab38d858b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964-06-17: Melbourne, Australia" ;
+        pm:hasLength          "162026" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/398eb21e-561d-4c8c-be1a-6c7fb6a313d5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161093" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/712faa37-314a-47a4-b6a5-198fb7a19f3c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1974-11-28: Madison Square Garden, New York, NY, USA" ;
+        pm:hasLength          "216000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32cf90eb-6493-487f-8139-1313b7c939d9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165920" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04073b48-ce8e-4963-8118-25c59910e633>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57d19e1f-b42d-441e-be6b-7a479f6b1231>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/233f3901-9e08-4afa-afbf-7746c8930add>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159240" ;
+        pm:hasTitle   "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db6263a7-e80a-41bf-b7d8-1602fc17943f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170986" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dfaee65-164e-43d4-b43b-381439541fdd>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Gil Music Corporation" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8b3b27a-cbec-4ce3-b0b5-c7ded0dbb1bf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5012ce82-fbfc-4374-9cec-d1dc4c09deed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52cb8c2a-197d-480b-9bdc-8ce0d5fd6f60>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Magic in Music (I Saw Her Standing There)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18f6adca-9a6c-490d-991e-ce05190a9c25>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/000ecbc1-dd36-448f-8be4-05c47ff6288d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1b5f59c-0df5-40e9-8021-5c8a8e4b0458>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185160" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bfe4f23e-d667-4b7b-b37f-a82ee92e62ac>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 6 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e95ab927-73dc-4d6e-8567-6132e2895748>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008‐07‐20: Plains of Abraham, Quebec City, QC, Canada" ;
+        pm:hasLength          "187000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28eaa070-c598-4c69-9c6e-d7514fe182ea>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b55a9ffd-a426-44c4-b1ca-517874f37a2a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175133" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b13ad0b-7fc9-4a59-9398-ac72208ea219>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc96e292-5666-4325-a31d-88a725860e23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "297000" ;
+        pm:hasTitle   "I Saw Her Standing There (takes 6/7/8/9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/939279d9-eb4c-40c3-9808-96f99b3deef0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187120" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6da2dbe-4853-498e-aebf-1d03a4892fcc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125800" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3373bc5-a26f-42b5-a551-0b15d087fd97>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "192000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/767de90e-724c-4281-93c7-0a7d557374b3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "240000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c5012a6-7c58-4c1e-ba9e-0efbcfc9072c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "189000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b01cadb-f5fe-449d-93aa-e7307639eafd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176826" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c912234b-3929-499f-878f-49726bd778ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/effccf55-34db-42c4-8df8-05004a1c7ffa>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2002: USA Tour" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75d6adce-d7ce-4e51-ae27-c29035120d03>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "20373" ;
+        pm:hasTitle   "Songbook Solo: I Saw Her Standing There (Backing Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02" ;
+        pm:hasEndDate    "1963-02" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b153c742-2d9b-4337-b9ad-14851e8e2307>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3f313ac-ba20-423c-834e-3c78c7447eb5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "216000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b250b3f8-0274-4e5f-bdb5-98555563a1b8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161306" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa32aca1-a0f7-4feb-acf9-7b3d55d29ef4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77dba6ca-2d62-4297-b4cf-08950bfc0970>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d858204-8fe5-4e75-83c0-333a6ff8e140>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Sony/ATV Music Publishing LLC" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a54c5e2b-3e2e-4cc1-9c53-5fea56572fec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3d9b0a8-b10d-4fb6-aec0-102673154131>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "297000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/548ecc82-b4ae-422b-9b69-cd0c3febae1a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9855994-f741-4c40-b8d3-445d431fd11d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ab94e33-6538-440e-a3ca-b5674f22273b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "94000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d272add-0d6b-4f7e-b065-5fd223ddaa8f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174240" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b29d9550-8eda-48e7-bf0f-d5ffeb556208>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1974-11-28: Madison Square Garden, New York, NY, USA" ;
+        pm:hasLength          "197493" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9819f07c-b77b-4327-a6aa-b499ec616288>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5823c7fb-8910-4c9d-86af-c32ed788060d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194440" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/161f6329-b4aa-4ab6-b63b-982b548fc5c5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "299226" ;
+        pm:hasTitle   "I Saw Her Standing There (take 6, 7, 8, 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00bed142-3b64-4f71-b154-0440ca50aa0e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176000" ;
+        pm:hasTitle   "Introduction / I Saw Her Stranding There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85c8c725-c13a-4523-90d5-5340f101cd64>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "155466" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49d94bd7-6d98-4713-a8af-5405b31add24>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 1 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5986ecc4-de6e-42e0-90e4-04343893fe7e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1b6ccec-6555-4a6b-a31c-7340154ddaa6>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (Audience Source)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/92cfc511-fdf3-417f-8361-fdb2a08aebab>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5edd6cb9-d7e0-4628-a0c7-bc850b226c3b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "54906" ;
+        pm:hasTitle   "I Saw Her Standing There, Using One and Four Count Codes (Full mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b3b8f82-c95f-448a-9a6e-719abaae4f14>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4c3d52f9-3f6b-4e11-bbec-4addc3c67fb6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187933" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e7d9d5b-eee0-4e41-a423-8ba80f96bc32>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddef7bfd-2da5-4d5b-9593-f9aea402d644>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "I Saw Her Standing There (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0543b2bc-45a1-49e3-b330-4872435e3271>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/754a4028-9b32-453f-837a-786928534288>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1970-09-04: The Forum, Inglewood, CA, USA" ;
+        pm:hasLength          "679000" ;
+        pm:hasTitle           "Communication Breakdown: Good Times Bad Times / For What It’s Worth / I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18f40948-d36f-4bc9-938b-d156588da8ea>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/367ec17b-0058-4ab6-b9a0-dee187bade28>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167093" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/51bcf492-99c5-4a25-abdc-c17cb99401b5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964: Washington, D.C., USA" ;
+        pm:hasLength          "216000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3136e04f-1acb-487a-a7f9-ce9e31438aa9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2007 rerecorded version" ;
+        pm:hasLength          "236756" ;
+        pm:hasTitle           "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6bf8d1c0-5c7c-4b32-a174-01f0827f0916>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f87082be-eda9-4bf0-bef8-4dcbfd8df309>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140640" ;
+        pm:hasTitle   "I Saw Her Standing There (takes 3-5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbb4a224-7597-45b3-ba9a-6772a4463df7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4c97dfb-b2d0-4c9c-8d4e-0908cf1a980f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96d20fd6-ef0f-4a59-8e2a-9a2845da8005>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70162bd3-46af-43f9-b577-1a2db696ab9f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963-10-24: Stockholm, Sweden" ;
+        pm:hasLength          "211000" ;
+        pm:hasTitle           "Intro / I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/772a0216-f62b-4d90-b7fd-64ab58c1e2a4>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2012-07-14: Hyde Park, London, England, UK; TV broadcast" ;
+        pm:hasTitle           "I Saw Here Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/258f6c3d-ca0a-403f-bf73-23c49c754b24>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9f3971a-18b1-41ad-8fe3-80a867a92c8c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da73b7ff-14a1-4fc8-95f8-c18cc96c3c28>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33bf9ab0-6800-41f4-abbb-2434b742d3c1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "33000" ;
+        pm:hasTitle   "I Saw Her Standing There (The Mersey Sound)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82d1aa19-1889-4464-9eb1-2d33af3f827f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "208000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/931ff072-ab0f-4a28-af2f-9275542f9d53>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "105000" ;
+        pm:hasTitle   "I Saw Her Standing There (Tracks on the Tracks Sessions)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f2d79428-1172-448b-82e1-ed5b295d4216>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "roh" ;
+        pm:hasTitle     "Sco 'la steva là (I Saw Her Standing There)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24578d83-7d2b-4d9e-9200-f223fb3c4ff5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "392733" ;
+        pm:hasTitle   "I Saw Him Standing There (dance mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50b6fe0d-1f73-4036-bac3-b1f59b36a231>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175120" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da77d23c-3acb-4b3d-9596-24aa55f03ece>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "175800" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb5276f5-ce34-4a26-bb76-c62b81466cb7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (Cavern rehearsal)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b625c18-bfb5-4055-b12b-ae95d5d55f0f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "635146" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b9af59a-1c77-4cb2-8ced-99fdc96bc265>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "147600" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64688951-0bf8-4856-9427-e8959139ca90>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "163000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65a77f97-9626-428a-a53d-21ba7c075870>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "181000" ;
+        pm:hasTitle           "Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf8cded5-5395-4ce0-aec5-84180b13bcf7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29160" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Mainly One Count Codes (Guitar Part)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1676136-a32d-43a9-a53e-c81ad3c21632>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157520" ;
+        pm:hasTitle   "I Saw Her Standing There (live at BBC for “Saturday Club” / 16th March, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e001f196-0873-44a1-8d66-715baeb752c8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc7cb8d6-930f-40a0-82f2-3643b81c0cae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb18dfe5-b952-4abd-91a0-65a7785caece>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "192000" ;
+        pm:hasTitle   "I Saw Her Standing There (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3db9c0cf-fb71-4cd7-8801-b1d2346b06c2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "125000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd3d723d-1774-47ed-beaf-7ec02fee2c17>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a3e887a-548e-486e-8de5-b04d50152b92>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "252333" ;
+        pm:hasTitle   "I Saw Him Standing There (single version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4300ddce-1012-40a2-9624-91e1c2704e0d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210466" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b2918a12-fe29-4a98-a9df-5491d99b7927>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "47000" ;
+        pm:hasTitle   "I Saw Her Standing There (Early Beatles)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4ea3d0b-e089-47eb-a74e-e9bf5a0c1f6b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "17 (I Saw Her Standing There)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c52ff3dc-4b5e-46a5-a472-e4a0d91858ec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159640" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17b462f5-c196-407c-a953-56820734fd7d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "188000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b22ba04-d8b6-4fcf-bd1b-c59107f9755c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee6480f3-a13e-4c2b-b8fb-9ed4b3485f19>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161733" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c19ebccc-b047-4e5a-9433-04f23e259cc5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170133" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27812290-b1e3-42a1-9d51-483bb9045b51>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "286173" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ed87294-ecec-4b9d-83ad-0150e24eb042>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "52000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7a4f184-d7fe-40e0-9ea5-e888292aec9f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964‐02‐16: Hotel Deauville, Miami, FL, USA" ;
+        pm:hasLength          "152746" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/877cd6ae-6631-4846-bddb-19cf0350f5d0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "I Saw Her Standing There (track 2 takes 11, 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0c6621-a76f-4dec-b0c6-8ce0679f196f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1988-01-20 Waldorf-Astoria Hotel, New York City, NY, USA" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f734ad36-09c3-479f-afa6-6ba2541597ee>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29266" ;
+        pm:hasTitle   "I Saw Her Standing There, Using Two and Four Count Codes (Guitar Part)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/211e5aea-9501-4eda-9010-fb6296553710>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "I Saw Her Standing There (studio outtake / take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e76af3d-8475-4e96-bc4a-37644927b0d9>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 9 - Anthology mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4923dd02-0643-4b4e-a112-c3543e016ff5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96b8d491-df0e-4696-b645-ebd213066492>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f1fa00b-2b3c-4727-b878-afdfe1931d52>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "271826" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e25e3cbe-ee8c-4352-8a80-7754464decc9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77c63353-09b5-495e-9021-9d04b96f0052>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "246267" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c0a482c-4ef8-4128-9bba-7a690be06f6f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "168000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3063855-5931-4692-b54c-929404b8c0e2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (RM takes 9 & 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/541ff66f-426a-431d-a60f-5aa702e724ca>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5528eb84-9394-4990-8582-e40583ab7d9a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 2, 11 & 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82e0ab6b-1fab-4b62-adef-fd98ef033bdf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003-10-11: Palais des Spectacles, Saint-Étienne, France" ;
+        pm:hasLength          "240192" ;
+        pm:hasTitle           "I Saw Her Standing Here" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e907b23c-f411-4fd3-b6ec-a74cc23a2a4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205933" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7731bbfb-f1ea-4b66-8765-9e722bd4a3d8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "368000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d657bb5-ccb2-4699-b171-48e34c7de7b8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964‐02‐09: Ed Sullivan Theater, New York, NY, USA" ;
+        pm:hasLength          "158546" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b0eb475-2437-4d0f-8053-373b3456896d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "20400" ;
+        pm:hasTitle   "Songbook Solo: I Saw Her Standing There (Guitar Part)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/548e05d5-d596-44ce-87ba-ed024ff78b89>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eefaf4ba-492d-492f-adb0-e83420ee1d59>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160000" ;
+        pm:hasTitle   "I Saw Her Standing There (1964 Paris Afternoon)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99d95ae6-779f-4717-9e75-5e21b44d29de>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Northern Songs Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe15bf30-39f7-4a59-af3e-fb362a91b6b8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1962-12: Star Club, Hamburg, Germany" ;
+        pm:hasLength          "142000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f959c88b-effc-4235-a926-51631010a9ff>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1976 stereo remix" ;
+        pm:hasLength          "170000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/381160f3-716e-4962-91e9-2719edde2671>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c0f4ef5-1e97-49f6-b7d8-28162d1e59f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "212000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02" ;
+        pm:hasEndDate    "1963-02" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63b0e297-726b-48bb-97f0-9f93ef4dfe6c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6458fa7-5903-4eea-8ca4-c102024a9ae2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165360" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2ae3856-ab69-4d14-8a1c-99ea2302c5ae>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bb0f5fd-57f5-4bc1-8eb5-9d3072c145e4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 9 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7840222-8eab-48ce-a12e-ee2d01ea05d3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96ef94df-c657-46de-850c-f4b34373631c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1650e28-a17d-420a-b1bf-f41ec1f63ef7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "192000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "MCA Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eca63126-79f8-46fb-8160-a18d76b37864>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/658d6a76-56a6-47d6-a154-c7782c6c722a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2012-07-14: Hyde Park, London, England, UK" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9dcb380-0fbb-4e4a-a134-431b9f0af839>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (Cavern club rehearsal)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81996363-5b9a-4f88-b45d-d1e38c25dbff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d1255c9-dd80-4e0a-accc-cbc1564e7037>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2012-07-14: Hyde Park, London, England, UK" ;
+        pm:hasTitle           "I Saw Here Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe0b0ec2-0f36-43cd-8d6e-6dd4dd22d767>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8e222bf-b33b-4eb9-aaa9-a704bcd8add7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6fad831-0871-4e53-a315-6bb840bea221>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183840" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf1aa71f-66f7-4f11-8b0b-b171e861b169>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "256800" ;
+        pm:hasTitle   "I Saw Him Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50449891-5c9f-4ff1-bdc9-993b21a0423a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97418282-890a-46f0-a7b9-17c32b18a315>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "208826" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11a124f5-a39d-4fe8-b994-9cbfe2c59efc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "56560" ;
+        pm:hasTitle   "Songbook Solo: I Saw Her Standing There (Full mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b671978-2794-4861-aca5-6df19f08c580>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156466" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15b4c613-9859-426f-93c0-e1119cf0ac1b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "179773" ;
+        pm:hasTitle   "Songbook Solo: I Saw Her Standing There (Full mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55fc1e1e-8322-416d-a2a0-b5c8fa388611>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "191000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed5dfc4c-c786-4842-889f-24a97888f2a0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0255bfa-dfe0-4cb4-b9eb-01a02919e56e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e98d108a-f992-44f2-84cd-f66468351822>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155040" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b57e166f-ee1d-44fd-8d4b-2ac645c98094>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/810b2b5a-f7e8-4dec-8ee9-9278732b7b1c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964‐06‐17: Festival Hall, Melbourne, Australia" ;
+        pm:hasLength          "163560" ;
+        pm:hasTitle           "I Saw Her Standng There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a639577-919b-49ba-bb11-873633feacb4>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐03‐16: Broadcasting House, London, UK" ;
+        pm:hasLength          "156600" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/243d99c5-e36f-468a-88aa-d512abcbf781>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1963 Capitol stereo remix" ;
+        pm:hasLength          "177000" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acdd5826-94e7-4218-ab3e-4d865fb270c0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (Cavern club)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29dd537b-40a1-4ea1-bf67-127c1edbfa33>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "216293" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a134ebe0-b53a-4622-80f5-a28c0505d21e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "I Saw Her Standing There (take 12 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89b49645-d54a-4d5f-a5cb-23e699dcb75d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003-06-01: King's Dock, Liverpool, UK" ;
+        pm:hasTitle           "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4c4f732-33ef-48f0-ba8b-3ddcf8320d76>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155466" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06e9b717-45e8-4cf2-933a-8a7a33ef1a27>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110000" ;
+        pm:hasTitle   "I Saw Her Standing There" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/017a96c6-0bc7-452c-b318-700cdbea2349>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1990-03-07: Tokyo Dome, Tokyo, Japan" ;
+        pm:hasTitle           "I Saw Her Standing There" .

@@ -1,0 +1,99 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1963-02-11" ;
+        pm:hasEndDate    "1963-03-05" , "1963-02-11" ;
+        pm:hasName       "Richard Langham" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1963-02-11" , "1963-02-25" , "1963-03-13" ;
+        pm:hasEndDate    "1963-02-11" , "1963-03-13" , "1963-03-05" , "1963-02-25" ;
+        pm:hasName       "Norman Smith" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-25" ;
+        pm:hasEndDate    "1963-02-25" ;
+        pm:hasName       "A. B. Lincoln" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72e496b3-73e5-482a-99f8-5a0f9a844391>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "123000" ;
+        pm:hasTitle           "Thank You Girl" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3ff7a3d9-a800-4de4-94a6-41a35c96c0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-11" , "1963-03-13" , "1963-03-05" ;
+        pm:hasEndDate    "1963-02-11" , "1963-03-13" , "1963-03-05" ;
+        pm:hasName       "John Lennon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1963-02-11" ;
+        pm:hasEndDate    "1963-03-05" , "1963-02-11" ;
+        pm:hasName       "George Harrison" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1963-02-11" ;
+        pm:hasEndDate    "1963-03-05" , "1963-02-11" ;
+        pm:hasName       "Paul McCartney" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02-25" , "1963-03-13" , "1963-03-05" , "1963-02-11" ;
+        pm:hasEndDate    "1963-02-11" , "1963-03-05" , "1963-03-13" , "1963-02-25" ;
+        pm:hasName       "George Martin" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Release/a3c326ed-3151-487c-9dc2-b6f016992566>
+        rdf:type               pm:Release ;
+        pm:containsRecordings  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72e496b3-73e5-482a-99f8-5a0f9a844391> ;
+        pm:hasCreditArtist     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDate             "1964-03-19" ;
+        pm:hasPackaging        "Cardboard/Paper Sleeve" ;
+        pm:hasPlace            "US" ;
+        pm:hasTitle            "Do You Want to Know a Secret / Thank You Girl" ;
+        pm:hasType             "Single" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "The Beatles" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3ff7a3d9-a800-4de4-94a6-41a35c96c0ae>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-13" ;
+        pm:hasEndDate    "1963-03-13" ;
+        pm:hasName       "Geoff Emerick" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42df56b9-0aa2-4cb7-bcb5-b8c6d89803de>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "120000" ;
+        pm:hasTitle           "Do You Want to Know a Secret" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a672fe88-4cc7-4dfa-9519-a676041ec599> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1963-02-11" ;
+        pm:hasEndDate    "1963-03-05" , "1963-02-11" ;
+        pm:hasName       "Ringo Starr" .

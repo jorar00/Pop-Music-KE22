@@ -1,0 +1,992 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/32f309f2-d322-3194-807c-1b78f979ff66>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b085495-0f57-4950-b2ea-20b423b091fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0e930a0-e7c0-42bc-8e4f-2eb725321730> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0518b0-7947-4e71-8749-a3342b7e5fc2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/476ff3d1-ce35-4f17-b8d1-10bc798fed08> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/73032906-1683-48e5-829a-2a6ea1e18cf5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe830578-fdd8-49df-be0e-ab3072bc4a21> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f6ae57f-ba98-4bd2-ba58-f2f7ea5047c1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1af88b0-ea55-4851-9cc7-f1897a571b7d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d8fe88e-bac0-44ad-8efc-b66493c54954> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b235773-16bd-4fc5-b57e-c966f9d1db6d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b5740b-4a7d-4c37-9fcc-f4aa728e2f5d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40610d22-a4c5-420f-b325-de6adf7583c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ef32b7c-e77c-4799-9245-74e74ff5f102> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40f27b80-1d2c-4eed-9f6d-6d7f6219cc35> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/067ac9e6-2326-4f56-8944-de00f1935511> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714525e5-d298-4535-8440-9d05f5249e9a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc933284-b7fd-431a-b22b-84254777f7c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/625935f8-ce96-4d9b-b327-06b45fb4b5f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ec9bfe8-b30c-4d8b-b525-442b6e499f14> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1649a11a-f2cf-4bb7-ae61-d9d8940813e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbda4b61-e486-4033-b2f6-843e9ef5800f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cf50dd9-11ec-4c7e-af42-30f16cf94be9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1c7cd5f-ee02-46c0-82a6-e9250d2fc7a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ece043c3-2467-484f-a9fb-83c40780526a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee8c7697-8682-4ab1-9999-943f0be1af94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddaf4a82-9e1a-40c7-afdf-06e67f20fc62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe960b65-f786-4906-8053-3885ee80cf44> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/54769381-941c-4b80-bcb7-60593425fdb3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbee75e7-e27f-4f86-9811-227a0472d310> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4590cd3e-e457-4521-922f-8304963581ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1f01b83-22e9-4675-b7a5-301951d05f84> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c74f7b93-7043-4469-8957-1f5f4fe68346> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3fe692e-ed51-485a-a617-563af2ebaba3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82975378-437e-4c75-8bd1-83dcfdcec755> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72d0bd2f-e418-40f8-bb0d-48f54ba0c65e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17a440c3-e9c9-479b-b6ea-d8b83c878133> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0feeec9f-0fb0-4ee8-95e4-cf46f5c49e33> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cf823a5-fecc-4b2d-8b48-0d50c065e574> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58a9d112-8975-4bf7-a8f8-7803315582a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/688ed7a8-19e4-44d7-b79d-74f7d1cb25c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b349c88-6df9-4233-ac1a-244d8e446800> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0dde623c-a947-41e2-a771-74f552fc44dc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ce5087f-263b-4629-bc6e-b8a820d25f32> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84ee9bac-eacb-48bc-af5e-6f4a3c1a1e6a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6973dc2d-4911-407f-a404-dadd3b987132> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/801f36a9-ecc1-4cac-a6af-cbb6b03cfdd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/faf7e151-4223-45e8-a4cb-87b6e7dc7820> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28e1a1bb-95e7-4fc0-b8fb-09d22e3bcff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e07d72b9-417c-4b98-8fb6-8446d5817162> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4611f57a-d68c-46d9-9c1c-61d6fa0372c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85afd54c-1bef-4d31-94b4-34243e2adac3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b77cf48-6ee9-454f-ad68-255f602984c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dd73fad-3eb4-4144-aba6-129a4dabdff7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c66b48c6-1dc5-441b-a7ec-1a5ed482434e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f059625-0033-47a6-ae73-029d6442ccf6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55ffe063-1e47-4287-8c8a-c26ca218c39a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f53050b8-7ad4-4ee1-807f-08fc0e102ef9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0712b95d-80f0-4501-813b-64a22bd4f42b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcc16ac5-8742-4bb0-91e7-a6217fb84036> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21af72c1-6ac8-445d-ac7f-5537d6101881> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/153253ee-3d55-41d8-b377-2fc3fed9ef86> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9166e45-85f1-455d-b2b2-9d990c58eab7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31a1744c-63af-4ea6-95eb-0e28ec28b269> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fccd52b0-7c63-4a01-a8a5-8d455c12529b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f72de1cb-6d78-436d-98fd-4a7b624c570c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/937c63b7-84b2-45fc-84ca-c40a8d3cde94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5b8dc2b-778c-4712-a89a-771f50b00a70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6028766d-7d68-478f-a2d0-93555d1ee29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8656ed8a-f11c-4b35-a9d2-8dcb5f14dfb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1d88b73-5c27-43c5-bfea-cf54234fffe2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d858a31-a8d0-4201-9d01-69cf79fd1b45> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e3bb67e-6218-42cb-a942-091b4326ee10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7aab655-1552-44f7-a12f-dd6a25e4f6c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5633c5ce-59de-4862-a606-ff2d1c35fd82> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17cf7eba-10a5-40f7-9f1f-4d2e1482d6dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eba4813-3a70-418f-9ecc-99e6aaa849e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23ddcfad-f15a-4132-9b3e-63ee1dc65df7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3bd2031-5c88-4604-8c29-ddf9a24a023d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37871a59-b38e-4900-96a1-c189d4df6b5e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3626e7d-38fa-4771-9908-06723a04876a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2fbe7d0-54ef-45ac-ac97-79b5e873c0b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d01ad2e3-3718-410a-8b6b-100568b473b6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c57e932-c22e-463a-9c27-19cc4d212132> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e75e9f4-0212-41ff-8ebf-b3ff02f02b08> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d7c0f01-9b15-4508-896c-42dc07e4cb72> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56d531bf-a23e-472d-975c-2156fc9addd2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/22d9a7eb-226e-4726-b07d-f6291c1438aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f06866c-2382-4fa8-a656-abbd634b1b67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b0c029f-badb-4ddf-a6eb-b1234b862e62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d246e35-4c71-4b03-ab30-095a14d338ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d325e739-d06a-4af1-a1fc-ccef159c6f62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f00531cc-8870-456f-b1bf-8daea3ed2d50> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/619b5d4d-8b6a-4c61-9e07-1488aec9f12b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/712d8121-4fb4-405c-9d0f-645695453944> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b68f139f-1bc6-4a22-bb3d-c0377756676e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eac73024-d289-4aec-9737-81ae5be428d7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa4e9f32-de81-49e8-b88b-9a8776afe7a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7516bcd8-791a-4411-9417-097582fec62d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cb6adbd-794c-4fcf-8e28-38ee4d53d5fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/efcc065f-791d-4456-acf9-751c70e45f66> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32e12802-673a-4558-b280-fb9b1558248d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11d61071-8347-45a7-985b-c0699f6a9b71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2fd00070-c0ce-4828-945d-806444652428> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a65ec98c-8046-4f13-9f64-5d2c31ed4f00> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acbf997a-0c0a-4f94-982f-6808af4f7e1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7179744-d444-4944-8e71-9f5fbd124386> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddfe7bbe-4750-491c-a72b-54a45ed4fccb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebb3fbc8-8edb-40b1-8d6f-065dfa316c0c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bea5e2b-34d5-47e3-a8c5-c8148dcf3ebb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6666d85c-b288-4fc0-afe4-b76ead6bf4a8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac1535d7-60a9-4830-a906-703d7ea8b2f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/05ef8c11-84ed-4d6e-8a92-bcaf098d3fb1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/400b2185-e149-46b0-80c3-f272b24589bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f93fda8-c0fc-42b0-928d-a7eb63a3d652> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13388ba6-dfe9-4abb-b76d-556af4d5b4ee> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa3142f9-cc32-4ce3-b52e-3807525383c1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c38e7d9a-322b-47a1-8879-fff07ea0ac4b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7b59fe-55ab-4ddf-be98-f019fe1071ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7af4ff9-8959-4aa9-bb28-6e37783b732f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9996be46-8ced-4fd2-a3d6-93c1e7b70b79> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28a89744-d80d-4545-8d1e-2ecb97a1146e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9df083a-2e67-409e-9159-6cafe0d5fdbc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb545b61-ac20-400a-92c5-c09a2c3a3141> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bffaa65-0305-4bc1-8ab3-62f48d47a7a9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bddd86c1-27ef-4566-b596-cc8bcdf23ee3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5957ec57-988c-4777-ac05-c2ddb96956a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27505481-26d4-4de5-b558-15ec2fd8445b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2006ef1d-b7b0-4a26-b3e5-a427852b2bb7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5fac52a5-917e-46c8-a97c-8f3c1a3153c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dac886c5-f409-40c7-98f2-3536370702a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdebdc3b-e3da-4389-9a3e-7efd987266a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79f2d4d1-f7bb-4ba1-977d-b1861cf49095> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e44f1f1-8961-4aee-aeb8-360a80b2cd43> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c3076aa-85c5-4598-a2a6-d76766ab4744> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/185cfe45-4d07-4c1d-b1e3-8532abed3815> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b30f4ca-1f73-451d-916c-acfcdd8e76a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02fcfdbf-3aa4-4546-b1e6-29eb407724c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ce5309e-e261-40f3-b398-4d0775f3403d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18a48cf2-7878-4e2a-9706-5ec6f0e414c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2bfe4ab-ad9a-43d4-8a00-5061c8564f82> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f05a977b-35c5-457e-be8a-e33e24d48cb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd52c72d-97e1-4494-8cb8-48e54678caca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64d5739a-2fb2-4089-9378-b21b2ad3ee52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462ef9da-5a5e-4f8c-b7e1-45e4be853283> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/818de6f5-7eb9-40b6-9993-5b58ce73aade> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5dcf7ebe-b12e-44b4-bc8c-173ac7c47697> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9b9c1e9-94c6-4d5a-8984-57c433dcb832> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9b11852-e4db-4faf-983f-0c223a64ccdb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a3b44e1c-5694-4886-9068-cca05f522054> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27325721-9398-4524-a63e-396e8702df21> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89c31681-e21c-4ef4-9bec-3fa0c6b4d1e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06cfcbec-c7a4-4348-883a-f9823c885b6b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a987380f-30aa-42bf-ae64-f696ca0f1fc8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/232ce156-abef-480b-b593-cfcb76078f1e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee47b628-3ce9-4639-8434-122cb521352e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3612d3e6-0aeb-4e78-a30e-ed5cb16bd8ac> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0926a99-3382-44fe-8aff-2b9777b02af8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/506c96c6-10fb-48e2-ab9a-1bbdfcb1b662> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eee3ca9b-51e6-4180-a6af-1de8a634742f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fd3be01-2cac-462d-978d-4bde16acc9dc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e4c7974-b6f4-410e-970c-b5b697051dbf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85f08f23-1ee6-4d06-9a08-2042cd90f5ec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56fc0bd2-6271-448d-b383-6d5216feb1d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7f165434-7d08-4056-bb58-dea151c55c92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f5b964b-cccd-4529-847f-489ae41e94bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd6ebefb-752d-4da1-998a-367269ca590e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5da3014c-7505-462c-8fd4-af67e5e89354> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d113372-e57e-4acc-ae5b-e234f309de24> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ba2df74-8e39-48c7-9ca8-79e760bc1583> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cbd9012-32df-4342-86b3-17f093ed4207> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7d58494-d63c-4163-ab38-93a0a2afd860> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a125e92b-4ed1-4afb-b738-531c09d48a16> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d9515e04-44eb-403a-bd71-4ea7d83415fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8019e84a-32c8-4da8-8566-be0fe672a1f2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da94c732-9f9d-4d4b-9b26-c346c704c7a7> ;
+        pm:hasTitle       "Another One Bites the Dust" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/da63ae0c-a788-4936-81e0-2ef392ef7c2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/858ebbdc-faca-4fbc-bf03-f592e0906914> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/bba59df7-e395-38fb-902e-a9b9a3480610> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f6263798-ed80-4f81-a8a5-fc33ed606ad9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/89487777-250c-4549-a6d0-a3fb926c86c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/fffa885c-f91f-43e3-b43b-6c3da1f8abfb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9d28e873-dee1-3762-b9e5-5d6299151232> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/16b08cc9-4526-457c-8c57-b5a039f81925> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0231562d-dd1b-47b9-8202-5fa5abf8ae5a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2bfe4ab-ad9a-43d4-8a00-5061c8564f82>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-12-09: Walter-Köbel-Halle Rüsselsheim, Germany" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17a440c3-e9c9-479b-b6ea-d8b83c878133>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "197000" ;
+        pm:hasTitle   "Another One Bites the Dust (Cedric Gervais & Second Sun radio edit)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bea5e2b-34d5-47e3-a8c5-c8148dcf3ebb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2001-11-24: Ocean, Hackney, London, England, UK" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/937c63b7-84b2-45fc-84ca-c40a8d3cde94>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a7b59fe-55ab-4ddf-be98-f019fe1071ef>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170240" ;
+        pm:hasTitle   "Another One Bites the Dust (From Dust to Dawn mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa3142f9-cc32-4ce3-b52e-3807525383c1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "227000" ;
+        pm:hasTitle   "Another One Bites the Dust (Meeks remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee47b628-3ce9-4639-8434-122cb521352e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/232ce156-abef-480b-b593-cfcb76078f1e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218613" ;
+        pm:hasTitle   "Another One Bites the Duse" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5633c5ce-59de-4862-a606-ff2d1c35fd82>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "186545" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ece043c3-2467-484f-a9fb-83c40780526a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust (We Will House You remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/067ac9e6-2326-4f56-8944-de00f1935511>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Another One Bites the Dust (vs. the Miami Project )" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc933284-b7fd-431a-b22b-84254777f7c0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "272000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/153253ee-3d55-41d8-b377-2fc3fed9ef86>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "216000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c3076aa-85c5-4598-a2a6-d76766ab4744>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da94c732-9f9d-4d4b-9b26-c346c704c7a7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218413" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4590cd3e-e457-4521-922f-8304963581ca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2002 original London cast" ;
+        pm:hasLength          "184000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ba2df74-8e39-48c7-9ca8-79e760bc1583>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "376000" ;
+        pm:hasTitle   "Another One Bites the Dust (from the previous night’s concert at Wembley)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23ddcfad-f15a-4132-9b3e-63ee1dc65df7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom" ;
+        pm:hasLength          "242413" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85f08f23-1ee6-4d06-9a08-2042cd90f5ec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "29000" ;
+        pm:hasTitle   "Another Stuffed Pizza Crust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/54769381-941c-4b80-bcb7-60593425fdb3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "200000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b0518b0-7947-4e71-8749-a3342b7e5fc2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201893" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11d61071-8347-45a7-985b-c0699f6a9b71>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "329333" ;
+        pm:hasTitle   "Another One Bites the Dust (club mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b68f139f-1bc6-4a22-bb3d-c0377756676e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "255426" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dac886c5-f409-40c7-98f2-3536370702a3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7516bcd8-791a-4411-9417-097582fec62d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "199560" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b085495-0f57-4950-b2ea-20b423b091fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218906" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f5b964b-cccd-4529-847f-489ae41e94bb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-27: Népstadion, Budapest, Hungary" ;
+        pm:hasLength          "296000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18a48cf2-7878-4e2a-9706-5ec6f0e414c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "284974" ;
+        pm:hasTitle   "Another One Bites the Dust (a cappella)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0dde623c-a947-41e2-a771-74f552fc44dc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "261026" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6028766d-7d68-478f-a2d0-93555d1ee29f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "391280" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c38e7d9a-322b-47a1-8879-fff07ea0ac4b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "562000" ;
+        pm:hasTitle   "Another One Bites the Dust (Ultratraxx 12″ version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4611f57a-d68c-46d9-9c1c-61d6fa0372c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7aab655-1552-44f7-a12f-dd6a25e4f6c4>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4dd73fad-3eb4-4144-aba6-129a4dabdff7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "227946" ;
+        pm:hasTitle   "Another One Bites the Dust (From Queen Dance Traxx)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c66b48c6-1dc5-441b-a7ec-1a5ed482434e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84ee9bac-eacb-48bc-af5e-6f4a3c1a1e6a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "230000" ;
+        pm:hasTitle   "Another One Bites the Dust (instrumental)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0231562d-dd1b-47b9-8202-5fa5abf8ae5a>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Beechwood Music Corp." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/fffa885c-f91f-43e3-b43b-6c3da1f8abfb>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "Ein anderer beißt den Staub" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cf50dd9-11ec-4c7e-af42-30f16cf94be9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-06-21: Reigns the World: Maimarktgelände, Mannheim, Germany" ;
+        pm:hasLength          "276000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56fc0bd2-6271-448d-b383-6d5216feb1d8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1984-09-24: Deutchlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d7c0f01-9b15-4508-896c-42dc07e4cb72>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f72de1cb-6d78-436d-98fd-4a7b624c570c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214706" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1d88b73-5c27-43c5-bfea-cf54234fffe2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b349c88-6df9-4233-ac1a-244d8e446800>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-10-08: BBC Radio 1's Live Lounge, London, UK" ;
+        pm:hasLength          "163000" ;
+        pm:hasTitle           "Another One Bites the Dizzee" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/185cfe45-4d07-4c1d-b1e3-8532abed3815>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version" ;
+        pm:hasLength          "216693" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/818de6f5-7eb9-40b6-9993-5b58ce73aade>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-29: Yokohama Arena, Shin-Yokohama, Yokohama, Kanagawa, Japan" ;
+        pm:hasLength          "254000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714525e5-d298-4535-8440-9d05f5249e9a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cbd9012-32df-4342-86b3-17f093ed4207>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-04: Metro Radio Arena, Newcastle upon Tyne, Tyne and Wear, England, United Kingdom" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7d58494-d63c-4163-ab38-93a0a2afd860>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “De Illegale Hitmix 1998” DJ-mix" ;
+        pm:hasLength          "68000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/da63ae0c-a788-4936-81e0-2ef392ef7c2e>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "The Queen Symphony: II. Allegretto - Allegro scherzando - Tranquillo" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82975378-437e-4c75-8bd1-83dcfdcec755>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218000" ;
+        pm:hasTitle   "Another One Bites the Dust (5.1 mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eba4813-3a70-418f-9ecc-99e6aaa849e6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d858a31-a8d0-4201-9d01-69cf79fd1b45>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136720" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28e1a1bb-95e7-4fc0-b8fb-09d22e3bcff9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-07-02: Estádio do Restelo, Lisbon, Lisboa, Portugal" ;
+        pm:hasLength          "239000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe830578-fdd8-49df-be0e-ab3072bc4a21>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "222697" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/476ff3d1-ce35-4f17-b8d1-10bc798fed08>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "230000" ;
+        pm:hasTitle   "Another One Bites the Dust (remix 2003)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/efcc065f-791d-4456-acf9-751c70e45f66>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK" ;
+        pm:hasLength          "229160" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b30f4ca-1f73-451d-916c-acfcdd8e76a6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "259000" ;
+        pm:hasTitle   "Another One Bites the Dust (Team 1 Black Rock Star radio edit)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1649a11a-f2cf-4bb7-ae61-d9d8940813e0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-04-16: Hallenstadion, Zürich, Switzerland" ;
+        pm:hasLength          "210000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9166e45-85f1-455d-b2b2-9d990c58eab7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-26: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "214000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27325721-9398-4524-a63e-396e8702df21>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "227093" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ce5309e-e261-40f3-b398-4d0775f3403d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9b11852-e4db-4faf-983f-0c223a64ccdb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210440" ;
+        pm:hasTitle   "Another One Bites the Dust (7″ version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6666d85c-b288-4fc0-afe4-b76ead6bf4a8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55ffe063-1e47-4287-8c8a-c26ca218c39a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213706" ;
+        pm:hasTitle   "Another One Bites The Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f6263798-ed80-4f81-a8a5-fc33ed606ad9>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Eich Dodln gib i Gas" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd52c72d-97e1-4494-8cb8-48e54678caca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-27: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "215000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58a9d112-8975-4bf7-a8f8-7803315582a3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, UK" ;
+        pm:hasLength          "366613" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f06866c-2382-4fa8-a656-abbd634b1b67>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "Another One Bites the Dust (Cedric Gervais & Second Sun vocal mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5dcf7ebe-b12e-44b4-bc8c-173ac7c47697>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-12: Freedom Square, Kharkiv, Kharkivs'ka Oblast', Ukraine" ;
+        pm:hasLength          "215506" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2006ef1d-b7b0-4a26-b3e5-a427852b2bb7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "296693" ;
+        pm:hasTitle   "Otro muerde el polvo" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06cfcbec-c7a4-4348-883a-f9823c885b6b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209000" ;
+        pm:hasTitle   "Another One Bites the Dust (Small Soldiers)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8019e84a-32c8-4da8-8566-be0fe672a1f2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-27: Saitama Super Arena, Saitama New Urban Center, Saitama, Japan" ;
+        pm:hasLength          "236000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Deacon" ;
+        pm:hasRole       "composer" , "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a125e92b-4ed1-4afb-b738-531c09d48a16>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e75e9f4-0212-41ff-8ebf-b3ff02f02b08>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "260000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f6ae57f-ba98-4bd2-ba58-f2f7ea5047c1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "381826" ;
+        pm:hasTitle   "Another One Bites the Dust (DJs extended mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89c31681-e21c-4ef4-9bec-3fa0c6b4d1e5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “Radio Soulwax Live: Get Yer Yo Yo’s Out, Pt. 5” DJ‐mix" ;
+        pm:hasLength          "31000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d9515e04-44eb-403a-bd71-4ea7d83415fe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "197000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bddd86c1-27ef-4566-b596-cc8bcdf23ee3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "15000" ;
+        pm:hasTitle   "Another One Bites the Dust (instrumental) (from Al-TV #7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1af88b0-ea55-4851-9cc7-f1897a571b7d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "252000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddaf4a82-9e1a-40c7-afdf-06e67f20fc62>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee8c7697-8682-4ab1-9999-943f0be1af94>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "236000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9d28e873-dee1-3762-b9e5-5d6299151232>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Another Grindcore of Us" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64d5739a-2fb2-4089-9378-b21b2ad3ee52>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56d531bf-a23e-472d-975c-2156fc9addd2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasLength          "231800" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e07d72b9-417c-4b98-8fb6-8446d5817162>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "260840" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbda4b61-e486-4033-b2f6-843e9ef5800f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "223080" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f05a977b-35c5-457e-be8a-e33e24d48cb9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ef32b7c-e77c-4799-9245-74e74ff5f102>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Don’t Stop Them Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/688ed7a8-19e4-44d7-b79d-74f7d1cb25c9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-08-09: Knebworth Park, Stevenage, England, UK" ;
+        pm:hasLength          "350133" ;
+        pm:hasTitle           "Another One Bites the Dust (full live version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acbf997a-0c0a-4f94-982f-6808af4f7e1d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "235000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb545b61-ac20-400a-92c5-c09a2c3a3141>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "257693" ;
+        pm:hasTitle   "Another One Bites the Dust (instrumental)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Queen Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eac73024-d289-4aec-9737-81ae5be428d7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, England, UK" ;
+        pm:hasLength          "234000" ;
+        pm:hasTitle           "Under Pressure" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7af4ff9-8959-4aa9-bb28-6e37783b732f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "455733" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe960b65-f786-4906-8053-3885ee80cf44>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c57e932-c22e-463a-9c27-19cc4d212132>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-04-14: Hückeswagen, Germany" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa4e9f32-de81-49e8-b88b-9a8776afe7a2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215168" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/73032906-1683-48e5-829a-2a6ea1e18cf5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-08: Wembley Arena, Wembley, Brent, London, England, United Kingdom" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462ef9da-5a5e-4f8c-b7e1-45e4be853283>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "228386" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/22d9a7eb-226e-4726-b07d-f6291c1438aa>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982/1986: Hallenstadion, Zürich, Switzerland" ;
+        pm:hasLength          "209933" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72d0bd2f-e418-40f8-bb0d-48f54ba0c65e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "52000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3626e7d-38fa-4771-9908-06723a04876a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “Bump 20” DJ‐mix" ;
+        pm:hasLength          "203800" ;
+        pm:hasTitle           "Another One Bites the Dust (Cedric Gervais & Second Sun vocal mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cf823a5-fecc-4b2d-8b48-0d50c065e574>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: Tokyo, Japan" ;
+        pm:hasLength          "260000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/619b5d4d-8b6a-4c61-9e07-1488aec9f12b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213453" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28a89744-d80d-4545-8d1e-2ecb97a1146e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "277866" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79f2d4d1-f7bb-4ba1-977d-b1861cf49095>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "320680" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27505481-26d4-4de5-b558-15ec2fd8445b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214680" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32e12802-673a-4558-b280-fb9b1558248d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK" ;
+        pm:hasLength          "228906" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1f01b83-22e9-4675-b7a5-301951d05f84>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "262333" ;
+        pm:hasTitle   "Another One Bites the Dust (Small Soldiers remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/506c96c6-10fb-48e2-ab9a-1bbdfcb1b662>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2005 Köln cast" ;
+        pm:hasLength          "182000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5b8dc2b-778c-4712-a89a-771f50b00a70>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-??-??: European Tour" ;
+        pm:hasLength          "263000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2fbe7d0-54ef-45ac-ac97-79b5e873c0b3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120400" ;
+        pm:hasTitle   "Another One Bites the Dust (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3bd2031-5c88-4604-8c29-ddf9a24a023d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "283000" ;
+        pm:hasTitle   "Another One Bites The Dust (vs The Miami Project)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9b9c1e9-94c6-4d5a-8984-57c433dcb832>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ac1535d7-60a9-4830-a906-703d7ea8b2f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "372000" ;
+        pm:hasTitle   "Another One Bites the Dust (Oliver Koletski remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cb6adbd-794c-4fcf-8e28-38ee4d53d5fa>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2014-08-17: Summer Sonic, Tokyo, Japan" ;
+        pm:hasLength          "202557" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd6ebefb-752d-4da1-998a-367269ca590e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198133" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1c7cd5f-ee02-46c0-82a6-e9250d2fc7a6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasLength          "256000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bffaa65-0305-4bc1-8ab3-62f48d47a7a9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "Another One Bites the Dust (remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d01ad2e3-3718-410a-8b6b-100568b473b6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "347000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/faf7e151-4223-45e8-a4cb-87b6e7dc7820>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, UK" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/858ebbdc-faca-4fbc-bf03-f592e0906914>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Another One Died for Us" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f00531cc-8870-456f-b1bf-8daea3ed2d50>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, UK" ;
+        pm:hasLength          "358933" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17cf7eba-10a5-40f7-9f1f-4d2e1482d6dd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "181466" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6973dc2d-4911-407f-a404-dadd3b987132>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185240" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d113372-e57e-4acc-ae5b-e234f309de24>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "390000" ;
+        pm:hasTitle   "Another One Bites the Dust (DJ Pedro & Oliver Berger mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "イーエムアイ音楽出版 ソニー事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebb3fbc8-8edb-40b1-8d6f-065dfa316c0c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205040" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40610d22-a4c5-420f-b325-de6adf7583c9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "292960" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/625935f8-ce96-4d9b-b327-06b45fb4b5f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211693" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/bba59df7-e395-38fb-902e-a9b9a3480610>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Another One Rides the Bus" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eee3ca9b-51e6-4180-a6af-1de8a634742f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "290000" ;
+        pm:hasTitle   "Another One Bites the Dust (Team 1 Black Rock Star Main Pass mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9df083a-2e67-409e-9159-6cafe0d5fdbc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205000" ;
+        pm:hasTitle   "Another One Bites the Dust (from Stadthalle, Vienna, Austria – 12th May 1982)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4fd3be01-2cac-462d-978d-4bde16acc9dc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, UK" ;
+        pm:hasLength          "268093" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e44f1f1-8961-4aee-aeb8-360a80b2cd43>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “The Ultimix Medley Collection, Volume 4” DJ-mix" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ddfe7bbe-4750-491c-a72b-54a45ed4fccb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "434000" ;
+        pm:hasTitle   "Another One Bites the Dust (Soul Avergerz remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d246e35-4c71-4b03-ab30-095a14d338ce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "230000" ;
+        pm:hasTitle   "Another One Bites the Dust (We Will House You remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/16b08cc9-4526-457c-8c57-b5a039f81925>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "spa" ;
+        pm:hasTitle     "El polvo tú morderás" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/801f36a9-ecc1-4cac-a6af-cbb6b03cfdd3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "527281" ;
+        pm:hasTitle   "Chantilly Lace / Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8656ed8a-f11c-4b35-a9d2-8dcb5f14dfb9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-21: Estadio Velez Sarsfield, Buenos Aires, Argentina" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31a1744c-63af-4ea6-95eb-0e28ec28b269>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985: Japan" ;
+        pm:hasLength          "228000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5da3014c-7505-462c-8fd4-af67e5e89354>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “Radio Soulwax Live: Get Yer Yo Yo’s Out, Pt. 4” DJ‐mix" ;
+        pm:hasLength          "25000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f059625-0033-47a6-ae73-029d6442ccf6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "DJ-mixed: Dancemania COVERS 2" ;
+        pm:hasLength          "201000" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0e930a0-e7c0-42bc-8e4f-2eb725321730>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK" ;
+        pm:hasLength          "342466" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b77cf48-6ee9-454f-ad68-255f602984c0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "397000" ;
+        pm:hasTitle   "Medley: Another One Bites the Dust / Staying Power / Ogre Battle" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c74f7b93-7043-4469-8957-1f5f4fe68346>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan" ;
+        pm:hasLength          "213973" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbee75e7-e27f-4f86-9811-227a0472d310>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Another One Bites the Dust (Cedric Gervais & Second Sun radio edit)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85afd54c-1bef-4d31-94b4-34243e2adac3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/712d8121-4fb4-405c-9d0f-645695453944>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/05ef8c11-84ed-4d6e-8a92-bcaf098d3fb1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209533" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40f27b80-1d2c-4eed-9f6d-6d7f6219cc35>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan" ;
+        pm:hasLength          "235493" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13388ba6-dfe9-4abb-b76d-556af4d5b4ee>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e3bb67e-6218-42cb-a942-091b4326ee10>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of “Mastermix: DJ Beats, Volume 11” DJ‐mix" ;
+        pm:hasLength          "252764" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a3b44e1c-5694-4886-9068-cca05f522054>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust (Ultra 12″ remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/89487777-250c-4549-a6d0-a3fb926c86c9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Adventures of Grandmaster Flash on the Wheels of Steel" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7179744-d444-4944-8e71-9f5fbd124386>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02fcfdbf-3aa4-4546-b1e6-29eb407724c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0feeec9f-0fb0-4ee8-95e4-cf46f5c49e33>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/400b2185-e149-46b0-80c3-f272b24589bb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, England" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5957ec57-988c-4777-ac05-c2ddb96956a4>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada" ;
+        pm:hasLength          "306158" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c0926a99-3382-44fe-8aff-2b9777b02af8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "437000" ;
+        pm:hasTitle   "Another One Bites the Dust (Cedric Gervais & Second Sun vocal mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37871a59-b38e-4900-96a1-c189d4df6b5e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "259026" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f53050b8-7ad4-4ee1-807f-08fc0e102ef9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "222537" ;
+        pm:hasTitle   "Another One Bites The Dust (D-Space Remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcc16ac5-8742-4bb0-91e7-a6217fb84036>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204426" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3fe692e-ed51-485a-a617-563af2ebaba3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b5740b-4a7d-4c37-9fcc-f4aa728e2f5d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201000" ;
+        pm:hasTitle   "Another One Bites the Dust (Cedric Gervais & Second Sun radio edit)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a65ec98c-8046-4f13-9f64-5d2c31ed4f00>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, England" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0712b95d-80f0-4501-813b-64a22bd4f42b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e4c7974-b6f4-410e-970c-b5b697051dbf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "199853" ;
+        pm:hasTitle   "Another One Bites the Dust (Bite Me mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d8fe88e-bac0-44ad-8efc-b66493c54954>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Another One Bites the Dust (SDC extended cut)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ce5087f-263b-4629-bc6e-b8a820d25f32>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "212000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5fac52a5-917e-46c8-a97c-8f3c1a3153c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "183880" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdebdc3b-e3da-4389-9a3e-7efd987266a6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "242120" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ec9bfe8-b30c-4d8b-b525-442b6e499f14>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada" ;
+        pm:hasLength          "240600" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b0c029f-badb-4ddf-a6eb-b1234b862e62>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "332000" ;
+        pm:hasTitle   "Another One Bites the Dust (A Skillz remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2fd00070-c0ce-4828-945d-806444652428>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, UK" ;
+        pm:hasLength          "293600" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b235773-16bd-4fc5-b57e-c966f9d1db6d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7f165434-7d08-4056-bb58-dea151c55c92>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-04-05: HP Pavilion, San Jose, California, United States" ;
+        pm:hasLength          "223701" ;
+        pm:hasTitle           "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a987380f-30aa-42bf-ae64-f696ca0f1fc8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "228174" ;
+        pm:hasTitle   "Another One Bites the Dust (Queen Dance Track)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f93fda8-c0fc-42b0-928d-a7eb63a3d652>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "296226" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21af72c1-6ac8-445d-ac7f-5537d6101881>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "242000" ;
+        pm:hasTitle   "Another One Bites the Dust (radio edit)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3612d3e6-0aeb-4e78-a30e-ed5cb16bd8ac>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "249000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d325e739-d06a-4af1-a1fc-ccef159c6f62>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Another One Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9996be46-8ced-4fd2-a3d6-93c1e7b70b79>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "Agains and Bites the Dust" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fccd52b0-7c63-4a01-a8a5-8d455c12529b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "228000" ;
+        pm:hasTitle   "Another One Bites the Dust (radio mix)" .

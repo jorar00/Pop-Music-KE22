@@ -1,0 +1,454 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ddf98c-9314-4294-8260-948b98cec1bf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31fa391b-db70-485d-bfdc-863fd615269e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a747c609-bd63-4cff-a3b9-c3e2ec8ebdca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006: Wembley Arena, London, UK" ;
+        pm:hasLength          "243000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c032d63e-a355-4b1b-985b-48da54116f02>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82cc4654-9a0f-43b2-9248-4de72f651815>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "225186" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Don’t Stop Them Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c9956e2-6f2e-4d75-961e-ffabd256e706>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "132466" ;
+        pm:hasTitle   "Don't stop me now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f48cdc76-3389-4278-b891-2affd89488cf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version - no leading vocals" ;
+        pm:hasLength          "201653" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35df6904-d196-43e8-940c-c7b963e7a97e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "268000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/662bb6ab-ebd3-40c1-ac3b-29be577c21a9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979" ;
+        pm:hasLength          "267493" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b672105-f9e5-469f-8568-09555b444743>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201266" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a0852f8-318d-43a2-a0ca-237f20b05b88>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "107493" ;
+        pm:hasTitle   "Don’t Stop Me Now - Jive" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ca662f6-7eb2-4865-8b1c-bacf1ac249a0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f6cf6a37-d36d-4a56-8384-476a3db3c34e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "200000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/504b94b8-428d-405a-bac7-ae7ce00afded>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f08397a3-b73c-4552-b0f7-42c755abeb02>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "224000" ;
+        pm:hasTitle   "Don't Stop Me Now (In The Style Of Mcfly)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6792f65-3ac1-4f05-a838-2421aab8bb6f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213333" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77ca9573-afdd-48b4-af27-9c92b95eaafe>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1979-02-01: Sportshalle, Cologne, Germany" ;
+        pm:hasLength          "282333" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c70ae461-1ded-4795-9724-6c34b8640da8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ba6943-45f1-4522-b8d9-df83f6f9e731>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "248000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/8f217f03-fd55-366c-b80e-66424027dc29>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ba6943-45f1-4522-b8d9-df83f6f9e731> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82cc4654-9a0f-43b2-9248-4de72f651815> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ca662f6-7eb2-4865-8b1c-bacf1ac249a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df604a8f-c5f5-4ccc-984a-a022a72365a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77ca9573-afdd-48b4-af27-9c92b95eaafe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4d43fde-7eb1-4a83-818e-ce66802588ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d08732e-32c6-4adb-a707-365e585cc997> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86ca8def-9d4d-46b7-a057-3c32b6a714f8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6457999-96bb-461d-b27b-fb190f705d1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60cc61db-8138-447c-81c1-c5825f352ea5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df79d5fa-5796-4c6c-b696-3e3b89787725> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/94486e33-d25c-411b-a9bb-247380f530f8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e07c383c-ce67-4540-8f02-83fcf058bc5b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ddf98c-9314-4294-8260-948b98cec1bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bcd2baf-d30b-4699-b912-44e16bdbb05e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce2f4c44-fb9f-4aff-8f6c-15e8450f7e6f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35df6904-d196-43e8-940c-c7b963e7a97e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb4f1194-98a2-4dc7-a4b0-02873ce64c2d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4009c09-a339-4b89-bc45-d91ab649acb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c7bf247-ffb3-4d56-9f9e-b297abd9dd67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d226ea20-805e-4c8e-ac07-0af6d6d66b25> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd49b6ff-8ee3-4621-a1ca-9581cdfc8677> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb3cc4f7-bf0d-4f72-9fd9-2474e02e0981> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3aeabde1-fea6-4155-a30a-f653b9858b5a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa27b1eb-3e78-4075-98b6-91f069ef652b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6741452-23a3-4bf7-be79-67c78b7ee2dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a747c609-bd63-4cff-a3b9-c3e2ec8ebdca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdb1a0fb-024c-4b31-81ca-093f251e9b20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f08397a3-b73c-4552-b0f7-42c755abeb02> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c9956e2-6f2e-4d75-961e-ffabd256e706> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db946789-d1aa-4a48-81f5-db08fb6bbb80> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/720ea0e1-2b89-412c-a422-46d8b3fef72a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c70ae461-1ded-4795-9724-6c34b8640da8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a0852f8-318d-43a2-a0ca-237f20b05b88> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5bb8eff1-61ba-446b-8c7f-3f5aa087bc5e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/662bb6ab-ebd3-40c1-ac3b-29be577c21a9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/595e8665-db0b-4ac5-9ac8-d780c0ccc8d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b672105-f9e5-469f-8568-09555b444743> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ac3a953-b802-41eb-b367-b6028b85952e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8470c6c-2550-44ad-8e43-4b8129a3c158> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ca9db4-ab29-4c70-966c-a49034543bc7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a832f019-cbc2-4b19-933b-1aa7dde8f820> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2249ade0-63d7-4d14-8267-ea966dfce374> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/256e3203-c75f-4a8c-82f9-3650abf56bd7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/004d8fe7-9a53-49cb-b06f-be9e7fbfa636> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/053f0b9b-1fd7-4c6e-8bcb-03711ea7f489> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6792f65-3ac1-4f05-a838-2421aab8bb6f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7e51c55-d7d4-4b50-a6eb-90c5ebf31969> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f9dcc7d-e5dd-414f-9d81-b9ab4b0a04bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14e7ae3c-93d0-46a6-92fd-81aaf022aec1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c032d63e-a355-4b1b-985b-48da54116f02> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f6cf6a37-d36d-4a56-8384-476a3db3c34e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/504b94b8-428d-405a-bac7-ae7ce00afded> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d3d6af1-8c4e-4fdb-a7e9-70e819d7b0db> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1438fbb1-95e1-4d14-8cfc-68f2eb7747dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fb49a430-f845-40d6-ad68-f77f88567874> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/933eee8b-a148-48fe-80be-0bc435c5211b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a3ab54c7-2335-4479-8f12-d1b5ed41ffc7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74c1f91a-9924-4e76-b1bb-c8720db3ddae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31fa391b-db70-485d-bfdc-863fd615269e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4b5f35a-1003-4dad-b247-b9f591bdbaef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b5ed5418-0689-462b-afb5-a4a30ae1d935> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f72b57f3-0847-4a4d-9617-1b6f4c07b498> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/12818a1b-1198-4ff7-89c2-99ed00fb4acc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4a91eb4-a7c5-490b-aadf-7c45eba9202d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd47535b-c413-4535-b28f-c80426efdcdc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/527ddd3c-38b3-4bce-8a67-e9c22f67f23e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1ade1c7-93f7-4526-830f-3cabf99412cd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f025c5d2-20ac-47a0-9b5d-aa57cf8de340> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7be85da5-9a97-4c6e-8eee-0b68880fba15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c839e664-92b9-4dab-85eb-069575aab792> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a6ccb32-6a54-4b25-a848-ea0f939aacdd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f48cdc76-3389-4278-b891-2affd89488cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4478460d-d2dc-4c82-aff8-7609d01996ee> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8006136-2de0-44b4-8faf-76208435fabc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1970cfb-5c9e-4124-bed0-9d5d70c95a6b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb52cdb5-cdfe-4afd-8805-17d1838079f4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/880bc49e-f87a-4a6f-940d-dc2e26474671> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cad8d97a-991d-4ee8-8153-6bc184661239> ;
+        pm:hasTitle       "Don’t Stop Me Now" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2249ade0-63d7-4d14-8267-ea966dfce374>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-02-01: Sporthalle, Cologne, Germany" ;
+        pm:hasLength          "299000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df604a8f-c5f5-4ccc-984a-a022a72365a7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-12-12: Walter-Köbel-Sporthalle, Rüsselsheim, Germany" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/933eee8b-a148-48fe-80be-0bc435c5211b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221106" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8470c6c-2550-44ad-8e43-4b8129a3c158>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "299066" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bcd2baf-d30b-4699-b912-44e16bdbb05e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version - no leading vocals" ;
+        pm:hasLength          "201653" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd49b6ff-8ee3-4621-a1ca-9581cdfc8677>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "504000" ;
+        pm:hasTitle   "Don’t Stop Me Now (Ultratraxx 12″ version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8006136-2de0-44b4-8faf-76208435fabc>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now (Ultra 12″ remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f9dcc7d-e5dd-414f-9d81-b9ab4b0a04bf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "259600" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d08732e-32c6-4adb-a707-365e585cc997>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, London, United Kingdom" ;
+        pm:hasLength          "193000" ;
+        pm:hasTitle           "Don't Stop Me Now (BBC)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5bb8eff1-61ba-446b-8c7f-3f5aa087bc5e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada" ;
+        pm:hasLength          "217602" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/256e3203-c75f-4a8c-82f9-3650abf56bd7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdb1a0fb-024c-4b31-81ca-093f251e9b20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "253213" ;
+        pm:hasTitle   "Lässt du morgens Römer fliegen, sollst du abends Wildschwein kriegen" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c7bf247-ffb3-4d56-9f9e-b297abd9dd67>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1ade1c7-93f7-4526-830f-3cabf99412cd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4b5f35a-1003-4dad-b247-b9f591bdbaef>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "266613" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c839e664-92b9-4dab-85eb-069575aab792>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218947" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3aeabde1-fea6-4155-a30a-f653b9858b5a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "195000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/527ddd3c-38b3-4bce-8a67-e9c22f67f23e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127720" ;
+        pm:hasTitle   "Don’t Stop Me Now (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce2f4c44-fb9f-4aff-8f6c-15e8450f7e6f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-01-24: Deutschlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4a91eb4-a7c5-490b-aadf-7c45eba9202d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK" ;
+        pm:hasTitle           "Don’t Stop Me Know" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/004d8fe7-9a53-49cb-b06f-be9e7fbfa636>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "63040" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f72b57f3-0847-4a4d-9617-1b6f4c07b498>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e07c383c-ce67-4540-8f02-83fcf058bc5b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "203000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db946789-d1aa-4a48-81f5-db08fb6bbb80>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb4f1194-98a2-4dc7-a4b0-02873ce64c2d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Don’t Stop Me Now (remastered 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ac3a953-b802-41eb-b367-b6028b85952e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2011 mix" ;
+        pm:hasLength          "206133" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/053f0b9b-1fd7-4c6e-8bcb-03711ea7f489>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2002 original London cast" ;
+        pm:hasLength          "69000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1438fbb1-95e1-4d14-8cfc-68f2eb7747dd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Queen Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14e7ae3c-93d0-46a6-92fd-81aaf022aec1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "223000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f025c5d2-20ac-47a0-9b5d-aa57cf8de340>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215288" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/595e8665-db0b-4ac5-9ac8-d780c0ccc8d0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/720ea0e1-2b89-412c-a422-46d8b3fef72a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-12-09: Walter-Köbel-Halle Rüsselsheim, Germany" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1970cfb-5c9e-4124-bed0-9d5d70c95a6b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke" ;
+        pm:hasLength          "208000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b5ed5418-0689-462b-afb5-a4a30ae1d935>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "292493" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/12818a1b-1198-4ff7-89c2-99ed00fb4acc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198906" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6741452-23a3-4bf7-be79-67c78b7ee2dd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fb49a430-f845-40d6-ad68-f77f88567874>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2016: Rock in Rio, Lisbon, Portugal" ;
+        pm:hasLength          "250040" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4d43fde-7eb1-4a83-818e-ce66802588ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210840" ;
+        pm:hasTitle   "Don’t Stop Me Know" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86ca8def-9d4d-46b7-a057-3c32b6a714f8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "267000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cad8d97a-991d-4ee8-8153-6bc184661239>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194636" ;
+        pm:hasTitle   "Don’t Stop Me Now (metal cover)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/94486e33-d25c-411b-a9bb-247380f530f8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209960" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "526000" ;
+        pm:hasTitle   "Queen Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb52cdb5-cdfe-4afd-8805-17d1838079f4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "Freddie Mercury" ;
+        pm:hasRole       "composer" , "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d3d6af1-8c4e-4fdb-a7e9-70e819d7b0db>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "part of \"Grandmaster Party 6: School Disco\" DJ-mix" ;
+        pm:hasLength          "181000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/60cc61db-8138-447c-81c1-c5825f352ea5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "Don't stop me now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a832f019-cbc2-4b19-933b-1aa7dde8f820>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6457999-96bb-461d-b27b-fb190f705d1c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171680" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7be85da5-9a97-4c6e-8eee-0b68880fba15>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-26: Hammersmith Odeon, London, England, UK" ;
+        pm:hasLength          "256840" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4478460d-d2dc-4c82-aff8-7609d01996ee>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "245133" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a3ab54c7-2335-4479-8f12-d1b5ed41ffc7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df79d5fa-5796-4c6c-b696-3e3b89787725>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version" ;
+        pm:hasLength          "211186" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d226ea20-805e-4c8e-ac07-0af6d6d66b25>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "240000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4009c09-a339-4b89-bc45-d91ab649acb6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210146" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7e51c55-d7d4-4b50-a6eb-90c5ebf31969>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "258000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "イーエムアイ音楽出版 ソニー事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa27b1eb-3e78-4075-98b6-91f069ef652b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "Don’t Stop Me Now (with long‐lost guitars)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd47535b-c413-4535-b28f-c80426efdcdc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207000" ;
+        pm:hasTitle   "Don't Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb3cc4f7-bf0d-4f72-9fd9-2474e02e0981>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "217733" ;
+        pm:hasTitle   "Don’t Stop Me Now (…revisited)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a6ccb32-6a54-4b25-a848-ea0f939aacdd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "270000" ;
+        pm:hasTitle           "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/74c1f91a-9924-4e76-b1bb-c8720db3ddae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207908" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/880bc49e-f87a-4a6f-940d-dc2e26474671>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "219000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ca9db4-ab29-4c70-966c-a49034543bc7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204000" ;
+        pm:hasTitle   "Don’t Stop Me Now" .

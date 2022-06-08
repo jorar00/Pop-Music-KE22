@@ -1,0 +1,71 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Norman Smith" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "John Lennon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Andy White" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "George Harrison" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Paul McCartney" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "The Beatles" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Ron Richards" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Ringo Starr" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f518811-7cf9-4bdc-a656-0958e130f312>
+        rdf:type              pm:Recording ;
+        pm:hasAnnotatiton     "Ringo on tambourine. This was the \"common\" version until Past Masters 1 made the other version also easily available. George Martin does not recall substituting one version for another so it may have happened by error.\n\nOn February 25th, 1963, George Martin assembled his team in Studio one at EMI to produce mono and stereo mixes for their first album, “Please Please Me.” The version of “Love Me Do” that would appear on the album, it was decided, was the Andy White version recorded on September 11th, so the mono mix made on that day was sufficient for the mono release of the album. However, the stereo version of the album needed a stereo mix, and the song was originally recorded on only one track, so a stereo version of the song needed to be mixed somehow from the mono mix done on September 11th. To remedy this situation, George Martin prepared a “mock” stereo version of the song by placing the bass signals of the song on one channel and the treble frequencies on the other channel. This process gives the listener a higher definition stereo feel, but without the separation of true stereo, as most of the other tracks on the album have. This mix is what appears on all of the stereo US versions of the song. This mock stereo version is what was used by Capitol to make a mono version in 1965.\n\nThe following releases use the mock stereo remaster that was created:\nUK: Parlophone PCS 3042 Please Please Me 1963, Apple PCSP 717 The Beatles 1962-1966 1973.\nUS: Vee Jay VJSR 1062 Introducing first issue 1963, Capitol ST 2309 The Early 1965, Apple SKBO-3403 The Beatles 1962-1966 1973.\n\nThe following release uses the fold down of the mock stereo for mono:\nUS: Capitol T 2309 The Early 1965.\n\nRecording matrix:\n7XCE 17144 (note: same as Ringo version, so I wouldn't use for identification)\n\nISRC GB-AYE-63-00121 is for the original master, SoundExchange erroneously reports it as stereo.\nISRC GB-AYE-00-00920 is for 2000 remaster that first appears on “1”, SoundExchange erroneously reports it as stereo.\nISRC GB-AYE-06-00333 is for 2006 remaster of the 1965 “mock stereo” remaster on “The Capitol Albums, Volume 2”\nISRC  GB-AYE-06-00344 is for 2006 remaster of the 1965 Capitol mono fold down from “mock stereo” remaster  on “The Capitol Albums, Volume 2”\nISRC GB-AYE-06-01417 is for 2009 remaster on “Please Please Me”\nISRC GB-AYE-09-00612 is for 2009 remaster on “1”, “1962–1966” & “The Beatles in Mono”\nISRC GB-UM7-15-05907 is for 2015 remaster on “1”" ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDate            "1962-09-11" ;
+        pm:hasDisambiguation  "drums: Andy White; original mono studio mix" ;
+        pm:hasLength          "141693" ;
+        pm:hasPlace           "Abbey Road Studios: Studio 2" ;
+        pm:hasRate            "3.85" ;
+        pm:hasTitle           "Love Me Do" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa> .

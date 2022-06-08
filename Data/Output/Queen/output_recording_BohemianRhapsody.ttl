@@ -1,0 +1,60 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Queen" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Brian May" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Roger Taylor" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Freddie Mercury" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/5abc6612-af98-406c-90a3-2b3b2dde08d6>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Kris Fredriksson" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a9c0e9-d987-4042-ae91-78d6a3267d69>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasDate          "1975-08-24" ;
+        pm:hasLength        "355106" ;
+        pm:hasPlace         "Rockfield Studios" ;
+        pm:hasRate          "4.45" ;
+        pm:hasTitle         "Bohemian Rhapsody" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/11c03722-3fa5-4c0d-bb60-467201a7eaa7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/cf1280fd-8d52-4871-bb8b-021fcc9add4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/5abc6612-af98-406c-90a3-2b3b2dde08d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/11c03722-3fa5-4c0d-bb60-467201a7eaa7>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Gary Lyons" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Roy Thomas Baker" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Deacon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/cf1280fd-8d52-4871-bb8b-021fcc9add4f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Mike Stone" .

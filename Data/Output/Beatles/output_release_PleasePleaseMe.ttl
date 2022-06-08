@@ -1,0 +1,85 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc87225b-46bc-4a5d-837f-14e7eb8f2ca2>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "117000" ;
+        pm:hasTitle           "From Me to You" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1962-11-30" , "1962-11-26" ;
+        pm:hasEndDate    "1963-03-05" , "1962-11-30" , "1962-11-26" ;
+        pm:hasName       "Norman Smith" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-11-26" , "1963-03-05" ;
+        pm:hasEndDate    "1962-11-26" , "1963-03-05" ;
+        pm:hasName       "John Lennon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a>
+        rdf:type              pm:Recording ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "121333" ;
+        pm:hasTitle           "Please Please Me" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Release/e03b4ff2-9f48-4051-8848-835c7c75edfc>
+        rdf:type               pm:Release ;
+        pm:containsRecordings  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc87225b-46bc-4a5d-837f-14e7eb8f2ca2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a> ;
+        pm:hasCreditArtist     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDate             "1964-01-30" ;
+        pm:hasPackaging        "Cardboard/Paper Sleeve" ;
+        pm:hasPlace            "US" ;
+        pm:hasTitle            "Please Please Me / From Me to You" ;
+        pm:hasType             "Single" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1962-11-26" ;
+        pm:hasEndDate    "1963-03-05" , "1962-11-26" ;
+        pm:hasName       "George Harrison" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-11-26" , "1963-03-05" ;
+        pm:hasEndDate    "1962-11-26" , "1963-03-05" ;
+        pm:hasName       "Paul McCartney" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/26fa8b67-6c7f-406c-ad64-a1d070092df2>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-11-30" , "1963-03-14" , "1963-03-05" , "1962-11-26" ;
+        pm:hasEndDate    "1963-03-14" , "1962-11-30" , "1962-11-26" , "1963-03-05" ;
+        pm:hasName       "George Martin" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "The Beatles" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" , "1962-11-26" ;
+        pm:hasEndDate    "1963-03-05" , "1962-11-26" ;
+        pm:hasName       "Ringo Starr" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/97a48ba9-7320-423a-aeba-0a1b15eae50b>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-03-05" ;
+        pm:hasEndDate    "1963-03-05" ;
+        pm:hasName       "Richard Langham" .

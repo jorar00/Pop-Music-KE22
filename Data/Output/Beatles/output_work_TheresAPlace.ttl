@@ -1,0 +1,624 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e64c5aab-6017-41d2-90cd-b19819c043e4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6be71266-d6a2-4336-b386-52fe1abee4a0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166000" ;
+        pm:hasTitle   "There’s a Place (takes 7/8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02bbd886-2cd8-4b74-a0a4-1e13d35cde86>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122840" ;
+        pm:hasTitle   "There’s a Place (take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/47cb6898-db67-47a1-9b81-380c379a3271>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "106000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aae0ce06-2db1-4f9a-a21d-69a0eb44b1fc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a39b3e-6d43-4440-861e-e8972901845b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me / There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a45d205-fbe7-42da-a575-619320e8e32f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c7445f8-65dc-4a7c-9079-265dd7ea7d9c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130000" ;
+        pm:hasTitle   "There’s a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56422df7-c73f-4663-90d8-b28bb6011844>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "There’s a Place (take 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee801ae1-001f-4b9e-9ebc-b2d03b8bf672>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "110493" ;
+        pm:hasTitle           "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b362cb91-5e22-48b6-8f4b-b3c89d6eda28>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174506" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d3279be-98c3-4142-81f5-ea5de3d4992e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "There’s a Place (take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58486509-a0b3-4150-9fd2-bf312335e365>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123600" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75ed26e1-3d65-4d34-8435-688aeb273e2f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e5315b1-f2f5-4d00-adb2-94d3c05585e7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 13)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42514815-b00c-4204-84fc-3a955bba40ca>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 12)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Sony/ATV Music Publishing LLC" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "MCA Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2481f0ba-4f1b-48e8-954b-6a02fc7b29db>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/003034be-3c71-4564-a732-1b4adcd0d97a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02" ;
+        pm:hasEndDate    "1963-02" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1beaab3-4bce-475d-b4a2-5102ba6d637c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a21cc0f-f92f-45e5-a8aa-e9bcb9034355>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "There’s a Place (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0dc0b003-d8ba-4d8a-84fa-c089b85dab13>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145573" ;
+        pm:hasTitle   "There’s a Place (track 2, takes 12-13)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/107bbb9c-ebac-4367-b1bb-7aef84f833cb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133000" ;
+        pm:hasTitle   "There’s a Place (takes 3, 4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29975299-2605-460c-bb15-99d32adaf1be>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "181200" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e02fee6-5189-43c3-bd1e-e19b0e7a4d6c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 2 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a0a81d6c-7642-4088-a9d5-ee8f64b8dd97>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71998da2-491b-4ed4-8ff5-6bba7bf9fa29>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118480" ;
+        pm:hasTitle   "There’s a Place (studio outtake / take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/964b0356-6276-41a0-a2b6-3920a9d6c110>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "There’s a Place (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/014cd7de-296c-4c52-bc12-393d5780c153>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161946" ;
+        pm:hasTitle   "There’s a Place (takes 7-8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8931db5-90a6-4671-b31f-443852280d10>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5af4dc4-4b66-4d7e-a148-64ba618a7a62>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 3 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb92deb6-b84b-4033-b950-5f4bef9db5be>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124093" ;
+        pm:hasTitle   "There’s a Place (track 2, take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1174693-64b2-4b31-9604-158e87c24fd2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137800" ;
+        pm:hasTitle   "There’s a Place (take 12, track 2 and take 13, track 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/183ecbf9-481d-4b52-89f9-33e2ed25ebc4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/746a7f70-2729-4577-a478-5b4591b1f56e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126666" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6846d405-1e62-4b70-8b61-6f3a7a961084>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129186" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d5cbd2d-877b-48c3-801b-601b21f3ae9f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ae7f6d37-fb15-48bc-8d9d-2f91d111f42e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 13 - Complete M)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d0f497c-b5a2-4531-a5c4-1d9a82946a9b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/140d0591-868a-4b11-979a-8f38f75e5cd8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "There’s a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/343f16f3-af55-4621-89e0-1a067b4aea34>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127760" ;
+        pm:hasTitle   "There’s a Place (takes 3 & 4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1560b5bd-d35f-415b-a815-e5bf61000d8c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dda151a9-10de-493a-ace5-6ab623486856>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a25b917f-a66e-405d-b6e4-fbf6317a2136>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "114000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9b5aec6-17d7-4304-a07d-e35f5bec8ad0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109266" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b502cf2b-8648-4270-ae46-2a8e429319ed>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 5 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ec5b7ed-be3e-48bc-955f-110382e7da16>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "There’s a Place (track 2 takes 12, 13)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/685a5ca7-267e-4d2b-b58b-818097e24d87>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5c159a0-be4c-43cc-8dd2-972a5ae2284e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130093" ;
+        pm:hasTitle   "There’s a Place (takes 3-4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3450cc1b-5236-429f-a02b-5ce2f513e7da>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "There’s a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e9efd8b-a13c-468f-9933-6afa65f9dadb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "There’s a Place (track 2 take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/829e0167-2f59-4351-81df-59e00e4f1da1>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "Du bist schön" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/45ffef49-4017-3d87-b04f-fc7c38ae7526>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6846bf9c-28da-4bcb-a706-3666f52ef90b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a25b917f-a66e-405d-b6e4-fbf6317a2136> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61e732fa-dc77-4e4e-a065-64c5b7c86f6e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/156ee36e-23c9-4ca9-9e82-6b5f01e6c2ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/058e30e3-f37a-488b-8929-131e2fc0a2fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ca6ace-06b8-4ea5-954e-58b531a293f8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba093519-f9d1-48f1-bbe6-a2ab1a38d901> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/469c07c6-5784-4a96-be17-9f03f60d8f3e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f072881-7aa7-4360-a09f-90b541093c71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8ff42fd5-2d6e-4352-b09a-3a06742075e9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/869bb4ad-5227-4cf7-b666-cf3bb88952b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/47cb6898-db67-47a1-9b81-380c379a3271> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6c6506f-7ffc-4f2a-b130-9d9d79e7dfb3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0effedb9-a5fa-435c-ba2e-f75e469b2dc2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee801ae1-001f-4b9e-9ebc-b2d03b8bf672> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1560b5bd-d35f-415b-a815-e5bf61000d8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5c159a0-be4c-43cc-8dd2-972a5ae2284e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb92deb6-b84b-4033-b950-5f4bef9db5be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222fe3a3-26e1-42be-9f72-d81c87df73e9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68c5b9eb-9d1f-4a08-9b7f-3bac494b4ce7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc674df9-4f5a-4545-bd3d-d59659c959ba> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40c50bc0-d53b-4e8d-aa5a-e49b3064bc5a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29975299-2605-460c-bb15-99d32adaf1be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cde5af8-5186-4af2-8e40-a5b2fa192d34> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bda69148-a75a-47f1-a782-1dfc9e8cd398> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f787f693-3241-484a-b5d4-b22e26b2a489> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3c7377d-7b1e-4fee-b567-5367eefbcec2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3094c37d-5061-4b96-81e9-03c3a761ae61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3848f0cb-1ee7-4414-9ce1-730d84ddb61b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/685a5ca7-267e-4d2b-b58b-818097e24d87> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b950f5b-56e6-4a1c-9a4d-4c4cf24b22cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d465b887-cb49-41b9-80d9-c740fd853500> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ffa8af-ceb4-427f-b3ca-d8a3186e04a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/603ce981-1299-4110-b503-52832323d5c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6d0f497c-b5a2-4531-a5c4-1d9a82946a9b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf8d73c2-3f58-4c1d-9a63-154d49d0463f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebd1c968-cc21-4b39-b85c-bf3a43879c86> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28352045-cc8b-4c57-913e-bef8dfe3d312> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd412b40-ced4-43df-89d0-39caf245a748> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1beaab3-4bce-475d-b4a2-5102ba6d637c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d5cbd2d-877b-48c3-801b-601b21f3ae9f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6be71266-d6a2-4336-b386-52fe1abee4a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0dc0b003-d8ba-4d8a-84fa-c089b85dab13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffdb710c-c5fe-40c7-ac3a-d5b61d051780> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a21cc0f-f92f-45e5-a8aa-e9bcb9034355> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56422df7-c73f-4663-90d8-b28bb6011844> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/096b6237-15c9-43c3-8358-74f35f2ce138> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b35284f-35bb-4c5f-8d34-21c580f69ecb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58486509-a0b3-4150-9fd2-bf312335e365> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ccc3a2c-0fce-4705-b5d4-9859a5e09e99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e64c5aab-6017-41d2-90cd-b19819c043e4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6846d405-1e62-4b70-8b61-6f3a7a961084> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2398db4-fc24-4b66-8fe3-98b973b978af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ba177f-707c-4d60-a168-292b93216318> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e62767d8-c560-47ac-9c51-fb76cc24788b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e5315b1-f2f5-4d00-adb2-94d3c05585e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dda151a9-10de-493a-ace5-6ab623486856> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/343f16f3-af55-4621-89e0-1a067b4aea34> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3fc034e-01f6-4ab5-9282-e76cd5c5cd62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3f0c23f-55b2-4c6a-926c-3cf955b66141> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c7445f8-65dc-4a7c-9079-265dd7ea7d9c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c15c1f4-7530-46ea-a827-ec45006ca8da> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1be8b787-a6b2-4544-9232-ecc6cfc2a56c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/003034be-3c71-4564-a732-1b4adcd0d97a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1265354-93b3-4915-9fcf-3f920ef92200> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf810ed8-3b25-4609-b285-50d6c9eafa51> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75ed26e1-3d65-4d34-8435-688aeb273e2f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02bbd886-2cd8-4b74-a0a4-1e13d35cde86> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71998da2-491b-4ed4-8ff5-6bba7bf9fa29> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e02fee6-5189-43c3-bd1e-e19b0e7a4d6c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8931db5-90a6-4671-b31f-443852280d10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5af4dc4-4b66-4d7e-a148-64ba618a7a62> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c767aa6-50c4-4159-96a1-6fb406aed5f6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/88aa13d2-12bc-4068-a55b-36ddf79fcbd1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/577e6766-989c-4913-9312-187e8d739ac2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b502cf2b-8648-4270-ae46-2a8e429319ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e9efd8b-a13c-468f-9933-6afa65f9dadb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1174693-64b2-4b31-9604-158e87c24fd2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec63a5ed-422b-4774-b91e-32b1a83ff862> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a45d205-fbe7-42da-a575-619320e8e32f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecc30ddf-1809-45f4-8030-ce9b2f6a6676> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9b5aec6-17d7-4304-a07d-e35f5bec8ad0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87daee04-3bde-4e00-9e7b-7154b49bd1b1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/964b0356-6276-41a0-a2b6-3920a9d6c110> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2481f0ba-4f1b-48e8-954b-6a02fc7b29db> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b362cb91-5e22-48b6-8f4b-b3c89d6eda28> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8743897-407a-4442-beec-c83eaa327bd0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a39b3e-6d43-4440-861e-e8972901845b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aae0ce06-2db1-4f9a-a21d-69a0eb44b1fc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/276ff3b0-645a-4433-9948-66aa7d453ab2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4a228bb-b475-4bde-85f6-1549fbc6b2b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ec5b7ed-be3e-48bc-955f-110382e7da16> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4f062e0-eb7f-4536-9043-0f296826ddb3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dabc791b-17b5-45fc-8885-88fb3d725f81> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce4db627-54f1-486a-8aa4-94917eecace3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f3dbac4-7135-44bc-a27a-b00fc8239649> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c25daa2c-a15d-42c0-8feb-8fc3b70877c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a0a81d6c-7642-4088-a9d5-ee8f64b8dd97> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/168e9705-e577-44f0-9c4c-59c38acd48ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/140d0591-868a-4b11-979a-8f38f75e5cd8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0df67ce5-9b30-4fab-b9eb-c079e9579623> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/183ecbf9-481d-4b52-89f9-33e2ed25ebc4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/447dc31c-863a-4100-87ce-4886eae6d41a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d3279be-98c3-4142-81f5-ea5de3d4992e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68581868-cc5a-48ff-87e4-2fc17346b47e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65396f99-9a1f-48a3-8b70-6a5128985985> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bde678e2-87bf-4941-8a87-b4d7803c0c78> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/107bbb9c-ebac-4367-b1bb-7aef84f833cb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b232be8a-9676-4242-820d-82d322d1f90d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ca39535-193f-41ee-99e6-77ba481f07b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ae7f6d37-fb15-48bc-8d9d-2f91d111f42e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29135870-9a6f-46ad-a4e7-d8ca24541626> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42514815-b00c-4204-84fc-3a955bba40ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40761519-ff42-482c-ab72-28c379a3f2c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3450cc1b-5236-429f-a02b-5ce2f513e7da> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/014cd7de-296c-4c52-bc12-393d5780c153> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bea6feb-4255-4d21-81d4-c61833bc8575> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/746a7f70-2729-4577-a478-5b4591b1f56e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9dc7ab5f-8616-4bde-bd06-5a552916b46e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28157c49-f49a-4602-ba90-05e4cac8ef0b> ;
+        pm:hasTitle       "There’s a Place" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/829e0167-2f59-4351-81df-59e00e4f1da1> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/49375f06-59e2-4c94-93ac-ac0c6df52151> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dfaee65-164e-43d4-b43b-381439541fdd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/a744ca38-6e3e-4642-95e1-f6c5738cb156> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ba177f-707c-4d60-a168-292b93216318>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (RS take 13)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3f0c23f-55b2-4c6a-926c-3cf955b66141>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "10000" ;
+        pm:hasTitle   "There’s a Place (take 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1963-02" ;
+        pm:hasEndDate    "1963-02" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3c7377d-7b1e-4fee-b567-5367eefbcec2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0df67ce5-9b30-4fab-b9eb-c079e9579623>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166000" ;
+        pm:hasTitle   "There’s a Place (takes 7, 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/577e6766-989c-4913-9312-187e8d739ac2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "14333" ;
+        pm:hasTitle   "There’s a Place (take 3: 1963-02-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc674df9-4f5a-4545-bd3d-d59659c959ba>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "109000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f3dbac4-7135-44bc-a27a-b00fc8239649>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "There’s a Place (Oh Chagrin)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9dc7ab5f-8616-4bde-bd06-5a552916b46e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/058e30e3-f37a-488b-8929-131e2fc0a2fc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "13000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65396f99-9a1f-48a3-8b70-6a5128985985>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 4 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffdb710c-c5fe-40c7-ac3a-d5b61d051780>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ffa8af-ceb4-427f-b3ca-d8a3186e04a7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120466" ;
+        pm:hasTitle   "There's a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d465b887-cb49-41b9-80d9-c740fd853500>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "There’s a Place (take 11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/168e9705-e577-44f0-9c4c-59c38acd48ef>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137866" ;
+        pm:hasTitle   "There’s a Place (takes 5-6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ca39535-193f-41ee-99e6-77ba481f07b5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118440" ;
+        pm:hasTitle   "There’s a Place (take 4: 1963-02-11)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82ca6ace-06b8-4ea5-954e-58b531a293f8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (RM take 13)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87daee04-3bde-4e00-9e7b-7154b49bd1b1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c25daa2c-a15d-42c0-8feb-8fc3b70877c9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "256146" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0effedb9-a5fa-435c-ba2e-f75e469b2dc2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1980 Capitol stereo remix" ;
+        pm:hasLength          "108000" ;
+        pm:hasTitle           "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce4db627-54f1-486a-8aa4-94917eecace3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128333" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/469c07c6-5784-4a96-be17-9f03f60d8f3e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "There’s a Place (take 3) (2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/5dfaee65-164e-43d4-b43b-381439541fdd>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Gil Music Corporation" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b35284f-35bb-4c5f-8d34-21c580f69ecb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128440" ;
+        pm:hasTitle   "There’s a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dabc791b-17b5-45fc-8885-88fb3d725f81>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐08‐01: Playhouse Theatre, Manchester, UK" ;
+        pm:hasLength          "108960" ;
+        pm:hasTitle           "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf810ed8-3b25-4609-b285-50d6c9eafa51>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2398db4-fc24-4b66-8fe3-98b973b978af>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 8 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/603ce981-1299-4110-b503-52832323d5c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123360" ;
+        pm:hasTitle   "There’s a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4a228bb-b475-4bde-85f6-1549fbc6b2b5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140906" ;
+        pm:hasTitle   "There’s a Place (take 5, 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ccc3a2c-0fce-4705-b5d4-9859a5e09e99>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 12 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8ff42fd5-2d6e-4352-b09a-3a06742075e9>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebd1c968-cc21-4b39-b85c-bf3a43879c86>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222fe3a3-26e1-42be-9f72-d81c87df73e9>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/869bb4ad-5227-4cf7-b666-cf3bb88952b9>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 7 - False Start)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf8d73c2-3f58-4c1d-9a63-154d49d0463f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 9 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec63a5ed-422b-4774-b91e-32b1a83ff862>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111760" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28352045-cc8b-4c57-913e-bef8dfe3d312>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130000" ;
+        pm:hasTitle   "There’s a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecc30ddf-1809-45f4-8030-ce9b2f6a6676>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "There’s a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8743897-407a-4442-beec-c83eaa327bd0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111626" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1265354-93b3-4915-9fcf-3f920ef92200>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 10 - Complete Best)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/88aa13d2-12bc-4068-a55b-36ddf79fcbd1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123773" ;
+        pm:hasTitle   "There’s a Place (studio outtake / take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61e732fa-dc77-4e4e-a065-64c5b7c86f6e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112373" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/28157c49-f49a-4602-ba90-05e4cac8ef0b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6c6506f-7ffc-4f2a-b130-9d9d79e7dfb3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119560" ;
+        pm:hasTitle   "There’s a Place (take 10)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6846bf9c-28da-4bcb-a706-3666f52ef90b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "There’s a Place (take 5/6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/276ff3b0-645a-4433-9948-66aa7d453ab2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "There’s a Place (take 9)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b232be8a-9676-4242-820d-82d322d1f90d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121053" ;
+        pm:hasTitle   "There’s a Place (take 2)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba093519-f9d1-48f1-bbe6-a2ab1a38d901>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c767aa6-50c4-4159-96a1-6fb406aed5f6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148350" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3094c37d-5061-4b96-81e9-03c3a761ae61>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68581868-cc5a-48ff-87e4-2fc17346b47e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110426" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f4f062e0-eb7f-4536-9043-0f296826ddb3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29135870-9a6f-46ad-a4e7-d8ca24541626>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/447dc31c-863a-4100-87ce-4886eae6d41a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "There’s a Place (takes 5, 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/156ee36e-23c9-4ca9-9e82-6b5f01e6c2ed>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68c5b9eb-9d1f-4a08-9b7f-3bac494b4ce7>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 11 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd412b40-ced4-43df-89d0-39caf245a748>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111666" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40c50bc0-d53b-4e8d-aa5a-e49b3064bc5a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 1 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1be8b787-a6b2-4544-9232-ecc6cfc2a56c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 6 - Complete)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bea6feb-4255-4d21-81d4-c61833bc8575>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 7)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/096b6237-15c9-43c3-8358-74f35f2ce138>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126640" ;
+        pm:hasTitle   "There’s a Place (take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7cde5af8-5186-4af2-8e40-a5b2fa192d34>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "211000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "113000" ;
+        pm:hasTitle           "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3fc034e-01f6-4ab5-9282-e76cd5c5cd62>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3c15c1f4-7530-46ea-a827-ec45006ca8da>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40761519-ff42-482c-ab72-28c379a3f2c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "111000" ;
+        pm:hasTitle   "There’s a Place (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bda69148-a75a-47f1-a782-1dfc9e8cd398>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "139000" ;
+        pm:hasTitle   "There’s a Place (studio outtake / takes 5 & 6)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/26df054d-78cf-4d83-9bb1-a41816125528>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Northern Songs Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3848f0cb-1ee7-4414-9ce1-730d84ddb61b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bde678e2-87bf-4941-8a87-b4d7803c0c78>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "There's a Place (take 8)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f787f693-3241-484a-b5d4-b22e26b2a489>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f072881-7aa7-4360-a09f-90b541093c71>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133000" ;
+        pm:hasTitle   "There’s a Place (takes 3/4)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5b950f5b-56e6-4a1c-9a4d-4c4cf24b22cf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "112000" ;
+        pm:hasTitle   "There’s a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e62767d8-c560-47ac-9c51-fb76cc24788b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140039" ;
+        pm:hasTitle   "There's a Place" .

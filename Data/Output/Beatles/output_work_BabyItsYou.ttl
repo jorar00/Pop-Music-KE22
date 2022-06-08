@@ -1,0 +1,579 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e531865-0b54-4016-8f53-eb7c41969d92>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d35daaaa-953d-4773-a880-77f3c0302f99>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "160973" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93e46188-8b78-49ae-bf4c-8c05cfc53c12>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/198ab15b-1078-44d1-8b45-993c24383602>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "ヤマハミュージックエンタテインメントホールディングス" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c17c2846-2da2-416a-ab2a-c9d01b2dcace>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159640" ;
+        pm:hasTitle   "Baby, It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f1b68ffd-563a-4a33-b2a5-400ed081eca1>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "ユニバーサル・ミュージック・パブリッシング Synch事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ac082fd-4898-4251-864c-1d1411cdf976>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "New Hidden Valley Music Co." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20927533-97f8-4bf6-9876-6905574897e7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198787" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cfa5db8-3365-4fb3-92bb-27168bbbd926>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "258773" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b595bda1-3d6a-4ad1-99fd-fb41a5ddb304>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162400" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6ef5995e-d0de-4fa4-96e9-5772f8debf18>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "153000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba36731c-3ae0-454b-af14-84be2ac208bf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd01c42a-6e22-4709-ac79-6bcc73439d42>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "single version" ;
+        pm:hasLength          "144000" ;
+        pm:hasTitle           "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3524469f-832a-444c-b730-0bfd8249442e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222d64bb-cd06-457d-8bcd-3c55bcd5f88e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165600" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a78ee2f1-6f63-43be-9744-16102b71f149>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166546" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8aa43a7c-340a-4ae5-a25d-225a19575428>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170866" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f8ea7e65-d1df-44fb-bb29-7295b25f9aa8>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI United Partnership Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/d7dd5df6-ed00-406a-8816-e0048ca12a06>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "フジパシフィックミュージック SBK事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aeb5a115-1b4e-4ad6-a7a8-e55885623e66>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154173" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46268943-8b42-4d03-8d6a-11e1789cc071>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Baby It's You [Rerecorded]" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5669caf-6c79-423c-bd65-c28c9f04e3aa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154640" ;
+        pm:hasTitle   "Baby, It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c79391af-ba4a-4437-9b07-4ed1cbc87cdf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162000" ;
+        pm:hasTitle   "Baby It's You (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/158620ff-9105-4f0d-9074-6afce32f13a2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/deb3db36-f769-4312-8c1a-77959d58bc3e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154800" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbd2d3be-1313-48d5-96dd-7f8c7bc8816b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/580e3769-0712-4f6a-a535-57e62c953760>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e440d10e-ace4-4e6e-88c4-c2c6c8adf1ab>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/69ba5e4d-47ef-4c27-9348-9c18ccf1296a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6f0e9a1-2e0f-436f-baa2-577acba39ff8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167173" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f989b20-3294-40c9-abdf-45680fe29530>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213160" ;
+        pm:hasTitle   "Baby Its You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9936794-1bf4-4846-9fcc-d5ce4424f06c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "390000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4743b7a-ba90-4eb2-81f3-dbc8fbd2b8b3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐06‐01: BBC Paris Studio, London, UK" ;
+        pm:hasLength          "163866" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55e84dc5-77a7-43d2-ba66-f1d62d7fbe4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96fa373a-a620-4de2-94eb-cbe91ae14731>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "237813" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41f494de-ce19-4c96-ba8a-0572f98fc42c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1961-11" ;
+        pm:hasEndDate    "1961-11" ;
+        pm:hasName       "Luther Dixon" ;
+        pm:hasRole       "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/7c26dc19-bf86-4f18-a629-6986c3d11d69>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "シンコーミュージック・エンタテイメント" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f8f3222f-1bc0-419a-94e9-f1ea3c482d92>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "フジパシフィックミュージック 第2事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed97ba89-1812-49f7-9830-22f23df144bf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963-06-01: BBC Paris Studio, London, UK (single version)" ;
+        pm:hasLength          "165000" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f64bd2b-d676-4f77-935a-25797f7bfa30>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "188000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/6a838ae0-1c6e-4006-9a10-d67274bb3696>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "PolyGram International Publishing, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/48dbae50-be8d-4a32-8dff-50a3c17bf3e0>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Ludix Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/665e6f9e-5890-48f9-b546-d5f3f71bf7b0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby It's You (RM take 5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cc5bb48-9c31-4c63-abab-dba5fa28f198>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a738ce72-a2e8-412a-806d-c371147a4fc1>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1961-11" ;
+        pm:hasEndDate    "1961-11" ;
+        pm:hasName       "Mack David" ;
+        pm:hasRole       "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0163f005-bb29-48be-a5d4-c8643e418f4f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162066" ;
+        pm:hasTitle   "Baby it's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9b03c87-41da-4e69-b97d-500d587e3703>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "160226" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6745b6c-c9ae-431d-bae4-a37499ccab5b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152293" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/d296ac07-dab1-480b-a849-f25f6d90d698>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Universal PolyGram International Publishing, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d17af6d-28e9-4f31-8df0-1cc854ac9263>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2212b78-e118-4012-85a7-dda790081a7b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "250306" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e87ee29-b437-4271-bd12-7dc2924de583>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "189573" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa59fce5-6d81-431a-8bf8-39ee35a31cd1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155906" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97350376-c9ba-4579-82d3-abde655e9025>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/68460f29-af35-45f4-a86d-f5a79efb3efd>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Baby It’s You!" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f88515a-6f10-40c3-aeb5-32b144d6604e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "223826" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56ce7458-b325-415e-9c9d-72e2f7155844>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby Its You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3afd7f1-561d-442e-b0ac-3ea14dd36b4b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "193000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33947a39-824d-4fe7-a1a7-cab04ca5762d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/303ea3b5-7b1b-4c44-b5b9-fa1cd4b7437a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155826" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3a01398-f0fd-452a-9fb1-d8b95c76fd28>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185400" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69a7e29-7851-4c62-bc85-63708c9deffb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152293" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26be576d-97d0-48d1-9b14-6b99d91222b5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/cd87c404-e7c9-4f0b-af03-422459cec315>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Windswept Music (London) Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d3010be-29d7-4f62-8772-effd5c3121e7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134133" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ce18358-f82a-403d-8601-a2d458f93403>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160360" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38dc1c5a-11e6-4eda-a395-957dc588e5ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b959c9a8-2c30-4fbf-b1e7-b3f8a129abeb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157893" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33961798-7da2-4339-86cb-7bee7190faeb>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Copyright Control" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1cf02bd-c859-4ed8-802e-18c15b48bcb0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "191653" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e1b43ed-851f-4b75-adab-a7d2c585d70d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157893" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b197f00-efd5-4db7-83f9-e49cc0e2ce12>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167293" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4777eab0-cd91-4617-b49d-4abbcf8692af>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "153826" ;
+        pm:hasTitle   "Baby, It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fdd6bfec-83de-469c-9b0b-a4bba152d6f4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/4e8243db-d9b6-4956-a4e1-488649134f30>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI U Catalog Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97b6bf24-c6a4-40af-ac35-9f92c089c09a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162000" ;
+        pm:hasTitle   "Baby It's You (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e1e052a-b1b6-42fc-b6b0-c8325ebee02f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cede0e96-4c8e-4477-a8c6-0c308f1e4226>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "245000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/2882ffa3-dec9-4055-a842-a950728bcb02>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1961-11" ;
+        pm:hasEndDate    "1961-11" ;
+        pm:hasName       "Burt Bacharach" ;
+        pm:hasRole       "composer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f50c702e-e541-4047-8fcd-0e4869bc40cd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152333" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/b0652042-175e-4b3e-a76b-90043c7b6ee7>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Universal Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aed9a3c7-40d3-4221-9d65-983ba9558bf3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148000" ;
+        pm:hasTitle   "Baby, It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b4118b2-de69-4f84-a63d-09b15da5330e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0094f4b2-c52b-4c30-8d60-40972d9baf79>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c75afb82-cab3-4fdc-9808-804a806b7f7c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156373" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8ba0469-7e6e-4850-b4b9-83d871541c92>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6b5e886-3565-45a1-ace9-6c87fa8c9bb6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151973" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69d9902-f7be-4d30-8107-8ee716cc993b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "245000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83cfd22d-ade2-4d90-90ca-55d54c9328d3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby It's You (RS take 5)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/397c5b31-56a2-469e-ab8f-36d5a3d67836>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/abd219a5-ce7a-497a-a79d-abe08dd00505>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161560" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b3c355f-af25-482d-8e06-ad81cdf86fa5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205746" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e88ad158-adc2-4afe-aa10-9c87046dba42>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159200" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e07fae0-7633-44d4-ba3c-5f7625e2f6ff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "163040" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4febeef-60a2-45e1-b0f6-fca3a22e0d82>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "158000" ;
+        pm:hasTitle   "Baby Its You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b5cfd67b-c045-44b3-87b9-742cd04eaac4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/91e71655-8e56-46f6-b5ff-533fe1dd7529>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Baby, c'est vous" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/74e33237-62d6-35d2-8a39-892b9d3f1506>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3524469f-832a-444c-b730-0bfd8249442e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58058c0f-c287-4f1c-92b5-fd99bdb1b1f6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e1b43ed-851f-4b75-adab-a7d2c585d70d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6f0e9a1-2e0f-436f-baa2-577acba39ff8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0163f005-bb29-48be-a5d4-c8643e418f4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69d9902-f7be-4d30-8107-8ee716cc993b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aeb5a115-1b4e-4ad6-a7a8-e55885623e66> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c17c2846-2da2-416a-ab2a-c9d01b2dcace> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1358a8e5-fbe7-4cb1-ada3-9112e7b30ebb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/397c5b31-56a2-469e-ab8f-36d5a3d67836> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8aa43a7c-340a-4ae5-a25d-225a19575428> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4777eab0-cd91-4617-b49d-4abbcf8692af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/537125f8-0f50-4469-b3b1-8b24f36aa550> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e1e052a-b1b6-42fc-b6b0-c8325ebee02f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b4118b2-de69-4f84-a63d-09b15da5330e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c79391af-ba4a-4437-9b07-4ed1cbc87cdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d3010be-29d7-4f62-8772-effd5c3121e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f64bd2b-d676-4f77-935a-25797f7bfa30> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cede0e96-4c8e-4477-a8c6-0c308f1e4226> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e531865-0b54-4016-8f53-eb7c41969d92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d2212b78-e118-4012-85a7-dda790081a7b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba36731c-3ae0-454b-af14-84be2ac208bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0094f4b2-c52b-4c30-8d60-40972d9baf79> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3a01398-f0fd-452a-9fb1-d8b95c76fd28> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/deb3db36-f769-4312-8c1a-77959d58bc3e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4febeef-60a2-45e1-b0f6-fca3a22e0d82> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc36150d-9979-429d-aa9d-b217fd7d7218> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97350376-c9ba-4579-82d3-abde655e9025> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a78ee2f1-6f63-43be-9744-16102b71f149> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96fa373a-a620-4de2-94eb-cbe91ae14731> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69a7e29-7851-4c62-bc85-63708c9deffb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d17af6d-28e9-4f31-8df0-1cc854ac9263> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/38dc1c5a-11e6-4eda-a395-957dc588e5ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f989b20-3294-40c9-abdf-45680fe29530> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8baaa10e-0fd9-401d-8bb1-7f0f9df4b762> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9936794-1bf4-4846-9fcc-d5ce4424f06c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b5cfd67b-c045-44b3-87b9-742cd04eaac4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e87ee29-b437-4271-bd12-7dc2924de583> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93e46188-8b78-49ae-bf4c-8c05cfc53c12> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/69ba5e4d-47ef-4c27-9348-9c18ccf1296a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbd2d3be-1313-48d5-96dd-7f8c7bc8816b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e07fae0-7633-44d4-ba3c-5f7625e2f6ff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/665e6f9e-5890-48f9-b546-d5f3f71bf7b0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b3c355f-af25-482d-8e06-ad81cdf86fa5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d5669caf-6c79-423c-bd65-c28c9f04e3aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6988e24f-252d-4487-a06f-ac49138a2b9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9b03c87-41da-4e69-b97d-500d587e3703> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4743b7a-ba90-4eb2-81f3-dbc8fbd2b8b3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26be576d-97d0-48d1-9b14-6b99d91222b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31644d50-dddf-4330-b5ff-a3be998569fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46268943-8b42-4d03-8d6a-11e1789cc071> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f88515a-6f10-40c3-aeb5-32b144d6604e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aa59fce5-6d81-431a-8bf8-39ee35a31cd1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83cfd22d-ade2-4d90-90ca-55d54c9328d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3afd7f1-561d-442e-b0ac-3ea14dd36b4b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/158620ff-9105-4f0d-9074-6afce32f13a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6ef5995e-d0de-4fa4-96e9-5772f8debf18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7104045d-68e7-402f-b81c-c04e7e87d41d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed97ba89-1812-49f7-9830-22f23df144bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ce18358-f82a-403d-8601-a2d458f93403> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/580e3769-0712-4f6a-a535-57e62c953760> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20927533-97f8-4bf6-9876-6905574897e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d35daaaa-953d-4773-a880-77f3c0302f99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3311359b-7d03-4c24-91ae-eef6e009f4a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8ba0469-7e6e-4850-b4b9-83d871541c92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c75afb82-cab3-4fdc-9808-804a806b7f7c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fdd6bfec-83de-469c-9b0b-a4bba152d6f4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1cf02bd-c859-4ed8-802e-18c15b48bcb0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33947a39-824d-4fe7-a1a7-cab04ca5762d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cc5bb48-9c31-4c63-abab-dba5fa28f198> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b595bda1-3d6a-4ad1-99fd-fb41a5ddb304> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e88ad158-adc2-4afe-aa10-9c87046dba42> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6b5e886-3565-45a1-ace9-6c87fa8c9bb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f50c702e-e541-4047-8fcd-0e4869bc40cd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55e84dc5-77a7-43d2-ba66-f1d62d7fbe4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/303ea3b5-7b1b-4c44-b5b9-fa1cd4b7437a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/777d0c86-f560-47b4-9a4f-44ea52fd5412> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6745b6c-c9ae-431d-bae4-a37499ccab5b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b959c9a8-2c30-4fbf-b1e7-b3f8a129abeb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/abd219a5-ce7a-497a-a79d-abe08dd00505> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bae7320-2e41-46eb-9f36-b661b4a64613> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7b197f00-efd5-4db7-83f9-e49cc0e2ce12> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e440d10e-ace4-4e6e-88c4-c2c6c8adf1ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56ba75b0-09b2-4f0c-9787-5f864c64e512> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222d64bb-cd06-457d-8bcd-3c55bcd5f88e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56ce7458-b325-415e-9c9d-72e2f7155844> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cfa5db8-3365-4fb3-92bb-27168bbbd926> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aed9a3c7-40d3-4221-9d65-983ba9558bf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97b6bf24-c6a4-40af-ac35-9f92c089c09a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6fdccac-8843-48d7-aaa1-de1654835c1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/991b717c-cd1a-49d8-ab14-487ca2c89a9a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/453431f6-ac86-47cd-b188-540674839624> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41f494de-ce19-4c96-ba8a-0572f98fc42c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd01c42a-6e22-4709-ac79-6bcc73439d42> ;
+        pm:hasTitle       "Baby It’s You" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3f4e9ee8-a86a-42ea-ade4-65fbb3f2a2a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/91e71655-8e56-46f6-b5ff-533fe1dd7529> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/68460f29-af35-45f4-a86d-f5a79efb3efd> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/1a2d3f1a-6146-4fb6-92c7-da4f91bcc44d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a738ce72-a2e8-412a-806d-c371147a4fc1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/2882ffa3-dec9-4055-a842-a950728bcb02> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/48dbae50-be8d-4a32-8dff-50a3c17bf3e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/d296ac07-dab1-480b-a849-f25f6d90d698> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/4e8243db-d9b6-4956-a4e1-488649134f30> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f8f3222f-1bc0-419a-94e9-f1ea3c482d92> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/7c26dc19-bf86-4f18-a629-6986c3d11d69> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f1b68ffd-563a-4a33-b2a5-400ed081eca1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ac082fd-4898-4251-864c-1d1411cdf976> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/6a838ae0-1c6e-4006-9a10-d67274bb3696> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f8ea7e65-d1df-44fb-bb29-7295b25f9aa8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33961798-7da2-4339-86cb-7bee7190faeb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/d7dd5df6-ed00-406a-8816-e0048ca12a06> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/b0652042-175e-4b3e-a76b-90043c7b6ee7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/198ab15b-1078-44d1-8b45-993c24383602> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/cd87c404-e7c9-4f0b-af03-422459cec315> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3311359b-7d03-4c24-91ae-eef6e009f4a7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3f4e9ee8-a86a-42ea-ade4-65fbb3f2a2a5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "yue" ;
+        pm:hasTitle     "由你開始" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc36150d-9979-429d-aa9d-b217fd7d7218>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "160226" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0bae7320-2e41-46eb-9f36-b661b4a64613>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162533" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c6fdccac-8843-48d7-aaa1-de1654835c1c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "256000" ;
+        pm:hasTitle   "Percussion Section (Reach Out for Me, Baby It’s You, Wishin’ and Hopin’, That’s What Friends Are For, Any Day Now)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/537125f8-0f50-4469-b3b1-8b24f36aa550>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6988e24f-252d-4487-a06f-ac49138a2b9d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Baby, It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58058c0f-c287-4f1c-92b5-fd99bdb1b1f6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156306" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/453431f6-ac86-47cd-b188-540674839624>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "160000" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/991b717c-cd1a-49d8-ab14-487ca2c89a9a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "282017" ;
+        pm:hasTitle   "Baby It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1358a8e5-fbe7-4cb1-ada3-9112e7b30ebb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "156000" ;
+        pm:hasTitle           "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7104045d-68e7-402f-b81c-c04e7e87d41d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "216000" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56ba75b0-09b2-4f0c-9787-5f864c64e512>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152000" ;
+        pm:hasTitle   "Baby, It's You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/777d0c86-f560-47b4-9a4f-44ea52fd5412>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155453" ;
+        pm:hasTitle   "Baby It’s You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8baaa10e-0fd9-401d-8bb1-7f0f9df4b762>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "261666" ;
+        pm:hasTitle   "Baby It's You / Message to Michael" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/31644d50-dddf-4330-b5ff-a3be998569fe>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "143466" ;
+        pm:hasTitle           "Baby, It's You" .

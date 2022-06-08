@@ -1,0 +1,71 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Norman Smith" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c84e23aa-20d9-45df-85cb-a6ecdba6e44e>
+        rdf:type              pm:Recording ;
+        pm:hasAnnotatiton     "P.S. I Love You exists only in mono.\n\nMock stereo made from this recording on 25 Feb 1963. Like “Love Me Do,” the song was rechanneled to have primarily all the treble frequencies on one side and all the bass frequencies on the other, creating a stereo effect. There has never been, nor ever will be, a true stereo mix of the song, since it was originally only recorded in mono. This version was used on Please Please Me, Parlophone PCS 3042 in the UK and Introducing The Beatles, Vee Jay VJSR 1062 in 1963 & again on The Early Beatles, Capitol ST 2309 in 1965. This mock version is actually what was made into a new mono mix by Capitol used on The Early Beatles, Capitol T 2309 in 1965.\n\nRecording matrixes:\n7XCE 17145\n7XCE 17145 45\n\nISRC GB-AYE-63-00491 is for the original master\nISRC GB-AYE-06-01418 is for 2009 remaster used on “Please Please Me” & “The Beatles in Stereo/The Beatles” box sets\nISRC GB-AYE-09-00613 is for 2009 remaster used on “The Beatles in Mono”, “The U.S. Albums”, “The Early Beatles”, “The Singles Collection”, “The Japan Box” & “Meet The Beatles”" ;
+        pm:hasCreditArtist    <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d> ;
+        pm:hasDate            "1962-09-11" ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "124000" ;
+        pm:hasPlace           "Abbey Road Studios: Studio 2" ;
+        pm:hasRate            "3.15" ;
+        pm:hasTitle           "P.S. I Love You" ;
+        pm:isPlayedBy         <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3c4092d7-0b4b-4cc1-8098-eb2ebb43a1ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "John Lennon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5c226b6-4bae-4cae-bd96-aeae92a26c49>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Andy White" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "George Harrison" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Paul McCartney" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "The Beatles" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/9f3ab5c7-315a-482f-8622-d95501b4a6aa>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Ron Richards" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09-11" ;
+        pm:hasEndDate    "1962-09-11" ;
+        pm:hasName       "Ringo Starr" .

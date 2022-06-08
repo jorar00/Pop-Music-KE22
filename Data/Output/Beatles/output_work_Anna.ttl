@@ -1,0 +1,452 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/36769217-4ee1-4268-afcf-49d345a5a8a2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/749896c9-578c-459c-9487-22f5376172ab>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-08" ;
+        pm:hasEndDate    "1962-08" ;
+        pm:hasName       "Arthur Alexander" ;
+        pm:hasRole       "lyricist" , "composer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6f9ac988-7265-4438-bd57-7a6df3fab29d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/db567516-40c0-46b0-9198-a196b8d2a19c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0ebc6cf1-ac1e-440a-abfd-2c41a470b608>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c56035db-bbc5-4e92-9ac9-b796f03e9d5f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/12d7d892-e29c-47de-85fb-95a45b1ddd7c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ecda615-1a5d-48b7-beae-da9dea770413>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36769217-4ee1-4268-afcf-49d345a5a8a2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "176000" ;
+        pm:hasTitle           "Anna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/f85e85e4-e486-34a4-baf5-db003adfa9f0>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/077a170e-0fac-43d7-8672-2bc643f8c98e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/421dd566-694d-415a-91bf-1feadba63fa1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/502bd0c2-17d9-445e-8111-46a91a3de440> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f9ac988-7265-4438-bd57-7a6df3fab29d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0ebc6cf1-ac1e-440a-abfd-2c41a470b608> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e0f1799b-0ad9-4f30-b020-3a939fff71b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f23309fd-ffdf-4853-8ea8-f08ea95af1c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29265dd5-bafe-4bf3-8726-87a2edda26b1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/accd1a34-e29c-4a5a-9f95-6e8821caae39> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db567516-40c0-46b0-9198-a196b8d2a19c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c830431-776d-4fcf-b2f1-334869de7092> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f029f6dc-acd9-4c80-aa9e-358b1a17bdd8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36769217-4ee1-4268-afcf-49d345a5a8a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59b38ba7-ad30-4dfe-ba41-3d8ee4348c18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e04ebfc-74f3-4e69-bc8c-bf99cce18bf0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cfc6296-488d-4fc5-9ab3-9f89c9bdf61e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c56035db-bbc5-4e92-9ac9-b796f03e9d5f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c77a149-3b9e-44a6-bfd9-8a631b2ecdd5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef4e51ae-a0f4-4255-ab17-237085587ef9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1603dcba-3c0f-4799-832a-9b43d1fa2e27> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44c111e9-9993-4cd4-b9ce-646f7b3517e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1e347086-2a3c-4cfb-b1a7-d0a192a83541> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a2dcb39-2dbb-45d0-8a72-f0d4b4911d1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/560396e4-5ac0-4224-8774-05f0c575aaa7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b44150dd-f94d-490d-bde3-dff1e69aab94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ecda615-1a5d-48b7-beae-da9dea770413> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e78ef749-3f3e-49d0-8785-08088ae54aa6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93cb96b6-c823-4f28-a3b7-e363b3491cfe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b383adf-090e-480d-ab09-bed53f19272a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e36a27e-0f8c-4ba7-934c-bd8203ba883c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6616e58-50a7-42c0-a65b-0831b87fc885> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f5b4e65-1065-4278-b550-d76dd9282284> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e9380e1-d992-4c72-86bc-cf30dad579b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a31eab71-a326-4a2e-abc0-3233a1f534e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6df5c446-67e8-47f2-bb26-7f4d169ca4e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5fa478d-9650-4b2b-9535-04540de00a9b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/563c84a4-374f-4c1c-a2e6-1c486a3b4b82> ;
+        pm:hasTitle       "Anna (Go to Him)" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/29265dd5-bafe-4bf3-8726-87a2edda26b1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/36769217-4ee1-4268-afcf-49d345a5a8a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-anna-go-to-him-lyrics> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c6c0109e-9fe7-4f4f-aa9b-53cf9659a5de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/93cb96b6-c823-4f28-a3b7-e363b3491cfe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c830431-776d-4fcf-b2f1-334869de7092> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/077a170e-0fac-43d7-8672-2bc643f8c98e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a31eab71-a326-4a2e-abc0-3233a1f534e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f029f6dc-acd9-4c80-aa9e-358b1a17bdd8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d6616e58-50a7-42c0-a65b-0831b87fc885> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ef4e51ae-a0f4-4255-ab17-237085587ef9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c56035db-bbc5-4e92-9ac9-b796f03e9d5f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8e36a27e-0f8c-4ba7-934c-bd8203ba883c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6df5c446-67e8-47f2-bb26-7f4d169ca4e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5a2dcb39-2dbb-45d0-8a72-f0d4b4911d1c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/accd1a34-e29c-4a5a-9f95-6e8821caae39> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e78ef749-3f3e-49d0-8785-08088ae54aa6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/502bd0c2-17d9-445e-8111-46a91a3de440> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e0f1799b-0ad9-4f30-b020-3a939fff71b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/563c84a4-374f-4c1c-a2e6-1c486a3b4b82> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/12d7d892-e29c-47de-85fb-95a45b1ddd7c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c77a149-3b9e-44a6-bfd9-8a631b2ecdd5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7ecda615-1a5d-48b7-beae-da9dea770413> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/44c111e9-9993-4cd4-b9ce-646f7b3517e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0ebc6cf1-ac1e-440a-abfd-2c41a470b608> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/db567516-40c0-46b0-9198-a196b8d2a19c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2f1b4320-8f71-4853-8713-6ecdcc9b459c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b44150dd-f94d-490d-bde3-dff1e69aab94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f23309fd-ffdf-4853-8ea8-f08ea95af1c8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6f9ac988-7265-4438-bd57-7a6df3fab29d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59b38ba7-ad30-4dfe-ba41-3d8ee4348c18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ea7b712e-55d5-43bb-ade5-10e991f13c8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0f5b4e65-1065-4278-b550-d76dd9282284> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b383adf-090e-480d-ab09-bed53f19272a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4e9380e1-d992-4c72-86bc-cf30dad579b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/560396e4-5ac0-4224-8774-05f0c575aaa7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/1462> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1cfc6296-488d-4fc5-9ab3-9f89c9bdf61e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1603dcba-3c0f-4799-832a-9b43d1fa2e27> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/749896c9-578c-459c-9487-22f5376172ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8e04ebfc-74f3-4e69-bc8c-bf99cce18bf0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1e347086-2a3c-4cfb-b1a7-d0a192a83541> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/421dd566-694d-415a-91bf-1feadba63fa1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q1999615> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a5fa478d-9650-4b2b-9535-04540de00a9b> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/749896c9-578c-459c-9487-22f5376172ab> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/ea7b712e-55d5-43bb-ade5-10e991f13c8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c6c0109e-9fe7-4f4f-aa9b-53cf9659a5de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/12d7d892-e29c-47de-85fb-95a45b1ddd7c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2f1b4320-8f71-4853-8713-6ecdcc9b459c> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e9380e1-d992-4c72-86bc-cf30dad579b8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176000" ;
+        pm:hasTitle   "Anna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5a2dcb39-2dbb-45d0-8a72-f0d4b4911d1c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172026" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f9ac988-7265-4438-bd57-7a6df3fab29d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177866" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db567516-40c0-46b0-9198-a196b8d2a19c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "177933" ;
+        pm:hasTitle           "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0ebc6cf1-ac1e-440a-abfd-2c41a470b608>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a31eab71-a326-4a2e-abc0-3233a1f534e5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/077a170e-0fac-43d7-8672-2bc643f8c98e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b383adf-090e-480d-ab09-bed53f19272a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Anna (Go to Him) (RS take 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/749896c9-578c-459c-9487-22f5376172ab>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/accd1a34-e29c-4a5a-9f95-6e8821caae39>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "181000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ef4e51ae-a0f4-4255-ab17-237085587ef9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c830431-776d-4fcf-b2f1-334869de7092>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180680" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/077a170e-0fac-43d7-8672-2bc643f8c98e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167200" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29265dd5-bafe-4bf3-8726-87a2edda26b1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Anna (Go to Him) (RM take 3)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/ea7b712e-55d5-43bb-ade5-10e991f13c8f>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Shapiro Bernstein & Co. Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef4e51ae-a0f4-4255-ab17-237085587ef9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "159000" ;
+        pm:hasTitle   "Anna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/http://www.songfacts.com/detail.php?id=4>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1cfc6296-488d-4fc5-9ab3-9f89c9bdf61e>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8e36a27e-0f8c-4ba7-934c-bd8203ba883c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e0f1799b-0ad9-4f30-b020-3a939fff71b8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q1999615>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/1462>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2f1b4320-8f71-4853-8713-6ecdcc9b459c>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Painted Desert Music Corporation" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e78ef749-3f3e-49d0-8785-08088ae54aa6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e36a27e-0f8c-4ba7-934c-bd8203ba883c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e0f1799b-0ad9-4f30-b020-3a939fff71b8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182453" ;
+        pm:hasTitle   "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f23309fd-ffdf-4853-8ea8-f08ea95af1c8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c56035db-bbc5-4e92-9ac9-b796f03e9d5f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "Anna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e78ef749-3f3e-49d0-8785-08088ae54aa6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177533" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6df5c446-67e8-47f2-bb26-7f4d169ca4e0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f23309fd-ffdf-4853-8ea8-f08ea95af1c8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "Anna (Go to Him) (live, 1963-06-17: BBC)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d6616e58-50a7-42c0-a65b-0831b87fc885>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8e04ebfc-74f3-4e69-bc8c-bf99cce18bf0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/93cb96b6-c823-4f28-a3b7-e363b3491cfe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/502bd0c2-17d9-445e-8111-46a91a3de440>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0f5b4e65-1065-4278-b550-d76dd9282284>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6df5c446-67e8-47f2-bb26-7f4d169ca4e0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214866" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6616e58-50a7-42c0-a65b-0831b87fc885>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a5fa478d-9650-4b2b-9535-04540de00a9b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8e04ebfc-74f3-4e69-bc8c-bf99cce18bf0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "176893" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/93cb96b6-c823-4f28-a3b7-e363b3491cfe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "164826" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c77a149-3b9e-44a6-bfd9-8a631b2ecdd5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5fa478d-9650-4b2b-9535-04540de00a9b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c6c0109e-9fe7-4f4f-aa9b-53cf9659a5de>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Richie Becker's Music Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/12d7d892-e29c-47de-85fb-95a45b1ddd7c>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Warner/Chappell" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b44150dd-f94d-490d-bde3-dff1e69aab94>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/44c111e9-9993-4cd4-b9ce-646f7b3517e6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2f1b4320-8f71-4853-8713-6ecdcc9b459c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/421dd566-694d-415a-91bf-1feadba63fa1>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1cfc6296-488d-4fc5-9ab3-9f89c9bdf61e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐08‐01: Playhouse Theatre, Manchester, UK" ;
+        pm:hasLength          "169560" ;
+        pm:hasTitle           "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f029f6dc-acd9-4c80-aa9e-358b1a17bdd8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1603dcba-3c0f-4799-832a-9b43d1fa2e27>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1e347086-2a3c-4cfb-b1a7-d0a192a83541>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b44150dd-f94d-490d-bde3-dff1e69aab94>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44c111e9-9993-4cd4-b9ce-646f7b3517e6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/421dd566-694d-415a-91bf-1feadba63fa1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167426" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1e347086-2a3c-4cfb-b1a7-d0a192a83541>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1603dcba-3c0f-4799-832a-9b43d1fa2e27>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "Anna (Go To Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ea7b712e-55d5-43bb-ade5-10e991f13c8f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4e9380e1-d992-4c72-86bc-cf30dad579b8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5a2dcb39-2dbb-45d0-8a72-f0d4b4911d1c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f5b4e65-1065-4278-b550-d76dd9282284>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177666" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/502bd0c2-17d9-445e-8111-46a91a3de440>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a31eab71-a326-4a2e-abc0-3233a1f534e5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c6c0109e-9fe7-4f4f-aa9b-53cf9659a5de>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c77a149-3b9e-44a6-bfd9-8a631b2ecdd5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "189000" ;
+        pm:hasTitle   "Anna" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b383adf-090e-480d-ab09-bed53f19272a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/560396e4-5ac0-4224-8774-05f0c575aaa7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59b38ba7-ad30-4dfe-ba41-3d8ee4348c18>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/accd1a34-e29c-4a5a-9f95-6e8821caae39>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c830431-776d-4fcf-b2f1-334869de7092>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/29265dd5-bafe-4bf3-8726-87a2edda26b1>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f029f6dc-acd9-4c80-aa9e-358b1a17bdd8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "226000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59b38ba7-ad30-4dfe-ba41-3d8ee4348c18>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "177133" ;
+        pm:hasTitle           "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/560396e4-5ac0-4224-8774-05f0c575aaa7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "202000" ;
+        pm:hasTitle   "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/563c84a4-374f-4c1c-a2e6-1c486a3b4b82>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://genius.com/The-beatles-anna-go-to-him-lyrics>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7ecda615-1a5d-48b7-beae-da9dea770413>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Anna (live at BBC for “Pop Go The Beatles” / 25th June, 1963)" , "Anna (Go to Him) (RS take 3)" , "Anna (Go to Him) (RM take 3)" , "Anna (Go To Him)" , "Anna (Go to Him) (live, 1963-06-17: BBC)" , "Anna" , "Anna (Go to Him)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/563c84a4-374f-4c1c-a2e6-1c486a3b4b82>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "Anna (Go to Him)" .

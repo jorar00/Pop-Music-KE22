@@ -1,0 +1,784 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc530c96-2224-4f60-a352-2c600ab3aca8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/510c7ae3-3cca-4aca-9a76-0359123d6c9c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "139000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96ddc9b2-97d2-40cf-88f1-887021eedbee>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137293" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8e0aceb-f3a9-418e-a570-e3993089d89f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45fc3daf-b7f4-4111-bf59-a2fdba6170bc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61be6699-8dd6-422a-861c-b7ce652ac142>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b0ece76-53a9-4060-9677-822586cba4d4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17072d16-519c-47ad-a64e-cc030e1a510c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "261000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c69e1b2a-b1c5-4f13-831a-b19a51b7e4bc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd4d358d-5ffa-4214-ac48-9360d37effff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "101000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1df3355-7efe-47fb-aef7-e9adad816b4a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128906" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df315518-e659-45b3-8a9e-988472e6f05c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a37b1fe-23ed-4b05-9ae5-0deddbdd1dd6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41509581-c732-473f-b86a-09fc4932b1cb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do (RM take 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/90ecbe38-a3e1-4add-89fd-0606ccd2c8a4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "197381" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b01b3164-d85b-4652-b44f-d61fdc9a6080>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "Anthology 1 version" ;
+        pm:hasLength          "151760" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/90409179-c277-47c4-bab0-04e4e8b2752a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Love Me Do (5.1 mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/689a69a1-afe7-43f1-b55f-e576fd21191f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "207000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd55060a-fa80-4c52-a293-2db7d12662ff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6447af3-0d90-4f45-8db2-aae30a55070d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3582bdad-aa06-4e28-b351-1efd34aa5a6f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "Jung wie Du" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab936696-1198-46e9-91fe-257f6bf47449>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐07‐10: Aeolian Hall, London, UK" ;
+        pm:hasLength          "149840" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c480cfb1-2970-4676-ab5b-3c170a6de2ea>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "195000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57b22208-eb94-47b2-90d3-a78a7c013838>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "84866" ;
+        pm:hasTitle   "Love Me Do (acoustic version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71006bd0-1532-423c-9048-551db4ce49ff>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2018-12-05: Wiener Stadthalle, Wien, Austria" ;
+        pm:hasLength          "172773" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3a3c70a-3c46-4b97-aec6-fba2e0582870>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "197146" ;
+        pm:hasTitle   "Love Me Do (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13f9f27e-9f8a-4bcc-972b-fe61d65d4a1e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do (RM18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c990c472-d513-4178-b73c-4f0deb18ef99>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1974-10-20: The Michigan Palace, Detroit, USA" ;
+        pm:hasLength          "392000" ;
+        pm:hasTitle           "Love Me Do / The Jean Genie" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/677cd94d-1239-4684-9967-88aefe0c98a9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "261173" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08a278dd-296d-4153-9605-65c24cb6a252>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2cc6696e-8229-4246-840b-a770afc7f8fb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41d91d54-372f-47b7-9e17-898dde5e8c4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185626" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99f35b2a-2025-4129-a164-2db4e07571ab>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172640" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1364b84-60c2-49a6-8840-6e13754e4fbe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd0d9b94-216e-4477-ab0b-ae7f48940a3d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "212000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1d09dc2-94c7-49b1-a706-89627f655d1d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0231562d-dd1b-47b9-8202-5fa5abf8ae5a>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Beechwood Music Corp." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4083b1fa-c752-4b55-ab4e-0aa26c76a694>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc96e554-e7f0-45c2-a03e-611405fcbb52>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156640" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6cf4a8a-c307-4ee9-a14d-1901353f1a61>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167933" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6165e9c0-e76f-4f35-8d88-e2d564d09912>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157773" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/049c1880-28da-4af2-a4b1-ba74d0b591bb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do (take??)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25460478-c211-4938-b5af-c2aa66cb63a2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7db1fdb4-159b-4bae-8ea6-aae9c32422e8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143133" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40ee57d1-5bd3-4671-a6af-64864c2c3ef6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140426" ;
+        pm:hasTitle   "Love Me Do (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8975cbf4-1f1f-46cc-bbf8-fcf264c70a38>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/829bf147-81ed-4181-bfe5-a05ed94ce229>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8d509ba-6a2c-4ca8-ab69-e37348b6e5de>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "135000" ;
+        pm:hasTitle   "Love Me Do (original single version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42235efc-377e-44d1-8852-3c815f41088c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144106" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b029f886-e86f-41d4-b948-b652bf905c35>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151000" ;
+        pm:hasTitle   "Love Me Do (live at BBC for “Saturday Club” / 26th January, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/077e689d-ef39-4789-b5ba-aafa120d15a5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebafce2f-0672-4419-8c49-1895ca1dd4c1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/fd63c89c-cb1d-49ee-8f22-1c6085d1a958>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Lenono Publishing" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d9b1a90-9dcc-4274-a882-f2b6467cb291>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "167933" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba0dc0a4-3823-4245-9e09-e1a6cea76da8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc61a490-55f8-4db5-b690-6cba0a709ddb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140720" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1958" ;
+        pm:hasEndDate    "1962-05" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec8db54d-1890-470a-a6ab-817fb4ec677a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a58f51f-d0a0-4b0f-8286-dbb432b8749a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204533" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/66c392da-6bb9-4694-85d5-501d99206293>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154133" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b96946b2-15de-495f-9030-c103846babec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144906" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/544b27bf-ec46-430d-bf39-fbf9ba2101fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143053" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e0b174c-3cc8-4c80-9c75-28cd0ac204cc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134821" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1d96191-0565-4f09-b9a8-4d54d148d770>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d884f10e-8056-4b68-a9fd-d6355c80d137>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148741" ;
+        pm:hasTitle   "Love Me Do (live at BBC for “Easy Beat” / 20th October, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3a6ddf8-9774-47d2-916a-d5c6b6df4ccf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7eb2b123-bfa7-4b76-a08f-418b1684dee6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "123000" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/538a6006-cb27-4a3f-8f63-4a8edf59f327>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141533" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7013d00-d08d-40f3-a80d-402a4e782159>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd2ca086-3578-4f55-a54f-267e826ad763>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "100000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57e4fcfa-eacb-4eb7-8f3f-23f8d249cebf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166506" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e261257-0ed8-4d1a-9d98-8847e94b659b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142066" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03b1834f-977f-4314-bd55-5a1ba7da3445>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "139560" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/902ed2ab-7f62-4eef-b99d-4feca1da341e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eda0ac0a-1e46-4398-b1f2-8d95cb323aaa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144493" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ee5f721-876d-4450-828b-32afd7118eb9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "107000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7124da2-88ee-4694-b13c-404e479704bd>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do (mono single with Ringo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8eb6f0ba-fc76-4626-a665-8a52dbc0a861>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ac4a8ce-3101-4a59-98e9-57d9d170047a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7923a66-8783-4f26-b06a-44e550cffbec>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc2ba567-ac3c-4c45-80f0-0ee5e7920f47>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "148213" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/665ded7d-aa54-420c-a9aa-5d19d6e9596a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "223000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c57f6abc-20bf-4cf8-a8ec-50d74588cae4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b45c527f-2818-4c0c-9b70-7f260b36d39d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/326261c6-8df2-4890-bfe4-1a0f5c686217>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "166000" ;
+        pm:hasTitle   "Love Me Do (karaoke)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/513bae19-4f7b-41b3-b3ac-9aa16611c5fe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81c4ddca-5884-4d5e-9679-c72223902f4d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "163426" ;
+        pm:hasTitle   "Love Me Do (ラブ・ミー・ドゥ)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/43718c9f-f62d-4923-a431-b50faf3cd6f6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "347000" ;
+        pm:hasTitle   "Love Me Do / Eight Days a Week" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffb3195f-06fe-4db9-9b56-bfa0391cf1ab>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Love Me Do (First version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ada57cde-240c-4d4f-b260-3d81999c3134>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/297781db-51de-4819-8317-e7e400d42eb7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fra" ;
+        pm:hasTitle     "J'en suis fou" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1898030c-6d0c-46eb-a24e-a65b24a90465>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142160" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84cf0f8c-dd9f-46ae-8fc7-32111e8c29e8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141786" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c65990e0-8b93-4bcb-8b51-7ff36084e1c0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20226e8e-b7d0-4264-bdc9-751bbcc24eb5>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86dacf06-3fc7-426b-8e69-8e7155a26e9e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2014-09-22: Shepherd’s Bush Empire, London, England" ;
+        pm:hasTitle           "Jean Genie-Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f9922b2-c84e-42fa-88cb-a26b93de5fb7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "41000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8b81ec8-e863-4615-8418-397014382b6c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Love Me Do (mono)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec6528e3-fbe3-4c45-900d-61de4c218b9f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9f46b61c-ce63-45f8-9109-90c0bc7fa1dd>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "McCartney Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7a52b0b-797c-4c36-8900-33b65b089e1a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do (RM take 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72f602df-1c15-490d-9ef2-035d020ec49e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "Love Me Do (live at BBC for “Pop Go The Beatles” / 10th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9910b48d-f61e-452e-b938-4bf322fe6f27>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "100133" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/67ae04a0-2099-4482-8874-3cf67d6980d8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "247431" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de9f9e37-cd1d-42fa-8674-360e11a7764e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142040" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dba1cb97-a9b5-481d-a93a-4e6537b009ae>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/270e0f7d-1049-4625-acf8-10442fd17e07>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "210000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af0f87c0-9693-4065-907a-8eeafc4d4f3c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11491b8f-0525-4ace-97a6-652619a2dc10>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145373" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c023b8cd-b20c-46d0-a8d8-98e7fbbf3f68>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b22d998-7d1b-4ed5-8628-891d47183782>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "49226" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf97ab0b-735f-4a29-9e97-1079c191673f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "165000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/960285db-6d2a-445d-89b9-b06eb3592cf5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "roh" ;
+        pm:hasTitle     "Da'm da'm d'amur (Love Me Do)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab982256-ed08-43ac-b727-09295da4d035>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146160" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe03ffbf-741c-4a69-ac5e-dae8389355d5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7d971e3-b7d7-4348-97b5-081cf7e40120>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9c1fa0dd-36dd-4ff6-a6ec-977c9f66bdd9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150000" ;
+        pm:hasTitle   "Love Me Do (take 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14ba2d6b-6958-40fe-a1ff-897897e0b88c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146706" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc71dbdf-e879-40de-97c5-caf92ea4acab>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "36000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9ec7fa9-4c19-49a8-a1b9-988542ea97f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "224560" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a2b265-b895-4b7f-baf4-4dc5f994a07f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/af5c2b12-4788-4135-8f4c-dc9e2be29264>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "MPL Communications Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/436f47cb-2ffc-48a4-8a0a-babf20017fe2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96a64efe-8813-4ac3-b6a8-60d40f2f5359>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "106000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca840483-c28f-4bb5-98e9-fe52d45036a1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "138000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71ec31f1-d13d-4a69-9c36-2b2b1ac4c280>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/3d2be76e-8193-307e-bca5-71f9c734c0f0>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b45c527f-2818-4c0c-9b70-7f260b36d39d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9c1fa0dd-36dd-4ff6-a6ec-977c9f66bdd9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/049c1880-28da-4af2-a4b1-ba74d0b591bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b029f886-e86f-41d4-b948-b652bf905c35> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/66c392da-6bb9-4694-85d5-501d99206293> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd55060a-fa80-4c52-a293-2db7d12662ff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4083b1fa-c752-4b55-ab4e-0aa26c76a694> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40ee57d1-5bd3-4671-a6af-64864c2c3ef6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ee5f721-876d-4450-828b-32afd7118eb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/90409179-c277-47c4-bab0-04e4e8b2752a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ada57cde-240c-4d4f-b260-3d81999c3134> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/90ecbe38-a3e1-4add-89fd-0606ccd2c8a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/538a6006-cb27-4a3f-8f63-4a8edf59f327> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14ba2d6b-6958-40fe-a1ff-897897e0b88c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a58f51f-d0a0-4b0f-8286-dbb432b8749a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/510c7ae3-3cca-4aca-9a76-0359123d6c9c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/077e689d-ef39-4789-b5ba-aafa120d15a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6803029-2baa-4e17-ac8e-7c9d52a23693> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99f35b2a-2025-4129-a164-2db4e07571ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33ff32ba-47d9-4f31-b173-caa5df77e6c6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11491b8f-0525-4ace-97a6-652619a2dc10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61be6699-8dd6-422a-861c-b7ce652ac142> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e54c5e7a-ea10-462b-9016-566aeb65d1e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebafce2f-0672-4419-8c49-1895ca1dd4c1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffb3195f-06fe-4db9-9b56-bfa0391cf1ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/326261c6-8df2-4890-bfe4-1a0f5c686217> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8d509ba-6a2c-4ca8-ab69-e37348b6e5de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc71dbdf-e879-40de-97c5-caf92ea4acab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1d96191-0565-4f09-b9a8-4d54d148d770> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03b1834f-977f-4314-bd55-5a1ba7da3445> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9df417f9-3226-47d8-a6d0-a5d9c60140d1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/665ded7d-aa54-420c-a9aa-5d19d6e9596a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c023b8cd-b20c-46d0-a8d8-98e7fbbf3f68> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8e0aceb-f3a9-418e-a570-e3993089d89f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f518811-7cf9-4bdc-a656-0958e130f312> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8975cbf4-1f1f-46cc-bbf8-fcf264c70a38> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96ddc9b2-97d2-40cf-88f1-887021eedbee> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc96e554-e7f0-45c2-a03e-611405fcbb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/43718c9f-f62d-4923-a431-b50faf3cd6f6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2cc6696e-8229-4246-840b-a770afc7f8fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f87eb4dd-7e3c-4365-a3c8-f144696f5952> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b22d998-7d1b-4ed5-8628-891d47183782> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fc530c96-2224-4f60-a352-2c600ab3aca8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3e0b174c-3cc8-4c80-9c75-28cd0ac204cc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1d09dc2-94c7-49b1-a706-89627f655d1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe03ffbf-741c-4a69-ac5e-dae8389355d5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/67ae04a0-2099-4482-8874-3cf67d6980d8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b0ece76-53a9-4060-9677-822586cba4d4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b01b3164-d85b-4652-b44f-d61fdc9a6080> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1a2f154-48e1-4464-b7aa-774fd3d07d5c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd669fee-b3bf-4bef-b239-b513357d6cea> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f9922b2-c84e-42fa-88cb-a26b93de5fb7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5bc1c57-5ce9-4d20-a709-0519f1ad9b61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/544b27bf-ec46-430d-bf39-fbf9ba2101fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d9b1a90-9dcc-4274-a882-f2b6467cb291> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/270e0f7d-1049-4625-acf8-10442fd17e07> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57b22208-eb94-47b2-90d3-a78a7c013838> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a2b265-b895-4b7f-baf4-4dc5f994a07f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1364b84-60c2-49a6-8840-6e13754e4fbe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8eb6f0ba-fc76-4626-a665-8a52dbc0a861> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df315518-e659-45b3-8a9e-988472e6f05c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20226e8e-b7d0-4264-bdc9-751bbcc24eb5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef41d655-60be-4405-9bce-08b92e66cc19> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/673e3d79-c444-41cb-82ca-1688b48c3c91> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7124da2-88ee-4694-b13c-404e479704bd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9910b48d-f61e-452e-b938-4bf322fe6f27> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e3a6ddf8-9774-47d2-916a-d5c6b6df4ccf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c69e1b2a-b1c5-4f13-831a-b19a51b7e4bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab982256-ed08-43ac-b727-09295da4d035> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6a4fe53-b629-4e10-aa96-81506daf00fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86dacf06-3fc7-426b-8e69-8e7155a26e9e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/902ed2ab-7f62-4eef-b99d-4feca1da341e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eda0ac0a-1e46-4398-b1f2-8d95cb323aaa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25460478-c211-4938-b5af-c2aa66cb63a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/829bf147-81ed-4181-bfe5-a05ed94ce229> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9ec7fa9-4c19-49a8-a1b9-988542ea97f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/068fb8c3-a3ae-4f17-9039-42c5dab0170b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8b81ec8-e863-4615-8418-397014382b6c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec8db54d-1890-470a-a6ab-817fb4ec677a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17072d16-519c-47ad-a64e-cc030e1a510c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf97ab0b-735f-4a29-9e97-1079c191673f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c65990e0-8b93-4bcb-8b51-7ff36084e1c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6165e9c0-e76f-4f35-8d88-e2d564d09912> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71006bd0-1532-423c-9048-551db4ce49ff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b7a52b0b-797c-4c36-8900-33b65b089e1a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af0f87c0-9693-4065-907a-8eeafc4d4f3c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c27d342-7877-4015-b85a-8cf124266a43> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba0dc0a4-3823-4245-9e09-e1a6cea76da8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de9f9e37-cd1d-42fa-8674-360e11a7764e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6cf4a8a-c307-4ee9-a14d-1901353f1a61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81c4ddca-5884-4d5e-9679-c72223902f4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7d971e3-b7d7-4348-97b5-081cf7e40120> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7ac4a8ce-3101-4a59-98e9-57d9d170047a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41509581-c732-473f-b86a-09fc4932b1cb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/84cf0f8c-dd9f-46ae-8fc7-32111e8c29e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdbb9906-89fe-4bac-a504-72ce4b3fc7ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13f9f27e-9f8a-4bcc-972b-fe61d65d4a1e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca840483-c28f-4bb5-98e9-fe52d45036a1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7db1fdb4-159b-4bae-8ea6-aae9c32422e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1df3355-7efe-47fb-aef7-e9adad816b4a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc61a490-55f8-4db5-b690-6cba0a709ddb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42235efc-377e-44d1-8852-3c815f41088c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6447af3-0d90-4f45-8db2-aae30a55070d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71ec31f1-d13d-4a69-9c36-2b2b1ac4c280> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c990c472-d513-4178-b73c-4f0deb18ef99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd2ca086-3578-4f55-a54f-267e826ad763> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08a278dd-296d-4153-9605-65c24cb6a252> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd0d9b94-216e-4477-ab0b-ae7f48940a3d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7eb2b123-bfa7-4b76-a08f-418b1684dee6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd4d358d-5ffa-4214-ac48-9360d37effff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/513bae19-4f7b-41b3-b3ac-9aa16611c5fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/047b28a5-340e-45d4-808c-bf1d8db0611e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/92a054d4-50cd-4dbb-b9c3-2b79ff9228e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dba1cb97-a9b5-481d-a93a-4e6537b009ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc2ba567-ac3c-4c45-80f0-0ee5e7920f47> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7923a66-8783-4f26-b06a-44e550cffbec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7a37b1fe-23ed-4b05-9ae5-0deddbdd1dd6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8dc10d5f-2b21-40ec-b6a2-ac560a12c4ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab936696-1198-46e9-91fe-257f6bf47449> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57e4fcfa-eacb-4eb7-8f3f-23f8d249cebf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41d91d54-372f-47b7-9e17-898dde5e8c4d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5bd54b0-05fd-4d92-b987-e5b92908dee8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96a64efe-8813-4ac3-b6a8-60d40f2f5359> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45fc3daf-b7f4-4111-bf59-a2fdba6170bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c57f6abc-20bf-4cf8-a8ec-50d74588cae4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00575511-5325-4bfd-9f86-17ef84d7b5e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3a3c70a-3c46-4b97-aec6-fba2e0582870> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1898030c-6d0c-46eb-a24e-a65b24a90465> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b96946b2-15de-495f-9030-c103846babec> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7013d00-d08d-40f3-a80d-402a4e782159> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/feff130d-9c71-455d-b16a-fe851203ca61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e261257-0ed8-4d1a-9d98-8847e94b659b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d884f10e-8056-4b68-a9fd-d6355c80d137> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7298a1c-5e5e-4d44-9462-35c1fab031a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec6528e3-fbe3-4c45-900d-61de4c218b9f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbb22c98-417c-465a-a317-acba1e6e02aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/677cd94d-1239-4684-9967-88aefe0c98a9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef380f20-6592-4bef-891c-44a45cd31204> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72f602df-1c15-490d-9ef2-035d020ec49e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c480cfb1-2970-4676-ab5b-3c170a6de2ea> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/436f47cb-2ffc-48a4-8a0a-babf20017fe2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7474f452-d508-4f85-a90b-069f1f288ff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/689a69a1-afe7-43f1-b55f-e576fd21191f> ;
+        pm:hasTitle       "Love Me Do" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3582bdad-aa06-4e28-b351-1efd34aa5a6f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9c395f9c-5c71-41d5-baf5-4809290e2295> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/297781db-51de-4819-8317-e7e400d42eb7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/960285db-6d2a-445d-89b9-b06eb3592cf5> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/af5c2b12-4788-4135-8f4c-dc9e2be29264> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/45a4e6b3-2567-4e7d-b872-a412cdf2d0ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/477963a7-581c-4d6e-8e46-3635f6ec5323> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/fd63c89c-cb1d-49ee-8f22-1c6085d1a958> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/35f5812b-88d7-4a42-a7ce-70860d34ec8d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0231562d-dd1b-47b9-8202-5fa5abf8ae5a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9f46b61c-ce63-45f8-9109-90c0bc7fa1dd> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c27d342-7877-4015-b85a-8cf124266a43>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "stereo" ;
+        pm:hasLength          "123000" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7298a1c-5e5e-4d44-9462-35c1fab031a3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/00575511-5325-4bfd-9f86-17ef84d7b5e5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140093" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/477963a7-581c-4d6e-8e46-3635f6ec5323>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Castle Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d6a4fe53-b629-4e10-aa96-81506daf00fb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140592" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/9c395f9c-5c71-41d5-baf5-4809290e2295>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Love the Jews" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5bc1c57-5ce9-4d20-a709-0519f1ad9b61>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef41d655-60be-4405-9bce-08b92e66cc19>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "84840" ;
+        pm:hasTitle   "Love Me Do (home tape)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbb22c98-417c-465a-a317-acba1e6e02aa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5bd54b0-05fd-4d92-b987-e5b92908dee8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145960" ;
+        pm:hasTitle   "Love Me Do (with Ringo Starr)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/33ff32ba-47d9-4f31-b173-caa5df77e6c6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "197000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7474f452-d508-4f85-a90b-069f1f288ff9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "315000" ;
+        pm:hasTitle   "Love Me Do / Please Please Me / From Me to You / Twist and Shout" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/35f5812b-88d7-4a42-a7ce-70860d34ec8d>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Ardmore and Beechwood Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f518811-7cf9-4bdc-a656-0958e130f312>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "drums: Andy White; original mono studio mix" ;
+        pm:hasLength          "141693" ;
+        pm:hasTitle           "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/92a054d4-50cd-4dbb-b9c3-2b79ff9228e8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9df417f9-3226-47d8-a6d0-a5d9c60140d1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/feff130d-9c71-455d-b16a-fe851203ca61>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "140573" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/673e3d79-c444-41cb-82ca-1688b48c3c91>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143613" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef380f20-6592-4bef-891c-44a45cd31204>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e54c5e7a-ea10-462b-9016-566aeb65d1e6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/047b28a5-340e-45d4-808c-bf1d8db0611e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do / Help" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8dc10d5f-2b21-40ec-b6a2-ac560a12c4ce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6803029-2baa-4e17-ac8e-7c9d52a23693>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd669fee-b3bf-4bef-b239-b513357d6cea>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151533" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1958" ;
+        pm:hasEndDate    "1962-05" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdbb9906-89fe-4bac-a504-72ce4b3fc7ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/068fb8c3-a3ae-4f17-9039-42c5dab0170b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1a2f154-48e1-4464-b7aa-774fd3d07d5c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Love Me Do" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f87eb4dd-7e3c-4365-a3c8-f144696f5952>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "drums: Ringo Starr; original mono studio single mix" ;
+        pm:hasLength          "143906" ;
+        pm:hasTitle           "Love Me Do" .

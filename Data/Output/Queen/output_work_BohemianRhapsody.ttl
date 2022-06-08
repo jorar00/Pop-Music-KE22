@@ -1,0 +1,1733 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c15fee57-ac36-492f-a708-bb231877a4a5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-12: Cafe Hahn, Koblenz, Germany" ;
+        pm:hasLength          "373000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03c4f9e6-044e-4644-9504-8733fad4d63b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "264666" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/820d3b5b-6cea-491d-9721-811e2dc9c407>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "162280" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bbcc728-6493-4027-b633-99653308f666>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "367000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85a7e40b-11a1-4f44-bb63-af26f6a2f723>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68353c2c-10ef-4e03-b136-b50c8b4e28fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "51000" ;
+        pm:hasTitle   "Bohemian Rhapsody (excerpt)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a46527cc-d7ed-4ad7-8c64-95756c6c949e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "316000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c76d2061-4b32-4c2b-8fe5-c6751e23fc49>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "242133" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2bb98783-c4e2-49a3-af3b-650ba7a8ec14>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke" ;
+        pm:hasLength          "353000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59ccea59-7201-4dc1-b687-3de63727ae10>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, England" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/48d012fa-3ae1-48a4-8879-c02a66eec2f0>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "The Queen Symphony: V. Andante doloroso - Allegretto - Alla marcia - Moderato risoluto - Pastorale - Maestoso" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7727fb9b-78f2-4e6b-b89b-e19858f3e7c0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-12-09: Walter-Köbel-Halle Rüsselsheim, Germany" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e4aca7a-d8e6-404c-95bd-41c3d7f18e2e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "362000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41371bec-026d-4870-be67-625f9b2551ca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2002 5.1 mix" ;
+        pm:hasLength          "356000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a8b0209-9b1a-4a58-b5a6-fd496f432e31>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-27: Népstadion, Budapest, Hungary" ;
+        pm:hasLength          "330000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a63a990-5a87-4d80-aa25-84e0092d4406>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK" ;
+        pm:hasLength          "311386" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd7e5d7b-9f61-468a-9ef2-7ddd7ef85478>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e29b257-17bc-4d10-bd02-744102e63852>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "BOHEMIAN RHAPSODY" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a691f9a-7240-4dab-9766-9f870b71ebda>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "357640" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/645548bf-da60-4f7a-a282-1bbae7d26d5e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-09-18: Hyde Park, London, England, UK" ;
+        pm:hasLength          "102640" ;
+        pm:hasTitle           "Bohemian Rhapsody (taped introduction)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf30e222-c642-4bf2-a9c2-411c88c781dc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "387600" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/193d1cde-a31b-4e82-877d-0c6545bfeb02>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204000" ;
+        pm:hasTitle   "Medley: Killer Queen / Bohemian Rhapsody / Somebody to Love" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bace61a6-9751-4235-a3c6-0b27a5e7150f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "370000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c033fb9-f2ac-4708-ab62-5b203487ecdf>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "302333" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d86aaf77-61b4-48c5-9d83-1f890bf8fb16>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "347000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a946be8-e6c3-440b-b535-3cc852899298>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "381066" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6654d52f-a49f-4154-a3de-7a037e232cb4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "354213" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4117ff3-5a21-4122-b316-0294e6063a53>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "LiveAid Video" ;
+        pm:hasTitle           "Live Aid Rehearsal" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4014021-f42b-4117-97d8-6004d1eb1655>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "361013" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a068c51-2040-4eb6-b4ae-a1f4096307fa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "361000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/05c0acc8-a936-4349-9306-38e0a182d0ce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "338000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e14a8c70-b4c3-43f1-b4fe-42f93c722289>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f50f9dd1-16f7-4fd6-9534-d19c0de4367c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada" ;
+        pm:hasLength          "335000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ebf6aed-2cbe-435a-8029-97280b868eca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2020: Fire Fight Australia, ANZ Stadium, Sydney, Australia" ;
+        pm:hasLength          "140497" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be09fa87-c4ef-449c-9379-5e74069033f4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "355000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b2451f7e-4e30-44b5-94be-cdc4c1687f99>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "351973" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3d61d9e-fb70-4060-bc79-e30fbe290c58>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "397000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7568b6de-ecfe-4845-ac3f-58f50108ff1d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "360226" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc3e8691-321f-49af-98a1-d4a11f363e1d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "145800" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41450333-cc27-4ca3-bf2a-79462eb2de6f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "285093" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/937fe60e-2fe7-46a2-ab71-b0fe7a0e48d6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-04-28: Color Line Arena, Hamburg, Germany" ;
+        pm:hasLength          "378000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/042c6932-266e-4bcf-a801-62a0f6bf72f7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "359426" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65a8a02f-f77a-4143-939f-26d3e68ccc8c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "354000" ;
+        pm:hasTitle   "ボヘミアン・ラプソディー (a cappella)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30a48025-73ea-46df-b6ad-660452f69cbc>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody (original master remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b52909a-3889-468f-bf2a-362cdf3cf6ca>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-05-12: Broendby Hall, Copenhagen, Denmark" ;
+        pm:hasLength          "330000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fcc11b4b-9ad1-455f-b18f-30eaa37a472d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "344960" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1288caf1-2b01-4d5b-a115-a95b61bd6fe8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada" ;
+        pm:hasLength          "351066" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d77da799-f157-46dd-b0fb-5c181383624e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-02-06: Beacon Theater, New York City, NY, USA" ;
+        pm:hasLength          "163000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1122bec5-02bd-4d7d-8f01-58a9b8647b8b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "286000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0eb78836-f310-4270-98bd-fc2d4c4e2280>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-02-06: Beacon Theater, New York City, NY, USA" ;
+        pm:hasLength          "166000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6908361f-b1a4-46eb-b1d8-8392d0e09110>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "344407" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/babd9403-23cb-408a-b979-883895606d75>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "386000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40212eb6-01b0-41bb-ac71-4a4328871b5a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07: Wembley Stadium, London, UK" ;
+        pm:hasLength          "338093" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18ca80c6-002e-464c-a721-c0d99d33a481>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "340133" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e064c393-bb68-4699-a34e-c0d176428a61>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-01-30: Boston Music Hall, Boston, MA, USA" ;
+        pm:hasLength          "138000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce6c7bbd-39c7-4c9f-867c-ec706c57f9f5>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Live Aid Intro" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b547796-91cc-4637-ae97-fb7acd9094c7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-07-13: Live Aid 1985" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7da47cf-e37e-4c3b-8207-0ad53f5e9d85>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-02-02: Festhalle, Frankfurt, Germany" ;
+        pm:hasLength          "361293" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4c4f091-d710-428c-ad92-4557f9b85e56>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "387000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/809481c9-27ee-412d-b902-66659bbc7936>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-12-24: Hammersmith Odeon, London, UK" ;
+        pm:hasLength          "149000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f980f8f8-a9f8-44a6-bac5-1e8e3350564a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "358000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/778a4d12-64af-4bf8-ade8-4443c45b8188>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "317000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ec8b7b38-06ad-3116-a6c9-3ca97555dda8>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Bohemian Schnapsidee" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1b475ce-eddb-4ff5-8c62-89aea04731f0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/127aff87-a923-4c74-8b1b-3c3cfd65a81c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2017-04-14: Amway Center, Orlando, FL, USA" ;
+        pm:hasLength          "424023" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/630bb7cb-2a71-4f0a-becc-89b2e781b346>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "369000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/214b1678-264d-4d67-a12b-b552f7d23f80>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "379000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d480d302-577d-44c0-b502-99b678d11640>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "424000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce020a73-b6ba-40d1-9e1c-df2d96dc8fd4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "371000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b50ff01-8b23-4237-bd89-ee6672e2923e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-06-21: Reigns the World: Maimarktgelände, Mannheim, Germany" ;
+        pm:hasLength          "357000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbb79505-420f-4232-988d-85f32e8a712a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "163487" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1fe90765-96b2-3c48-9ee1-9dca780430f7>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Zero Wing Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0fa11df-920a-4b18-ae99-6ab03b28d0ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "297000" ;
+        pm:hasTitle   "The Encore" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/106d1527-d378-4e55-ba49-d18f8e63ae8a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "LiveAid Video" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be816563-882d-4bde-866c-952ab9e641dd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "357000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9442e59c-5ba3-4589-8273-898e7b018b20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "370040" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdc8b4cb-98f9-4701-b7e5-ebb16261f9c5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133143" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "イーエムアイ音楽出版 ソニー事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/400a5f16-1971-4d14-9964-3b8ac63c7047>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "383627" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35aea607-ba83-4017-acd5-601460baafc2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f523001-4a40-4ae6-9251-24f23a894e3f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "350000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/41c94a08-a551-3c86-bb17-d9a52e3a618b>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRate        "5" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1840d0b7-a64a-4cbf-85d2-4fef02bbfe25> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d86101b4-fd5c-433b-be1d-3605d7bfeb73> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/645548bf-da60-4f7a-a282-1bbae7d26d5e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f9e4897-613d-4f94-b146-15dfe2214ad6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b3caaa5-d433-4342-9fa5-bdcb779ce251> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35ba1f67-eb17-4015-b326-e260181f3647> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8643731a-644d-425c-a655-80cf3e98ebd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/34aa7d34-76ae-4011-96fd-49f1a1aae814> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cf87954-1402-45f0-bbcf-e957eb332da7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/928fbe73-f32f-4b35-9299-8379d61f538c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f172ddbe-6a07-47e5-8b97-a5ebbaa5578e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe3bbbe2-bcb7-474d-a6b8-e655bb15e8c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18e00452-9d76-4d46-837a-00c5bce8ca84> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/545590aa-f6fe-4180-a447-e64d27ed55e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8842b89-faa8-495d-900c-9359fab2d372> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03c4f9e6-044e-4644-9504-8733fad4d63b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/390380ae-2963-4974-8a26-3bc569ac8a2f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d77da799-f157-46dd-b0fb-5c181383624e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d513d229-f4f5-44dc-94e9-adc396ccb01b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f5ddce71-9b83-475c-932f-52ea95485406> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adbab46f-fdfa-4784-b34a-fe7771af1d24> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96712136-fb53-4ef0-8fcb-75e2599ca5e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a872b382-cf59-43d6-8ae4-820b540236a1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6fe0719-4d37-492a-8cda-815d0b637de5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4117ff3-5a21-4122-b316-0294e6063a53> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7faf83f-9cb3-4de4-a39f-1c1f98b8d81a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1122bec5-02bd-4d7d-8f01-58a9b8647b8b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be816563-882d-4bde-866c-952ab9e641dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86f21f1e-7b78-41ba-b2ae-5ce8ea394cce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52b9c425-05f9-4591-8e63-46e409f81999> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1190506-3fc2-4611-9e72-c4146927a8ad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be09fa87-c4ef-449c-9379-5e74069033f4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e81ede4f-be73-4007-95e8-7bb38c7e3c0d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c92f6d-c2cb-4377-bbf8-4589cba94742> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a61df344-fe12-456c-b91a-0b57b8aaf877> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6be2a10f-0c4a-4213-96b2-220c36c023fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bcc7bc30-dfe3-4178-bda4-ac40e674c470> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1288caf1-2b01-4d5b-a115-a95b61bd6fe8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d8e049e-cf87-4687-b8de-987206c8918f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c4dc77e-63f4-4de4-af20-608bbbb1907b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a858e0f-ec89-45f4-a433-919e7d30c766> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4cbae714-9e3a-4793-9b1d-10c92b637c20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/95f61867-32d6-486b-a8e7-b35fa0eacfe6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdb01e2a-8dfe-4f66-91f5-4eb0d1aac885> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55321af3-863a-41ca-ac54-873b6e83bd78> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b90ea698-3a95-4cf6-a24b-72529621ffff> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a946be8-e6c3-440b-b535-3cc852899298> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/43fe7177-dd9d-4f7a-bbd2-6a3cca841b7c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3d2d4ae-8477-48f4-ad69-50922d3ee742> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af9ff516-6e19-4245-b900-f1a2a6e134c1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02763d66-8078-418a-804e-7ed84b7a4a8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/babd9403-23cb-408a-b979-883895606d75> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de3b0879-2f20-4f5f-abee-68c5cd8075df> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30a48025-73ea-46df-b6ad-660452f69cbc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fb3ab1e-5500-4059-8548-23ee6b7e53e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68353c2c-10ef-4e03-b136-b50c8b4e28fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11aaabc7-19b6-43e2-a56f-6c607c0e9a32> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1922c8a9-abc0-4116-b459-39bfdbf0b414> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/901aa230-e85e-4305-b922-d78a9d62643f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21aca48d-995f-4e13-96db-32b80d37351e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acef58d0-d72f-4809-b8e0-c6f042480e17> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/778a4d12-64af-4bf8-ade8-4443c45b8188> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbb79505-420f-4232-988d-85f32e8a712a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be1f2453-0c85-4d27-a4bc-9955cf755009> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40e37f04-6fdd-459d-8c31-6f5cd0a197cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/788d24f1-5c58-421f-9272-b5028ad5ec38> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eff1168c-9037-45d3-abf6-5024ed62b0ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ac4b391-74db-4954-b791-7a3295a6f158> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4aa7950b-0279-460a-b21c-54f93856504f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65a8a02f-f77a-4143-939f-26d3e68ccc8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c186a5a7-090c-42e7-8091-ba533ed93b1b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3263ba2f-bf33-4129-b6d7-53f437269323> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e052a3f-4149-46d9-8fff-1da298f0ac40> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f71e2285-d3a6-499d-9916-f460e09ce20d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c5e6e29-a48c-4050-a0f8-898e0a92ef0b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01d2788d-862f-4d00-aa1e-f326a0d353a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d480d302-577d-44c0-b502-99b678d11640> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40212eb6-01b0-41bb-ac71-4a4328871b5a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab0c5d37-ee99-4cc5-a9b6-13556cf08f72> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f18cff8b-9b30-4417-abb1-79e2079d2343> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/569d53df-94d6-4451-aa78-251b62429c77> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65c5819d-dba7-48f3-8006-194c63018cb0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/16e39870-30ba-4229-93c8-1bb53c26b081> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbfccc46-99a6-4fdb-bded-6e1764fd1e9c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17dd69e9-be50-4935-88c8-5dbd07177c9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcd87fa4-8645-46d1-af65-ab73f74d3267> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c1ab8e9-6f2b-47f0-8fc5-05c612de8c5b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fe1c971-a272-42f0-9a59-247e1b471298> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9af48069-cdd5-42a7-9009-a0565ae069c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a74056b4-d618-444f-91f5-ea2f4692a0c6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca78c946-7258-452a-ad3d-deab4524c178> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c15fee57-ac36-492f-a708-bb231877a4a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d2c4ef7-c6d0-4e74-ace6-d9a77f486333> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2372681e-4d45-4b7e-87de-eb73b38b828a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1b475ce-eddb-4ff5-8c62-89aea04731f0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a691f9a-7240-4dab-9766-9f870b71ebda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7274240d-0e70-40a1-99aa-940dd4e2abcb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/637fba3a-52e7-4eb3-9045-4f0253c96000> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1fbd3c0c-ab1a-46bc-a060-de051e517059> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bdc8b4cb-98f9-4701-b7e5-ebb16261f9c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4572c539-07be-4398-ade4-ac443c3883f1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/075d97ca-a67a-4c62-8a03-77268b6e7958> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2bb98783-c4e2-49a3-af3b-650ba7a8ec14> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b250ef39-37d1-4a91-8c17-3f33c7c6d16e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/042c6932-266e-4bcf-a801-62a0f6bf72f7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/213ea6d2-4446-4d6c-825c-8b30b3f17475> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bed85ed3-9faa-4e96-b7fe-4e5af30d3b63> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1cb5b29-8a4c-46e0-b754-25e780a8a29e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a068c51-2040-4eb6-b4ae-a1f4096307fa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c033fb9-f2ac-4708-ab62-5b203487ecdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9ccabe3-c770-4cda-bdc1-f5abc05dcf7a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4cb497f-b0fe-42ca-94d6-4f6365518569> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e45ef6c-1920-4949-b8fb-2347e1b33c0d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0eb78836-f310-4270-98bd-fc2d4c4e2280> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99ca3bad-921c-47c6-8080-7e1248b882d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6649a07e-d8e5-4ff3-a718-9f6dcb5f36a8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18ca80c6-002e-464c-a721-c0d99d33a481> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3d61d9e-fb70-4060-bc79-e30fbe290c58> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7727fb9b-78f2-4e6b-b89b-e19858f3e7c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/edd0daad-d06a-411e-8670-d4a8f2253504> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c085aa8-4c2b-473e-9bf9-aa71a9c40c79> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf30e222-c642-4bf2-a9c2-411c88c781dc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/05c0acc8-a936-4349-9306-38e0a182d0ce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35d00621-ff11-4e96-b00a-9eaa997900e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fb6e7177-ffb3-4394-996a-6aaa15144693> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a9150d3-0744-46c0-b3cb-bb3148e09e53> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15c97127-cb19-4881-a818-406fc0125431> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c69a4f0e-a40e-4b7b-aaf6-1462d6f7a782> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7aa79d8-e8d4-47af-81b5-c001a1f242aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/127aff87-a923-4c74-8b1b-3c3cfd65a81c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53d2af70-7a1f-4545-9e6e-dde2a6ff43de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d33be05-5fd1-4e84-a333-e5ca249365fd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af85633e-1958-4be8-8def-6a264755892f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b89a54ce-f612-44b3-8e6b-007f02b1932d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0eddb3a3-952b-407c-81cc-0220bc6fdbf3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85ab739d-c4f1-4180-9c50-113408439096> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36e49fcc-9a93-40a1-a9d9-1a737347a7ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a44abe4-d1d6-4506-a6a4-d5e971677608> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5728e8d-384e-4804-9b41-deca56ba420f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eea5cf7-feba-49bc-be94-1b155dbcb165> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a9c0e9-d987-4042-ae91-78d6a3267d69> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76463fca-2d8a-41fe-9e2c-8a2ff8d47da7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11e23fd2-c841-460d-85ec-1e9970de8812> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bbcc728-6493-4027-b633-99653308f666> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/584100aa-0dd8-4cac-96a4-ca8d4cbcfe23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb88ef4d-5718-4363-a7fb-7c4d95cc07ef> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01546b93-8ba0-4934-88ed-872096d7f607> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57a4c6dd-a927-40cf-96b7-e58d4ad65658> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4c4f091-d710-428c-ad92-4557f9b85e56> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8292f88-b199-40a4-98a4-edf357a35a0a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c76d2061-4b32-4c2b-8fe5-c6751e23fc49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/193e9737-307a-4343-968a-e3428c946ade> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b41f4846-5550-46de-84a0-ed4790f68bfe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb830f3b-b9c4-4f31-9990-481e90459b9e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1600de2a-8e4e-42af-ace7-bf120a213b9a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d051f6d-ab01-4693-b5e4-71d9fe77720d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2c62a7a-d8b1-46e8-a9d0-282afae12413> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35aea607-ba83-4017-acd5-601460baafc2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89cebefd-57a1-4c7c-89de-2e2a9e676f64> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3480e7a5-d611-477d-b220-081264b81384> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3794eaa3-8798-4a50-994c-1f31d78528fd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/553e60f9-b044-4760-b4ee-efe475d74165> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9999804c-4c9e-4d9d-8d87-4c3b404f3773> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3d7ed3b-05ab-4fd2-b70c-4068e5c3e1ba> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e44632b9-2d39-45e4-aab1-1bebeddc5c8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f5428f0-6ea0-42ee-803b-c42d30877073> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714cb90d-b0b6-4bc5-b912-a78ef11595ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/69fd909a-3141-4ef9-8ebe-28aa688efd58> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36bddcb5-c8fe-48a1-9d02-6a64f60ea518> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41371bec-026d-4870-be67-625f9b2551ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/735286bd-27d7-4796-840d-73a2eb6c500a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0b50254-fafc-4f49-a56e-8961ad56aa09> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba1a698b-347c-48e8-bdb4-eb5d37df54e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e372dde-4e42-43c9-b3e6-bd962e98ffb0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8b950f4-3cec-473b-88de-f635224eccfe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a8b0209-9b1a-4a58-b5a6-fd496f432e31> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35a91a43-a1f7-4068-ad03-e0569a0b372f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6b05179-f2f6-4e92-ac03-e6ea06686f47> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce020a73-b6ba-40d1-9e1c-df2d96dc8fd4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0617f745-4c6e-4a0e-b6b5-7ce85f26a6bf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd7e5d7b-9f61-468a-9ef2-7ddd7ef85478> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f980f8f8-a9f8-44a6-bac5-1e8e3350564a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e29b257-17bc-4d10-bd02-744102e63852> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e512715-3fad-45e4-beab-e137ce3ff881> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/937fe60e-2fe7-46a2-ab71-b0fe7a0e48d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1895a97-4735-481d-8a18-b9ef428ebb0b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b50ff01-8b23-4237-bd89-ee6672e2923e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b299aed6-043d-43ea-b042-65f131cf2f0f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40041b26-3edd-4ccc-aab4-32502638f145> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adab1d79-7cde-411c-8020-a39162940832> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f35affce-3982-40f9-9327-c2ec0a0829cd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71e719e6-f854-474a-9b0e-deacf78cabe8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85a7e40b-11a1-4f44-bb63-af26f6a2f723> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/106d1527-d378-4e55-ba49-d18f8e63ae8a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c740a97b-cc02-4115-8502-4489a7da766f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d20f3dc3-0687-4832-a918-fbd2af7276a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/571ab5d4-2329-4356-a910-f161310f7b9d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/22090fb2-e4cd-4426-8606-e8ad09f89344> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d0af494-3735-4fac-a10e-d503d62b3f71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8ff6c7d-de4d-4772-ab8a-d2797aa89227> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29990dd8-1f27-4373-aed4-0f1f3252a3b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0fa11df-920a-4b18-ae99-6ab03b28d0ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6654d52f-a49f-4154-a3de-7a037e232cb4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75cccbc9-a7f7-48d8-8182-76e939603432> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b52909a-3889-468f-bf2a-362cdf3cf6ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b2451f7e-4e30-44b5-94be-cdc4c1687f99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/512749b9-14f1-44a8-a782-d86dfa28bdaa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a46527cc-d7ed-4ad7-8c64-95756c6c949e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/41450333-cc27-4ca3-bf2a-79462eb2de6f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d33d5e4-4a5d-4fff-ac8a-dcf44c6e7d40> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed7e52c0-5871-4b04-99a9-890fd130c375> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bace61a6-9751-4235-a3c6-0b27a5e7150f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5119b360-2055-4f97-a795-f633df01031e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/630bb7cb-2a71-4f0a-becc-89b2e781b346> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e064c393-bb68-4699-a34e-c0d176428a61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5ebf6aed-2cbe-435a-8029-97280b868eca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f1f00e8-30fe-4686-9eef-1f4ffa7110dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4803b45-0644-453f-aa1b-c762dc2f6941> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3f3c377-e9b6-4d25-b06a-2ea5cfa28d93> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e42abf9-95f8-4493-9bbe-3f3930ea711a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc7867d1-34a5-4bdd-a9b5-faff27ce77fb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1248820-11bf-4c35-8b70-0660b05325e5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c4014021-f42b-4117-97d8-6004d1eb1655> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e5a3b5e-1480-4526-9f86-048fc12390dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d7e65e6-ba4e-4239-8f02-e7e2d6316ee2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a63a990-5a87-4d80-aa25-84e0092d4406> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63a1a110-0bfb-4560-9a5a-bd8fa917f98d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fcc11b4b-9ad1-455f-b18f-30eaa37a472d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce6c7bbd-39c7-4c9f-867c-ec706c57f9f5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9e3eb37-6335-4adf-8550-bdf7f84385e8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6c664ae-6634-46dd-a0d0-17dfad8c6b2b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8ba90dd-e57b-4bd6-b815-4c47b9edb586> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/62826904-80d2-48a3-9dd5-406e7eb9b1bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01a72bf8-ef87-423e-95d4-dcbf9a30d357> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e63eb666-cfac-4112-9bac-2b3c544695fd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/193d1cde-a31b-4e82-877d-0c6545bfeb02> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09371be4-0254-4e0b-9df5-7637fe4a87ea> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a861902-3851-4df4-b05f-e3091e624334> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6fd614d1-000c-44c0-b06a-5bc53fc08c59> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e53edec4-4e56-4543-8737-2a25be46ba2d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9442e59c-5ba3-4589-8273-898e7b018b20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2fc63cda-c527-464c-95f0-9e5eedc23fda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20b5c429-975e-4ee5-950a-e0830efcfde7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7dcd11f1-2b27-41cb-92f7-ea93baaacad3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6f8a822-0555-4836-91e9-c20c9a52ccfa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79e6c130-6e1b-4bf9-b395-aaebf753bae3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8b6e475-2a53-4f83-884f-5d8c3ea97fa5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/214b1678-264d-4d67-a12b-b552f7d23f80> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29ec34a9-a379-4beb-9fc7-6ec47f11faa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da18afed-919c-4daf-9b19-985288f8101e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aeb533ac-8db8-4463-b82a-158e78d4363c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8357324-3132-4640-8ac0-5fb817fdb07b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/820d3b5b-6cea-491d-9721-811e2dc9c407> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e4aca7a-d8e6-404c-95bd-41c3d7f18e2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/400a5f16-1971-4d14-9964-3b8ac63c7047> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1eb3397-dbdf-409a-9edc-7c8c012a4f1a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87ab591c-da39-4a6a-82df-87a80cd8f618> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b853f29e-d56d-4232-8216-5b1b685e164e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59ccea59-7201-4dc1-b687-3de63727ae10> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee657a40-90c7-4a0f-a3f1-9b7e3cbc0b22> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b547796-91cc-4637-ae97-fb7acd9094c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68287fb4-d7be-4b4f-8f7f-aa7403da810d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b2764ed-b345-4d75-a84f-9d083ac0fbfd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23727474-eb8a-480a-b3d7-3dcd4a9e69c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e3074d6-7f7a-4fde-aca5-192bc37da6d1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7568b6de-ecfe-4845-ac3f-58f50108ff1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/235da881-b2d1-41bb-8f0a-60bbfb45301d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b13bb99b-7e22-46b1-ab93-746dca6329b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72d1be2a-6d86-4546-ae20-3e9f6953ee1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c128e4a-362e-4e9d-80c2-6fe22f9bfa77> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a131ca-30bf-4041-81cb-c8d721fa64e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6908361f-b1a4-46eb-b1d8-8392d0e09110> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0f4185e-022e-43ef-a9a3-a886ec2e5294> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56b4a638-d1eb-4453-b2dd-6e3507088865> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc3e8691-321f-49af-98a1-d4a11f363e1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d86aaf77-61b4-48c5-9d83-1f890bf8fb16> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30db48ed-437a-4462-a9e0-933ae18c0b42> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6de5e6f4-6b4e-4e44-ba8c-f7efe352e081> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d03e2f99-0248-4cc2-ace4-3e0abbcbf386> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df3543df-dd02-4415-a92b-15ee3e3da451> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3f523001-4a40-4ae6-9251-24f23a894e3f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58bcfce8-a2cc-41f7-b7dd-009cd9dcf424> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3b843653-3040-4f10-89c1-94dc40da27ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35a7ddd0-ef4c-49c0-9932-554a2a8becaf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed91296f-ae6a-49bf-9bbb-4ef57bb8a567> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e096a69-ff4d-4c18-9ced-f48e65ec5ccd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/757a5ecd-a402-41be-9992-91b99d0c01a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/809481c9-27ee-412d-b902-66659bbc7936> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df2e8527-6dc0-4c42-afe4-2f8fa7e56a66> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7da47cf-e37e-4c3b-8207-0ad53f5e9d85> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d963069-c847-41c7-b3af-82563987e9d6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d42b9e2-9cf6-4ce8-b627-ad5556b726c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/325930f2-0ece-490e-b3f6-b268d771c980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79d660ef-dd32-4c5c-b2aa-a9d736cd2396> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/553a7085-6688-4462-8731-b196ce922247> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/beee740d-812b-42be-9593-0fcc28a3eb75> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e14a8c70-b4c3-43f1-b4fe-42f93c722289> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f50f9dd1-16f7-4fd6-9534-d19c0de4367c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bfb501e-1e89-4d28-baee-b2e54660f939> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46fe768c-7b38-4147-9f02-815b9f0759e2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecfa6746-7bc4-4088-ace6-d209477bd63f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5e756b7-9b9b-43b2-9621-1ff8a3e35d46> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ea92027a-c49f-436a-a1cd-302e2cb4980b> ;
+        pm:hasTitle       "Bohemian Rhapsody" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7fed8d5d-ddf8-4fb8-a363-dd1d7807e2a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c8c1ee3-0c88-42d2-908c-47748c702136> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/248c35de-6976-4e11-8330-ec6830775a0d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/48d012fa-3ae1-48a4-8879-c02a66eec2f0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1fe90765-96b2-3c48-9ee1-9dca780430f7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/33187d2c-dece-4ce1-819c-4aa30f981b41> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8998a9b0-2c5f-4afb-9194-62e2aa4c52e4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8bdb4eb8-bacf-4b2a-a34d-d0972d7b9780> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/660e678b-f1e3-4136-a471-965cd8496bb0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a3b06939-122f-4e99-a6d8-9f9a8e5e89c9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4b4c2399-09ec-4e5b-b255-e956fe83f788> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/addabf4c-cc29-45fc-b8a0-9f7e22cc3321> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/47ea1dd5-b00b-4d0a-a78d-02893ddc15d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a404ddc8-6511-4255-814a-da58d9a7bb86> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/086219e4-a784-44d6-b384-87f42a929ef3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f0e0b95a-ab74-4cb7-9209-52a272586581> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6ad62ac0-62dd-4504-9a5d-bc9eabe89ca3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b447f1d4-d313-461a-a166-12717e26ed3d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ec8b7b38-06ad-3116-a6c9-3ca97555dda8> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/71e25609-33f3-4c22-b341-708f74a943e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df2e8527-6dc0-4c42-afe4-2f8fa7e56a66>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "345266" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1190506-3fc2-4611-9e72-c4146927a8ad>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "326000" ;
+        pm:hasTitle   "Queen - Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e512715-3fad-45e4-beab-e137ce3ff881>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "362000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/584100aa-0dd8-4cac-96a4-ca8d4cbcfe23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "358000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4f9e4897-613d-4f94-b146-15dfe2214ad6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2011-06" ;
+        pm:hasLength          "395653" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a858e0f-ec89-45f4-a433-919e7d30c766>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "306324" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a7aa79d8-e8d4-47af-81b5-c001a1f242aa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "365000" ;
+        pm:hasTitle   "Bohemaina Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d051f6d-ab01-4693-b5e4-71d9fe77720d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "245000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35a91a43-a1f7-4068-ad03-e0569a0b372f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-12: Wembley Stadium, London, UK" ;
+        pm:hasLength          "350573" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ab0c5d37-ee99-4cc5-a9b6-13556cf08f72>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-11-26: Free Trade Hall, Manchester, UK: Evening Show" ;
+        pm:hasLength          "174000" ;
+        pm:hasTitle           "[A Night at the Opera] / Bohemian Rhapsody (intro)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ba1a698b-347c-48e8-bdb4-eb5d37df54e7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-05-12" ;
+        pm:hasLength          "318720" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/390380ae-2963-4974-8a26-3bc569ac8a2f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1984-09-24: Deutchlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c1ab8e9-6f2b-47f0-8fc5-05c612de8c5b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-04: Metro Radio Arena, Newcastle upon Tyne, Tyne and Wear, England, United Kingdom" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/43fe7177-dd9d-4f7a-bbd2-6a3cca841b7c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1995-01-31: Ronnie's Jazz Club, London, UK" ;
+        pm:hasLength          "634000" ;
+        pm:hasTitle           "The Big Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8842b89-faa8-495d-900c-9359fab2d372>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan" ;
+        pm:hasLength          "323000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7faf83f-9cb3-4de4-a39f-1c1f98b8d81a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "225600" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/553a7085-6688-4462-8731-b196ce922247>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "86773" ;
+        pm:hasTitle   "Bohemian Rhapsody’ (extract)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/55321af3-863a-41ca-ac54-873b6e83bd78>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom" ;
+        pm:hasLength          "378173" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/14c92f6d-c2cb-4377-bbf8-4589cba94742>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-04-05: HP Pavilion, San Jose, California, United States" ;
+        pm:hasLength          "470961" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3d7ed3b-05ab-4fd2-b70c-4068e5c3e1ba>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f8b6e475-2a53-4f83-884f-5d8c3ea97fa5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-29: Yokohama Arena, Shin-Yokohama, Yokohama, Kanagawa, Japan" ;
+        pm:hasLength          "516000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29990dd8-1f27-4373-aed4-0f1f3252a3b9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "386000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/735286bd-27d7-4796-840d-73a2eb6c500a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215693" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8643731a-644d-425c-a655-80cf3e98ebd3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "357000" ;
+        pm:hasTitle   "Bohemian Rhapsody (no flames version, 1975)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36e49fcc-9a93-40a1-a9d9-1a737347a7ed>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-07: Sydney Entertainment Centre, Sydney, Australia" ;
+        pm:hasLength          "351320" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/553e60f9-b044-4760-b4ee-efe475d74165>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "274000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f1f00e8-30fe-4686-9eef-1f4ffa7110dd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-12-24: Hammersmith Odeon, London, UK" ;
+        pm:hasLength          "148000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e052a3f-4149-46d9-8fff-1da298f0ac40>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-26: Hammersmith Odeon, London, England, UK" ;
+        pm:hasLength          "333133" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d20f3dc3-0687-4832-a918-fbd2af7276a0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-01-30: Boston Music Hall, Boston, MA, USA" ;
+        pm:hasLength          "182000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eb88ef4d-5718-4363-a7fb-7c4d95cc07ef>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "147840" ;
+        pm:hasTitle   "Bohemian Rhapsody (Live Aid)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/15c97127-cb19-4881-a818-406fc0125431>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992‐01‐17: Vooruit, Ghent, Belgium" ;
+        pm:hasTitle           "Bohemian Rhapsody (tease)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/69fd909a-3141-4ef9-8ebe-28aa688efd58>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c69a4f0e-a40e-4b7b-aaf6-1462d6f7a782>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasLength          "345000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cf87954-1402-45f0-bbcf-e957eb332da7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-11-26: Free Trade Hall, Manchester, UK: Evening Show" ;
+        pm:hasLength          "157000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/33187d2c-dece-4ce1-819c-4aa30f981b41>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Star Trek Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/04a131ca-30bf-4041-81cb-c8d721fa64e6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Freddie Mercury Tribute Concert, Wembley Stadium, London, UK" ;
+        pm:hasLength          "261000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a872b382-cf59-43d6-8ae4-820b540236a1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "517813" ;
+        pm:hasTitle   "Queen Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8998a9b0-2c5f-4afb-9194-62e2aa4c52e4>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "We Need to Talk About Kanye" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01d2788d-862f-4d00-aa1e-f326a0d353a6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003-11-29: Green Point Stadium, Cape Town, South Africa" ;
+        pm:hasLength          "139000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4aa7950b-0279-460a-b21c-54f93856504f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "274000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58bcfce8-a2cc-41f7-b7dd-009cd9dcf424>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "370000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1600de2a-8e4e-42af-ace7-bf120a213b9a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Freddie Mercury" ;
+        pm:hasRole       "composer" , "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6ad62ac0-62dd-4504-9a5d-bc9eabe89ca3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "gsw" ;
+        pm:hasTitle     "Boehmische Rapsfelder" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63a1a110-0bfb-4560-9a5a-bd8fa917f98d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d513d229-f4f5-44dc-94e9-adc396ccb01b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-04-14: Hückeswagen, Germany" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b9e3eb37-6335-4adf-8550-bdf7f84385e8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "343000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bcc7bc30-dfe3-4178-bda4-ac40e674c470>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-26: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "350000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c128e4a-362e-4e9d-80c2-6fe22f9bfa77>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "344000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af85633e-1958-4be8-8def-6a264755892f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "325000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8b950f4-3cec-473b-88de-f635224eccfe>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-09-18: Hyde Park, London, England, UK" ;
+        pm:hasLength          "71266" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ee657a40-90c7-4a0f-a3f1-9b7e3cbc0b22>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172133" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e44632b9-2d39-45e4-aab1-1bebeddc5c8c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "329533" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0a44abe4-d1d6-4506-a6a4-d5e971677608>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "391000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adbab46f-fdfa-4784-b34a-fe7771af1d24>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977: USA" ;
+        pm:hasLength          "314506" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/086219e4-a784-44d6-b384-87f42a929ef3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Nintendohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3480e7a5-d611-477d-b220-081264b81384>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71e719e6-f854-474a-9b0e-deacf78cabe8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "295480" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4cbae714-9e3a-4793-9b1d-10c92b637c20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "305000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/075d97ca-a67a-4c62-8a03-77268b6e7958>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-07-02: Estádio do Restelo, Lisbon, Lisboa, Portugal" ;
+        pm:hasLength          "353000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1fbd3c0c-ab1a-46bc-a060-de051e517059>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "357493" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20b5c429-975e-4ee5-950a-e0830efcfde7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-01-12: Rock in Rio Festival, Rio de Janeiro, Brazil" ;
+        pm:hasLength          "317893" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e1cb5b29-8a4c-46e0-b754-25e780a8a29e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: Tokyo, Japan" ;
+        pm:hasLength          "345000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40041b26-3edd-4ccc-aab4-32502638f145>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "320173" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/01058179-a28f-4e0d-96be-0678e3d5e053>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bed85ed3-9faa-4e96-b7fe-4e5af30d3b63>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "356000" ;
+        pm:hasTitle   "ボヘミアン・ラプソディ" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eff1168c-9037-45d3-abf6-5024ed62b0ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "352000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1eb3397-dbdf-409a-9edc-7c8c012a4f1a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e096a69-ff4d-4c18-9ced-f48e65ec5ccd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "364000" ;
+        pm:hasTitle   "toad sings bohemian rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35d00621-ff11-4e96-b00a-9eaa997900e1>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-27: Népstadion, Budapest, Hungary" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6b05179-f2f6-4e92-ac03-e6ea06686f47>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "375733" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/569d53df-94d6-4451-aa78-251b62429c77>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada" ;
+        pm:hasLength          "373761" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/adab1d79-7cde-411c-8020-a39162940832>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "296000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aeb533ac-8db8-4463-b82a-158e78d4363c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "370400" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/714cb90d-b0b6-4bc5-b912-a78ef11595ed>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, UK" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a74056b4-d618-444f-91f5-ea2f4692a0c6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "375800" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5119b360-2055-4f97-a795-f633df01031e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-07: Sydney Entertainment Centre, Sydney, Australia" ;
+        pm:hasLength          "353000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/928fbe73-f32f-4b35-9299-8379d61f538c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35ba1f67-eb17-4015-b326-e260181f3647>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "335747" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dcd87fa4-8645-46d1-af65-ab73f74d3267>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "651706" ;
+        pm:hasTitle   "Queen Medley: Bohemian Rhapsody / We Are the Champions / Radio Ga Ga" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6fd614d1-000c-44c0-b06a-5bc53fc08c59>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody (piano version, original master)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed91296f-ae6a-49bf-9bbb-4ef57bb8a567>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "319000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e3074d6-7f7a-4fde-aca5-192bc37da6d1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145333" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3bfb501e-1e89-4d28-baee-b2e54660f939>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/56b4a638-d1eb-4453-b2dd-6e3507088865>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/71e25609-33f3-4c22-b341-708f74a943e0>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "B. Feldman & Co. Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0b50254-fafc-4f49-a56e-8961ad56aa09>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA" ;
+        pm:hasLength          "317774" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/213ea6d2-4446-4d6c-825c-8b30b3f17475>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "334666" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d2c4ef7-c6d0-4e74-ace6-d9a77f486333>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187866" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9e372dde-4e42-43c9-b3e6-bd962e98ffb0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "397960" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6c664ae-6634-46dd-a0d0-17dfad8c6b2b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Wembley Stadium, London, UK" ;
+        pm:hasLength          "365000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/be1f2453-0c85-4d27-a4bc-9955cf755009>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-27: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "354000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11e23fd2-c841-460d-85ec-1e9970de8812>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "269520" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/235da881-b2d1-41bb-8f0a-60bbfb45301d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "351000" ;
+        pm:hasTitle   "ボヘミアン・ラプソディ" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/b447f1d4-d313-461a-a166-12717e26ed3d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Mama" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4d8e049e-cf87-4687-b8de-987206c8918f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "356880" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35a7ddd0-ef4c-49c0-9932-554a2a8becaf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-09-18: Hyde Park, London, England, UK" ;
+        pm:hasLength          "54960" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1922c8a9-abc0-4116-b459-39bfdbf0b414>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "249000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/11aaabc7-19b6-43e2-a56f-6c607c0e9a32>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "352000" ;
+        pm:hasTitle   "Bohemian Rhapsody (O.G. mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/addabf4c-cc29-45fc-b8a0-9f7e22cc3321>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "zxx" ;
+        pm:hasTitle     "Bohemian Rhapsody (Philharmonix version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/29ec34a9-a379-4beb-9fc7-6ec47f11faa0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "284000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52b9c425-05f9-4591-8e63-46e409f81999>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "368000" ;
+        pm:hasTitle   "Bomehing Rapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/76463fca-2d8a-41fe-9e2c-8a2ff8d47da7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-12: Freedom Square, Kharkiv, Kharkivs'ka Oblast', Ukraine" ;
+        pm:hasLength          "353906" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/36bddcb5-c8fe-48a1-9d02-6a64f60ea518>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ea92027a-c49f-436a-a1cd-302e2cb4980b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "333200" ;
+        pm:hasTitle   "Bohemian Rhapsodie" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/87ab591c-da39-4a6a-82df-87a80cd8f618>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180666" ;
+        pm:hasTitle   "Ария Василисы Прекрасной" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f71e2285-d3a6-499d-9916-f460e09ce20d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "255000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e53edec4-4e56-4543-8737-2a25be46ba2d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "354000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e4cb497f-b0fe-42ca-94d6-4f6365518569>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "354480" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a61df344-fe12-456c-b91a-0b57b8aaf877>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-01-30: Boston Music Hall, Boston, MA, USA" ;
+        pm:hasLength          "60000" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d03e2f99-0248-4cc2-ace4-3e0abbcbf386>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "216093" ;
+        pm:hasTitle   "Anniversary Medley Part 1" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c5e6e29-a48c-4050-a0f8-898e0a92ef0b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-07-13: Wembley Stadium, London, UK" ;
+        pm:hasLength          "167000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8ba90dd-e57b-4bd6-b815-4c47b9edb586>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "236000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3794eaa3-8798-4a50-994c-1f31d78528fd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "274280" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d86101b4-fd5c-433b-be1d-3605d7bfeb73>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "364000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7dcd11f1-2b27-41cb-92f7-ea93baaacad3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "305000" ;
+        pm:hasTitle   "Forever Queen (抢鲜版Live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b89a54ce-f612-44b3-8e6b-007f02b1932d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "348093" ;
+        pm:hasTitle   "Bohemian Rapshody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/89cebefd-57a1-4c7c-89de-2e2a9e676f64>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "374000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/637fba3a-52e7-4eb3-9045-4f0253c96000>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "131986" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d42b9e2-9cf6-4ce8-b627-ad5556b726c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "317893" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4e42abf9-95f8-4493-9bbe-3f3930ea711a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "356000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fe3bbbe2-bcb7-474d-a6b8-e655bb15e8c3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136000" ;
+        pm:hasTitle   "Bohemian Rapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/62826904-80d2-48a3-9dd5-406e7eb9b1bc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99ca3bad-921c-47c6-8080-7e1248b882d6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-02-06: Beacon Theater, New York City, NY, USA" ;
+        pm:hasLength          "54000" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f0f4185e-022e-43ef-a9a3-a886ec2e5294>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "355733" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6f5428f0-6ea0-42ee-803b-c42d30877073>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "239786" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/512749b9-14f1-44a8-a782-d86dfa28bdaa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "405000" ;
+        pm:hasTitle   "Böhmische Rhapsodie" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/30db48ed-437a-4462-a9e0-933ae18c0b42>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-06-06: Earl's Court, London, UK" ;
+        pm:hasLength          "325000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/edd0daad-d06a-411e-8670-d4a8f2253504>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2005 Köln cast" ;
+        pm:hasLength          "349000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fb6e7177-ffb3-4394-996a-6aaa15144693>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "359000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/96712136-fb53-4ef0-8fcb-75e2599ca5e7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "314466" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e45ef6c-1920-4949-b8fb-2347e1b33c0d>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ac4b391-74db-4954-b791-7a3295a6f158>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "366226" ;
+        pm:hasTitle   "Bohemian Rhapsody - (live version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9999804c-4c9e-4d9d-8d87-4c3b404f3773>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "370000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/571ab5d4-2329-4356-a910-f161310f7b9d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1984-09-15: Sports Palace, Milan, Italy" ;
+        pm:hasLength          "355293" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/16e39870-30ba-4229-93c8-1bb53c26b081>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "339000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/4b4c2399-09ec-4e5b-b255-e956fe83f788>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Big Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02763d66-8078-418a-804e-7ed84b7a4a8c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK" ;
+        pm:hasLength          "337258" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b3d2d4ae-8477-48f4-ad69-50922d3ee742>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6a9150d3-0744-46c0-b3cb-bb3148e09e53>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "366000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7274240d-0e70-40a1-99aa-940dd4e2abcb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "220000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5e756b7-9b9b-43b2-9621-1ff8a3e35d46>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157786" ;
+        pm:hasTitle   "Bohemian Rhapsody (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/85ab739d-c4f1-4180-9c50-113408439096>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: 国立代々木競技場, Jinnan, Shibuya, Tokyo, Japan" ;
+        pm:hasLength          "344840" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Don’t Stop Them Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ca78c946-7258-452a-ad3d-deab4524c178>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-04-16: Hallenstadion, Zürich, Switzerland" ;
+        pm:hasLength          "362000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0617f745-4c6e-4a0e-b6b5-7ce85f26a6bf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "recorded live at the Hammersmith Odeon 24th December 1975" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a861902-3851-4df4-b05f-e3091e624334>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "339000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c8ff6c7d-de4d-4772-ab8a-d2797aa89227>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Wembley Stadium, London, UK" ;
+        pm:hasLength          "328333" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c9ccabe3-c770-4cda-bdc1-f5abc05dcf7a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-21: Estadio Velez Sarsfield, Buenos Aires, Argentina" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6fe0719-4d37-492a-8cda-815d0b637de5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "331000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79d660ef-dd32-4c5c-b2aa-a9d736cd2396>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "325000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7d7e65e6-ba4e-4239-8f02-e7e2d6316ee2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "318000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a3b06939-122f-4e99-a6d8-9f9a8e5e89c9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Midichlorian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a404ddc8-6511-4255-814a-da58d9a7bb86>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "spa" ;
+        pm:hasTitle     "Rap-soda y bohemia" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c8c1ee3-0c88-42d2-908c-47748c702136>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3263ba2f-bf33-4129-b6d7-53f437269323>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/23727474-eb8a-480a-b3d7-3dcd4a9e69c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "518000" ;
+        pm:hasTitle   "Bohemian Rhapsody / Credits" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbfccc46-99a6-4fdb-bded-6e1764fd1e9c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "372000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b250ef39-37d1-4a91-8c17-3f33c7c6d16e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "333000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d963069-c847-41c7-b3af-82563987e9d6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "304613" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6b3caaa5-d433-4342-9fa5-bdcb779ce251>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "142000" ;
+        pm:hasTitle   "Bohemian Rapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2372681e-4d45-4b7e-87de-eb73b38b828a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Wembley Stadium, London, UK" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d0af494-3735-4fac-a10e-d503d62b3f71>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "356000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e81ede4f-be73-4007-95e8-7bb38c7e3c0d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK" ;
+        pm:hasLength          "338200" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c186a5a7-090c-42e7-8091-ba533ed93b1b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdb01e2a-8dfe-4f66-91f5-4eb0d1aac885>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada" ;
+        pm:hasLength          "328933" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09371be4-0254-4e0b-9df5-7637fe4a87ea>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "62000" ;
+        pm:hasTitle   "Bohemian Rhapsody (Conclusion)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d33be05-5fd1-4e84-a333-e5ca249365fd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-08: Wembley Arena, Wembley, Brent, London, England, United Kingdom" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/325930f2-0ece-490e-b3f6-b268d771c980>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "366000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f3f3c377-e9b6-4d25-b06a-2ea5cfa28d93>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "263373" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f5ddce71-9b83-475c-932f-52ea95485406>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "227000" ;
+        pm:hasTitle   "(I Want to Ride My) Bicycle / Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/545590aa-f6fe-4180-a447-e64d27ed55e5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985: Japan" ;
+        pm:hasLength          "320000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a9c0e9-d987-4042-ae91-78d6a3267d69>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "355106" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f18cff8b-9b30-4417-abb1-79e2079d2343>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "283000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17dd69e9-be50-4935-88c8-5dbd07177c9d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "342000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/34aa7d34-76ae-4011-96fd-49f1a1aae814>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "229826" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86f21f1e-7b78-41ba-b2ae-5ce8ea394cce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "222853" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d1895a97-4735-481d-8a18-b9ef428ebb0b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "325000" ;
+        pm:hasTitle   "Bohemian Rhapsody (‘Party at the Palace’ live at Buckingham Palace, 2002)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da18afed-919c-4daf-9b19-985288f8101e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de3b0879-2f20-4f5f-abee-68c5cd8075df>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-03-13: Seattle Center Arena, Seattle, Washington, United States" ;
+        pm:hasLength          "314000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01a72bf8-ef87-423e-95d4-dcbf9a30d357>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "352000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b853f29e-d56d-4232-8216-5b1b685e164e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "364000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Queen Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/46fe768c-7b38-4147-9f02-815b9f0759e2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Wembley Stadium, London, UK" ;
+        pm:hasLength          "130400" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c4dc77e-63f4-4de4-af20-608bbbb1907b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-12-24: Hammersmith Odeon, London, UK" ;
+        pm:hasLength          "62000" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cb830f3b-b9c4-4f31-9990-481e90459b9e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, England, UK" ;
+        pm:hasLength          "398333" ;
+        pm:hasTitle           "Baby I Don’t Care / Hello Mary Lou / Tutti Frutti" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b299aed6-043d-43ea-b042-65f131cf2f0f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "361000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/beee740d-812b-42be-9593-0fcc28a3eb75>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "247000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c740a97b-cc02-4115-8502-4489a7da766f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "212000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af9ff516-6e19-4245-b900-f1a2a6e134c1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "378106" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b41f4846-5550-46de-84a0-ed4790f68bfe>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "325000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b2764ed-b345-4d75-a84f-9d083ac0fbfd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "373000" ;
+        pm:hasTitle   "Bohemian Rapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a8292f88-b199-40a4-98a4-edf357a35a0a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79e6c130-6e1b-4bf9-b395-aaebf753bae3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982/1986: Hallenstadion, Zürich, Switzerland" ;
+        pm:hasLength          "304826" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/75cccbc9-a7f7-48d8-8182-76e939603432>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2002 original London cast" ;
+        pm:hasLength          "353000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8357324-3132-4640-8ac0-5fb817fdb07b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "382000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2fc63cda-c527-464c-95f0-9e5eedc23fda>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b90ea698-3a95-4cf6-a24b-72529621ffff>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "338873" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3b843653-3040-4f10-89c1-94dc40da27ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "323000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/788d24f1-5c58-421f-9272-b5028ad5ec38>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "352000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57a4c6dd-a927-40cf-96b7-e58d4ad65658>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "375520" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d33d5e4-4a5d-4fff-ac8a-dcf44c6e7d40>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version" ;
+        pm:hasLength          "358133" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7fe1c971-a272-42f0-9a59-247e1b471298>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "377000" ;
+        pm:hasTitle   "Nocturne / Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4572c539-07be-4398-ade4-ac443c3883f1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "64000" ;
+        pm:hasTitle   "Bohemian Rhapsody (operatic section a cappella mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6be2a10f-0c4a-4213-96b2-220c36c023fb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "397000" ;
+        pm:hasTitle   "Bohemian Rhapsody (5.1 mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/757a5ecd-a402-41be-9992-91b99d0c01a0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "360000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/248c35de-6976-4e11-8330-ec6830775a0d>
+        rdf:type     pm:Version ;
+        pm:hasTitle  "The Queen Symphony: VI. Andante sostenuto" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b6f8a822-0555-4836-91e9-c20c9a52ccfa>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cc7867d1-34a5-4bdd-a9b5-faff27ce77fb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-08-09: Knebworth Park, Stevenage, England, UK" ;
+        pm:hasLength          "280893" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a5728e8d-384e-4804-9b41-deca56ba420f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-12-12: Walter-Köbel-Sporthalle, Rüsselsheim, Germany" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1840d0b7-a64a-4cbf-85d2-4fef02bbfe25>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "332506" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21aca48d-995f-4e13-96db-32b80d37351e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "329773" ;
+        pm:hasTitle   "Bohemian Rhapsody (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b13bb99b-7e22-46b1-ab93-746dca6329b5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "369626" ;
+        pm:hasTitle   "Bohemian Rhapsody (Graham Stack & Brian Rawling mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65c5819d-dba7-48f3-8006-194c63018cb0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "303000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/95f61867-32d6-486b-a8e7-b35fa0eacfe6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "240560" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c085aa8-4c2b-473e-9bf9-aa71a9c40c79>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/40e37f04-6fdd-459d-8c31-6f5cd0a197cf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-01-24: Deutschlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acef58d0-d72f-4809-b8e0-c6f042480e17>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1986-07-11: Wembley Stadium, London, England" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6649a07e-d8e5-4ff3-a718-9f6dcb5f36a8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "385000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e5a3b5e-1480-4526-9f86-048fc12390dd>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/72d1be2a-6d86-4546-ae20-3e9f6953ee1d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "404000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e63eb666-cfac-4112-9bac-2b3c544695fd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-06-06: Royal Albert Hall, Kensington Gore, London SW7 2AP, UK" ;
+        pm:hasLength          "468000" ;
+        pm:hasTitle           "Bohemian Rhapsody / Credits" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f1248820-11bf-4c35-8b70-0660b05325e5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan" ;
+        pm:hasLength          "338333" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0eddb3a3-952b-407c-81cc-0220bc6fdbf3>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f0e0b95a-ab74-4cb7-9209-52a272586581>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "zxx" ;
+        pm:hasTitle     "Hibernian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3eea5cf7-feba-49bc-be94-1b155dbcb165>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "363106" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/22090fb2-e4cd-4426-8606-e8ad09f89344>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "386000" ;
+        pm:hasTitle   "Bohemian Rhapsody (SONOIO rework)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/660e678b-f1e3-4136-a471-965cd8496bb0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01546b93-8ba0-4934-88ed-872096d7f607>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "394760" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4803b45-0644-453f-aa1b-c762dc2f6941>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "130306" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/193e9737-307a-4343-968a-e3428c946ade>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1985-07-13: Wembley Stadium, London, England, UK" ;
+        pm:hasLength          "390121" ;
+        pm:hasTitle           "Bohemian Rhapsody / Radio Ga Ga" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/901aa230-e85e-4305-b922-d78a9d62643f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-12-24: Hammersmith Odeon, London, UK" ;
+        pm:hasLength          "426000" ;
+        pm:hasTitle           "Medley: Bohemian Rhapsody / Killer Queen / The March of Black Queen" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/47ea1dd5-b00b-4d0a-a78d-02893ddc15d0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Real Life" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8bdb4eb8-bacf-4b2a-a34d-d0972d7b9780>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Bohemian Polka" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8fb3ab1e-5500-4059-8548-23ee6b7e53e7>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1975-11-26: Free Trade Hall, Manchester, UK: Evening Show" ;
+        pm:hasLength          "67000" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "526000" ;
+        pm:hasTitle   "Queen Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecfa6746-7bc4-4088-ace6-d209477bd63f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-09-18: Hyde Park, London, England, UK" ;
+        pm:hasLength          "135266" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7fed8d5d-ddf8-4fb8-a363-dd1d7807e2a4>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Bethlehemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53d2af70-7a1f-4545-9e6e-dde2a6ff43de>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "461000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68287fb4-d7be-4b4f-8f7f-aa7403da810d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "357626" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df3543df-dd02-4415-a92b-15ee3e3da451>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2001 5.1 mix" ;
+        pm:hasLength          "356000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ed7e52c0-5871-4b04-99a9-890fd130c375>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2003-11-29: Green Point Stadium, Cape Town, South Africa" ;
+        pm:hasLength          "504160" ;
+        pm:hasTitle           "Medley: Bohemian Rhapsody / I Want It All / I Want to Break Free / Radio Ga Ga" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9af48069-cdd5-42a7-9009-a0565ae069c5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "362881" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6de5e6f4-6b4e-4e44-ba8c-f7efe352e081>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "330743" ;
+        pm:hasTitle   "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2c62a7a-d8b1-46e8-a9d0-282afae12413>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "recorded live at the Hammersmith Odeon 24th December 1975" ;
+        pm:hasTitle           "Bohemian Rhapsody (reprise)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f35affce-3982-40f9-9327-c2ec0a0829cd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1992-04-20: Wembley Stadium, London, UK" ;
+        pm:hasLength          "378000" ;
+        pm:hasTitle           "Bohemian Rhapsody" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f172ddbe-6a07-47e5-8b97-a5ebbaa5578e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184000" ;
+        pm:hasTitle   "Bohemian Rhapsody (rare vinyl version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/18e00452-9d76-4d46-837a-00c5bce8ca84>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "331000" ;
+        pm:hasTitle   "Bohemian Rhapsody" .

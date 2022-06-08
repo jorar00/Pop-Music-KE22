@@ -1,0 +1,649 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q839848>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Friend Medley" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/006759c6-4a2d-47f2-8dae-a600dbead3bc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ad17c6de-c38b-44d0-88f6-01dfdfdd698d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2a19c0cf-6a7f-4225-bf60-744dd3fe9eda>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "Best Friend" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aaae5fe8-8b01-40a5-8504-6cace54661d3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170920" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/773fe6db-0c37-4e55-b08d-cceec71f14bb>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You're My Best Friend" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2eb6d64c-214e-4778-afca-24bc72d27639>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b2ccb44-1ddb-4462-aa4e-d8b228096445>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151280" ;
+        pm:hasTitle   "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c7304e7-e992-486c-ab3b-7844593bca99>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/918b9476-fb67-4744-856a-18040ef4fab5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/471dc436-80be-4f06-bc8f-7e2685876cfc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (Hollywood remix)" , "Best Friend" , "You’re My Best Friend (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/82958d18-c270-4bba-8c4b-01de94e0185a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "Best Friend" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (with commentary)" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8a862086-ff92-4e35-9eb8-a4c9ec5b3c16>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b45749b-b4fc-4d28-899f-113a94ecc83b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "You're My Best Friend" , "Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7c3306e5-3414-414d-8746-4744a9e4f87a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "Best Friend" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f991f883-1294-4111-aa4e-70e0c2933580>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "161000" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "Best Friend" , "You're My Best Friend" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8aa09a1f-abde-4fe1-b053-4b1c2cd482a0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (with commentary)" , "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/471dc436-80be-4f06-bc8f-7e2685876cfc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c7304e7-e992-486c-ab3b-7844593bca99>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128060" ;
+        pm:hasTitle   "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a862086-ff92-4e35-9eb8-a4c9ec5b3c16>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "489200" ;
+        pm:hasTitle   "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce5be117-ddb1-4a9c-8741-925f1a741e3a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178093" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dc1f7f88-fa92-4ae4-b722-fba96876b726>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c3306e5-3414-414d-8746-4744a9e4f87a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215800" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8aa09a1f-abde-4fe1-b053-4b1c2cd482a0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187986" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c38d56e-3cb0-48b6-a9f0-125dde5d4983>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/2b563c5e-3eed-3405-949d-065c58191284>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce5be117-ddb1-4a9c-8741-925f1a741e3a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f22552a-53c8-49f5-a63f-65e89ddd192c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1014e8ba-1183-4172-85f0-b7d95f0ea586> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acef2727-6aad-48ce-b6e1-64da654838be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f991f883-1294-4111-aa4e-70e0c2933580> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b34778-2b6a-4bce-9ca2-e3d368208b94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a19c0cf-6a7f-4225-bf60-744dd3fe9eda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de270d45-31d8-4b08-af15-c6d3833a6d70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70f9fe6e-0133-4113-8f20-9814245a1c46> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e378738-9e39-4e51-a1dd-df9a467b46f3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ad17c6de-c38b-44d0-88f6-01dfdfdd698d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0331a941-e8de-4576-b348-d70667988057> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c643510-efe7-436b-8b52-7d28ec568466> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ad34b4-13b9-4ade-a9bd-2c4cdc46d722> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e32de60-c365-49b7-87a8-e2b6868298c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c38d56e-3cb0-48b6-a9f0-125dde5d4983> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c3306e5-3414-414d-8746-4744a9e4f87a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52eaf6b3-6c03-4f06-abcb-bff9ebce5541> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d892405-b309-4ad1-ab1d-c31790a4f9a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8aa09a1f-abde-4fe1-b053-4b1c2cd482a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6c7304e7-e992-486c-ab3b-7844593bca99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/471dc436-80be-4f06-bc8f-7e2685876cfc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbee0fac-9476-4d02-976c-b6dc4f4d00be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dddd0e84-e121-4e43-8e8b-c0435b9def71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/006759c6-4a2d-47f2-8dae-a600dbead3bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79143e84-fb21-4031-b79b-9e8c0e265561> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17ed2c69-9ac8-4542-bdbe-34a4ff3187e9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59278d09-c70f-4041-a62b-764909503dfc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06671ed0-3b03-4d62-a10c-f4b126a05eae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0af0b31c-6d54-46bc-ab5b-95ffd47acd61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09845059-3e25-43b1-8e3b-fc9a2d122ffe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db14b829-4e5a-4357-9072-61beab10ff0a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc1f7f88-fa92-4ae4-b722-fba96876b726> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f9d5797-e821-4680-a2ec-b9934cf3e08d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7cdd160-1510-46d8-a468-03723b8d8810> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8a862086-ff92-4e35-9eb8-a4c9ec5b3c16> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/918b9476-fb67-4744-856a-18040ef4fab5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1851e3bf-1c45-4a5e-867c-5cfa56c61ecb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1b45749b-b4fc-4d28-899f-113a94ecc83b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6b5ec94-8807-456a-a5a4-6d74e89fe648> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/122b4916-a8b1-42e6-8861-d7faee37cfdc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/773fe6db-0c37-4e55-b08d-cceec71f14bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/868d7717-d5a2-4e74-9436-0129cd078e45> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b2ccb44-1ddb-4462-aa4e-d8b228096445> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dde9e222-5a30-4655-b880-43306a551ec9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a9781a5-637c-405b-8a2c-ebe296d37350> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82958d18-c270-4bba-8c4b-01de94e0185a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/daf5773e-309b-41d2-b075-49a16d3e5cf2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cf7e423-e1a9-4aa4-8f2e-6823fd740994> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aaae5fe8-8b01-40a5-8504-6cace54661d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2eb6d64c-214e-4778-afca-24bc72d27639> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/449574f0-2d54-4a98-9afa-cd98fa2d054f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6ef8928b-d978-4723-87af-a227d8e64139> ;
+        pm:hasTitle       "You’re My Best Friend" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0af0b31c-6d54-46bc-ab5b-95ffd47acd61> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6c7304e7-e992-486c-ab3b-7844593bca99> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5f9d5797-e821-4680-a2ec-b9934cf3e08d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5d892405-b309-4ad1-ab1d-c31790a4f9a5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ad17c6de-c38b-44d0-88f6-01dfdfdd698d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1851e3bf-1c45-4a5e-867c-5cfa56c61ecb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8b2ccb44-1ddb-4462-aa4e-d8b228096445> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dc1f7f88-fa92-4ae4-b722-fba96876b726> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1a9781a5-637c-405b-8a2c-ebe296d37350> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/09845059-3e25-43b1-8e3b-fc9a2d122ffe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6ef8928b-d978-4723-87af-a227d8e64139> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/db14b829-4e5a-4357-9072-61beab10ff0a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2a19c0cf-6a7f-4225-bf60-744dd3fe9eda> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/aaae5fe8-8b01-40a5-8504-6cace54661d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7c3306e5-3414-414d-8746-4744a9e4f87a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0a815e3e-c710-4d60-a1af-4935b72ffb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0331a941-e8de-4576-b348-d70667988057> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e6b5ec94-8807-456a-a5a4-6d74e89fe648> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/71e25609-33f3-4c22-b341-708f74a943e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/97ef6a28-dfed-4eda-bd24-17a45c792d29> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7e32de60-c365-49b7-87a8-e2b6868298c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/006759c6-4a2d-47f2-8dae-a600dbead3bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ce5be117-ddb1-4a9c-8741-925f1a741e3a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8c643510-efe7-436b-8b52-7d28ec568466> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/82958d18-c270-4bba-8c4b-01de94e0185a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cbee0fac-9476-4d02-976c-b6dc4f4d00be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/773fe6db-0c37-4e55-b08d-cceec71f14bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/79143e84-fb21-4031-b79b-9e8c0e265561> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5c38d56e-3cb0-48b6-a9f0-125dde5d4983> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/25ad34b4-13b9-4ade-a9bd-2c4cdc46d722> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/70f9fe6e-0133-4113-8f20-9814245a1c46> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/8439> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/52eaf6b3-6c03-4f06-abcb-bff9ebce5541> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/daf5773e-309b-41d2-b075-49a16d3e5cf2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8f22552a-53c8-49f5-a63f-65e89ddd192c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2eb6d64c-214e-4778-afca-24bc72d27639> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59278d09-c70f-4041-a62b-764909503dfc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5e378738-9e39-4e51-a1dd-df9a467b46f3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/17ed2c69-9ac8-4542-bdbe-34a4ff3187e9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/918b9476-fb67-4744-856a-18040ef4fab5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1014e8ba-1183-4172-85f0-b7d95f0ea586> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f991f883-1294-4111-aa4e-70e0c2933580> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8a862086-ff92-4e35-9eb8-a4c9ec5b3c16> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/06671ed0-3b03-4d62-a10c-f4b126a05eae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dde9e222-5a30-4655-b880-43306a551ec9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b45749b-b4fc-4d28-899f-113a94ecc83b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dddd0e84-e121-4e43-8e8b-c0435b9def71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e2b34778-2b6a-4bce-9ca2-e3d368208b94> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/449574f0-2d54-4a98-9afa-cd98fa2d054f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e7cdd160-1510-46d8-a468-03723b8d8810> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/acef2727-6aad-48ce-b6e1-64da654838be> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/122b4916-a8b1-42e6-8861-d7faee37cfdc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/868d7717-d5a2-4e74-9436-0129cd078e45> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/471dc436-80be-4f06-bc8f-7e2685876cfc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8aa09a1f-abde-4fe1-b053-4b1c2cd482a0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://www.wikidata.org/wiki/Q839848> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/de270d45-31d8-4b08-af15-c6d3833a6d70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6cf7e423-e1a9-4aa4-8f2e-6823fd740994> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/71e25609-33f3-4c22-b341-708f74a943e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/449574f0-2d54-4a98-9afa-cd98fa2d054f>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You're My Best Friend" , "Friend Medley" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e7cdd160-1510-46d8-a468-03723b8d8810>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171960" ;
+        pm:hasTitle   "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c38d56e-3cb0-48b6-a9f0-125dde5d4983>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA" ;
+        pm:hasLength          "134764" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/acef2727-6aad-48ce-b6e1-64da654838be>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e6b5ec94-8807-456a-a5a4-6d74e89fe648>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/daf5773e-309b-41d2-b075-49a16d3e5cf2>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/449574f0-2d54-4a98-9afa-cd98fa2d054f>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cbee0fac-9476-4d02-976c-b6dc4f4d00be>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184333" ;
+        pm:hasTitle   "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/868d7717-d5a2-4e74-9436-0129cd078e45>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (with commentary)" , "Friend Medley" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e6b5ec94-8807-456a-a5a4-6d74e89fe648>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182560" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/006759c6-4a2d-47f2-8dae-a600dbead3bc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada" ;
+        pm:hasLength          "171013" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ad17c6de-c38b-44d0-88f6-01dfdfdd698d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2a19c0cf-6a7f-4225-bf60-744dd3fe9eda>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6cf7e423-e1a9-4aa4-8f2e-6823fd740994>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e2b34778-2b6a-4bce-9ca2-e3d368208b94>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/773fe6db-0c37-4e55-b08d-cceec71f14bb>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada" ;
+        pm:hasLength          "85994" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/868d7717-d5a2-4e74-9436-0129cd078e45>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "169893" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/918b9476-fb67-4744-856a-18040ef4fab5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada" ;
+        pm:hasLength          "140000" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/82958d18-c270-4bba-8c4b-01de94e0185a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "189000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2b34778-2b6a-4bce-9ca2-e3d368208b94>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "241640" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8c643510-efe7-436b-8b52-7d28ec568466>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Friend Medley" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dde9e222-5a30-4655-b880-43306a551ec9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You're My Best Friend" , "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c643510-efe7-436b-8b52-7d28ec568466>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc1f7f88-fa92-4ae4-b722-fba96876b726>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dde9e222-5a30-4655-b880-43306a551ec9>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-26: Hammersmith Odeon, London, England, UK" ;
+        pm:hasLength          "161493" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/70f9fe6e-0133-4113-8f20-9814245a1c46>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0af0b31c-6d54-46bc-ab5b-95ffd47acd61>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" , "Best Friend" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/7e32de60-c365-49b7-87a8-e2b6868298c3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/79143e84-fb21-4031-b79b-9e8c0e265561>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "Friend Medley" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70f9fe6e-0133-4113-8f20-9814245a1c46>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979" ;
+        pm:hasLength          "130706" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5d892405-b309-4ad1-ab1d-c31790a4f9a5>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0af0b31c-6d54-46bc-ab5b-95ffd47acd61>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1977-06-06: Earl's Court, London, UK" ;
+        pm:hasLength          "453000" ;
+        pm:hasTitle           "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5e378738-9e39-4e51-a1dd-df9a467b46f3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178093" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acef2727-6aad-48ce-b6e1-64da654838be>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "172000" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/79143e84-fb21-4031-b79b-9e8c0e265561>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "178000" ;
+        pm:hasTitle   "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/daf5773e-309b-41d2-b075-49a16d3e5cf2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171000" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/52eaf6b3-6c03-4f06-abcb-bff9ebce5541>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Queen Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d892405-b309-4ad1-ab1d-c31790a4f9a5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-01-24: Deutschlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e378738-9e39-4e51-a1dd-df9a467b46f3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "170000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/dddd0e84-e121-4e43-8e8b-c0435b9def71>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/06671ed0-3b03-4d62-a10c-f4b126a05eae>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "Best Friend" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/25ad34b4-13b9-4ade-a9bd-2c4cdc46d722>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Best Friend" , "You’re My Best Friend" , "Friend Medley" , "You're My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1014e8ba-1183-4172-85f0-b7d95f0ea586>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6cf7e423-e1a9-4aa4-8f2e-6823fd740994>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-01: Rainbow Theatre, London, England" ;
+        pm:hasLength          "138000" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/52eaf6b3-6c03-4f06-abcb-bff9ebce5541>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141413" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/71e25609-33f3-4c22-b341-708f74a943e0>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "B. Feldman & Co. Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/122b4916-a8b1-42e6-8861-d7faee37cfdc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1851e3bf-1c45-4a5e-867c-5cfa56c61ecb>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06671ed0-3b03-4d62-a10c-f4b126a05eae>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version" ;
+        pm:hasLength          "173400" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Deacon" ;
+        pm:hasRole       "lyricist" , "composer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/db14b829-4e5a-4357-9072-61beab10ff0a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8f22552a-53c8-49f5-a63f-65e89ddd192c>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25ad34b4-13b9-4ade-a9bd-2c4cdc46d722>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173413" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/59278d09-c70f-4041-a62b-764909503dfc>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "Best Friend" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/122b4916-a8b1-42e6-8861-d7faee37cfdc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145213" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1851e3bf-1c45-4a5e-867c-5cfa56c61ecb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db14b829-4e5a-4357-9072-61beab10ff0a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-12-12: Walter-Köbel-Sporthalle, Rüsselsheim, Germany" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f22552a-53c8-49f5-a63f-65e89ddd192c>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/17ed2c69-9ac8-4542-bdbe-34a4ff3187e9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "Friend Medley" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1b45749b-b4fc-4d28-899f-113a94ecc83b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "Friend Medley" , "Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59278d09-c70f-4041-a62b-764909503dfc>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125506" ;
+        pm:hasTitle   "You’re My Best Friend (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/f991f883-1294-4111-aa4e-70e0c2933580>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "Friend Medley" , "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6ef8928b-d978-4723-87af-a227d8e64139>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e32de60-c365-49b7-87a8-e2b6868298c3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2001 5.1 mix" ;
+        pm:hasLength          "170000" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/17ed2c69-9ac8-4542-bdbe-34a4ff3187e9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152080" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/de270d45-31d8-4b08-af15-c6d3833a6d70>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (backing track mix 2011)" , "Best Friend" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ce5be117-ddb1-4a9c-8741-925f1a741e3a>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0331a941-e8de-4576-b348-d70667988057>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "You're My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/1a9781a5-637c-405b-8a2c-ebe296d37350>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "Friend Medley" , "You’re My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend (Hollywood remix)" , "You're My Best Friend" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6ef8928b-d978-4723-87af-a227d8e64139>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "192000" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Friend Medley" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "You're My Best Friend" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/09845059-3e25-43b1-8e3b-fc9a2d122ffe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You're My Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/5f9d5797-e821-4680-a2ec-b9934cf3e08d>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend" , "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de270d45-31d8-4b08-af15-c6d3833a6d70>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "205400" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/https://secondhandsongs.com/work/8439>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0331a941-e8de-4576-b348-d70667988057>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a9781a5-637c-405b-8a2c-ebe296d37350>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/aac11752-a2f6-45c6-a887-3f4eb1b2e4ad>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "You’re My Best Friend" , "You're My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Friend Medley" , "You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You're My Best Friend" , "You’re My Best Friend (backing track mix 2011)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/e7cdd160-1510-46d8-a468-03723b8d8810>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "You’re My Best Friend (with commentary)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Friend Medley" , "The Millionaire Waltz / You’re My Best Friend" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/71e25609-33f3-4c22-b341-708f74a943e0>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "Best Friend" , "The Millionaire Waltz / You’re My Best Friend" , "You’re My Best Friend" , "You're My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (backing track mix 2011)" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/09845059-3e25-43b1-8e3b-fc9a2d122ffe>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1976-09-18: Hyde Park, London, England, UK" ;
+        pm:hasLength          "123306" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5f9d5797-e821-4680-a2ec-b9934cf3e08d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "2002 5.1 mix" ;
+        pm:hasLength          "170000" ;
+        pm:hasTitle           "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dddd0e84-e121-4e43-8e8b-c0435b9def71>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/aaae5fe8-8b01-40a5-8504-6cace54661d3>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (with commentary)" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" , "You're My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1014e8ba-1183-4172-85f0-b7d95f0ea586>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "184666" ;
+        pm:hasTitle   "You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "You’re My Best Friend (Hollywood remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/cbee0fac-9476-4d02-976c-b6dc4f4d00be>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "Best Friend" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "You’re My Best Friend (Hollywood remix)" , "Friend Medley" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/2eb6d64c-214e-4778-afca-24bc72d27639>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend" , "Friend Medley" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (with commentary)" , "You're My Best Friend" , "Best Friend" , "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/8b2ccb44-1ddb-4462-aa4e-d8b228096445>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "You’re My Best Friend (1991 bonus remix by Matt Wallace)" , "You’re My Best Friend (Hollywood remix)" , "You’re My Best Friend (backing track mix 2011)" , "The Millionaire Waltz / You’re My Best Friend" , "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown" , "Best Friend" , "You’re My Best Friend" , "You're My Best Friend" , "You’re My Best Friend (with commentary)" , "Friend Medley" .

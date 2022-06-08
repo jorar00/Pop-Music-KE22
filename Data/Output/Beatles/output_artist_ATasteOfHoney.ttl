@@ -1,0 +1,78 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/0d4ab0f9-bbda-4ab1-ae2c-f772ffcfbea9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "drums (drum set)" ;
+        pm:hasBeginDate  "1960-08-12" ;
+        pm:hasEndDate    "1962-08-16" ;
+        pm:hasName       "Pete Best" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "lead vocals" , "guitar" ;
+        pm:hasBeginDate  "1956" ;
+        pm:hasEndDate    "1970-04-10" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/49a51491-650e-44b3-8085-2f07ac2986dd>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "bass guitar" ;
+        pm:hasBeginDate  "1960-01" ;
+        pm:hasEndDate    "1961" ;
+        pm:hasName       "Stuart Sutcliffe" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "lead vocals" , "guitar" ;
+        pm:hasBeginDate  "1958-04" ;
+        pm:hasEndDate    "1970-04-10" ;
+        pm:hasName       "George Harrison" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/48989720-b1cf-4166-ae49-322dcefea894>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "French horn" ;
+        pm:hasBeginDate  "1967" ;
+        pm:hasEndDate    "1967" ;
+        pm:hasName       "John Burden" ;
+        pm:hasRole       "instrumental supporting musician" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "original" , "lead vocals" , "bass guitar" ;
+        pm:hasBeginDate  "1957-07" ;
+        pm:hasEndDate    "1970-04-10" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "member of band" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d>
+        rdf:type             pm:Band ;
+        rdfs:subClassOf      pm:Artist ;
+        pm:containsMusician  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/48989720-b1cf-4166-ae49-322dcefea894> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/49a51491-650e-44b3-8085-2f07ac2986dd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/42a8f507-8412-4611-854f-926571049fa0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/0d4ab0f9-bbda-4ab1-ae2c-f772ffcfbea9> ;
+        pm:hasBeginDate      "1957-03" ;
+        pm:hasEndDate        "1970-04-10" ;
+        pm:hasName           "The Beatles" ;
+        pm:hasPlace          "GB" ;
+        pm:hasRate           "4.85" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/300c4c73-33ac-4255-9d57-4e32627f5e13>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasAttribute  "drums (drum set)" ;
+        pm:hasBeginDate  "1962-08" ;
+        pm:hasEndDate    "1970-04-10" ;
+        pm:hasName       "Ringo Starr" ;
+        pm:hasRole       "member of band" .

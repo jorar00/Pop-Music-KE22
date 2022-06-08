@@ -1,0 +1,266 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd8e144d-c30f-4e0a-beda-ab47c2c6bae8>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86873ea5-7cb5-4acc-b36f-55eb4dd9b1c0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "152000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e00f0ee2-cc40-4d10-bb5c-51cf7949d267>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "162200" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6006cb4b-d704-481d-bf21-d3cc6ca5db23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "154493" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a0a72de4-20da-48de-b7cb-c51825722402>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2004/2005: The Living Room Tour" ;
+        pm:hasLength          "248640" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9318db3-6401-4714-b2b3-6081ff685f46>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "229373" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e031c73-8f8b-483b-9cd4-0e52d3ba1c57>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "180000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0d8029f-9326-40bd-a98d-e9700a7223e6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141040" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6090463d-aa63-4ebd-a1e4-3533ee267fc9>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fra" ;
+        pm:hasTitle     "Chance" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9059493f-fbb6-4bf1-9918-1b55f469b853>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Aldon Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/645e8ac3-1cb0-4460-9f02-ec8c8be8c524>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Chains (live at BBC for “Side by Side” / 13th May, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1ce2edc-0257-405e-8860-47cba26946ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3def0988-47e0-48eb-8862-eb11873b1dbe>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f3b20a8e-49f0-418e-b948-a1d31f61dcf7>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Screen Gems–EMI Music, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4ba1c9b-2acf-457b-bf0f-cbc943d37018>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c10ee592-c603-4ebe-904d-c82ac3146187>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2016-07-03: Hyde Park, London, UK" ;
+        pm:hasLength          "287426" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e1854ba-29e2-4218-a9b0-33cba4fbe6e8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141560" ;
+        pm:hasTitle   "Chains (live at BBC for “Pop Go The Beatles” / 17th September, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fbd07358-b59b-4734-9744-d7f8dd0b08e1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains (RM take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf66d72b-83f5-4acc-90a7-db15cab09b20>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e451d82d-0284-4edd-8fa5-a18220805629>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119440" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/bbc6fca2-ecd2-4efc-a17d-4cf68514dd78>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Screen Gems" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4e7e5e2-69a5-423c-be62-6a888d07ccb6>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "146493" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77366eae-72ef-4107-bafd-8b3dd31a54e2>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/213ebead-f004-4b84-9920-0412d09b1857>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2016-07-03: Hyde Park, London, UK" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa9d4ce5-cd33-4e71-8c4a-9c754364f33d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144426" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d725f307-32ab-493a-b474-63d1a4b857ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146506" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fab2095a-4252-4528-81b5-7e3564aaff83>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains (RS take 1)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97c90b67-7388-4ddb-b2ae-dc6b347bbcfd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145960" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03f5ced3-110b-4b06-81b1-c0399cfd260b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143146" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/66640e2e-55d9-4619-83c3-aade1564aa19>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a00d4329-d0b6-416e-863c-1b270ae16111>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "267049" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db52619f-9680-43cd-9a0e-160776cf2075>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "320000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59d59920-af34-42f4-9902-3b50dc14fd8c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "144000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdaea618-31e8-46d9-9ba4-747835e83d8f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ab777c7-e7f7-4f76-ae78-8be2b2213be8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133613" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5709a02-30e0-4967-92ba-e584d8c21c72>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09" ;
+        pm:hasEndDate    "1962-09" ;
+        pm:hasName       "Gerry Goffin" ;
+        pm:hasRole       "lyricist" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/3c45ba61-5116-35ef-bc5e-03c60511779b>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ab777c7-e7f7-4f76-ae78-8be2b2213be8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e00f0ee2-cc40-4d10-bb5c-51cf7949d267> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a4ba1c9b-2acf-457b-bf0f-cbc943d37018> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/66640e2e-55d9-4619-83c3-aade1564aa19> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fd8e144d-c30f-4e0a-beda-ab47c2c6bae8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b729171-bd5a-4708-8ed2-8571210709e2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e0e934f-af40-4bb2-98d4-e270015d026a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/186b413b-e102-41df-9de3-08d3884bf21f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59d59920-af34-42f4-9902-3b50dc14fd8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cdaea618-31e8-46d9-9ba4-747835e83d8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/503ba8eb-9b99-451d-89af-a921c5694c7d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64677e2f-34fc-49cb-ac32-2b432966cb34> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/645e8ac3-1cb0-4460-9f02-ec8c8be8c524> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0e031c73-8f8b-483b-9cd4-0e52d3ba1c57> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1ce2edc-0257-405e-8860-47cba26946ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d4ef64c-9dbf-4c23-8084-0aed216d96e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fab2095a-4252-4528-81b5-7e3564aaff83> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71b6ca68-7104-41bf-ab56-ec9532c09575> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c10ee592-c603-4ebe-904d-c82ac3146187> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69c20aa-820c-4532-a2bd-a44d0b135889> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97c90b67-7388-4ddb-b2ae-dc6b347bbcfd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fbd07358-b59b-4734-9744-d7f8dd0b08e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cf66d72b-83f5-4acc-90a7-db15cab09b20> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97cf8892-cadc-482e-a88d-f4d329f6cc03> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/86873ea5-7cb5-4acc-b36f-55eb4dd9b1c0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e451d82d-0284-4edd-8fa5-a18220805629> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fa9d4ce5-cd33-4e71-8c4a-9c754364f33d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d725f307-32ab-493a-b474-63d1a4b857ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/213ebead-f004-4b84-9920-0412d09b1857> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c56b21f-17d5-43a3-a698-14373c1f302d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/03f5ced3-110b-4b06-81b1-c0399cfd260b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/855a0c5a-489c-4c4b-9cde-2160d91e8f23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a00d4329-d0b6-416e-863c-1b270ae16111> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3def0988-47e0-48eb-8862-eb11873b1dbe> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/012574e8-6c54-402f-86ca-50b6b18d5d04> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4e7e5e2-69a5-423c-be62-6a888d07ccb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a0a72de4-20da-48de-b7cb-c51825722402> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db52619f-9680-43cd-9a0e-160776cf2075> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0d8029f-9326-40bd-a98d-e9700a7223e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77366eae-72ef-4107-bafd-8b3dd31a54e2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a9318db3-6401-4714-b2b3-6081ff685f46> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6006cb4b-d704-481d-bf21-d3cc6ca5db23> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e1854ba-29e2-4218-a9b0-33cba4fbe6e8> ;
+        pm:hasTitle       "Chains" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/6090463d-aa63-4ebd-a1e4-3533ee267fc9> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/bf6c29f5-b69f-4842-9031-37f9645d365d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/d5709a02-30e0-4967-92ba-e584d8c21c72> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/bbc6fca2-ecd2-4efc-a17d-4cf68514dd78> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9059493f-fbb6-4bf1-9918-1b55f469b853> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f3b20a8e-49f0-418e-b948-a1d31f61dcf7> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7c56b21f-17d5-43a3-a698-14373c1f302d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "145080" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e69c20aa-820c-4532-a2bd-a44d0b135889>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "141000" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/855a0c5a-489c-4c4b-9cde-2160d91e8f23>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "177893" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/186b413b-e102-41df-9de3-08d3884bf21f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151866" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8b729171-bd5a-4708-8ed2-8571210709e2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "146000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/503ba8eb-9b99-451d-89af-a921c5694c7d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "143000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71b6ca68-7104-41bf-ab56-ec9532c09575>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "145000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d4ef64c-9dbf-4c23-8084-0aed216d96e1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "151000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5e0e934f-af40-4bb2-98d4-e270015d026a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐06‐17: Maida Vale Studios: Studio 5, London, UK" ;
+        pm:hasLength          "135120" ;
+        pm:hasTitle           "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/bf6c29f5-b69f-4842-9031-37f9645d365d>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-09" ;
+        pm:hasEndDate    "1962-09" ;
+        pm:hasName       "Carole King" ;
+        pm:hasRole       "composer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/012574e8-6c54-402f-86ca-50b6b18d5d04>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "287000" ;
+        pm:hasTitle   "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/64677e2f-34fc-49cb-ac32-2b432966cb34>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Chains" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97cf8892-cadc-482e-a88d-f4d329f6cc03>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "135000" ;
+        pm:hasTitle   "Chains" .

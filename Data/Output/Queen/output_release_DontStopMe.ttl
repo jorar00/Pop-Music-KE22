@@ -1,0 +1,154 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/085c26e0-678a-4d40-9dc7-4a66e86093ab>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "255360" ;
+        pm:hasTitle         "If You Can’t Beat Them" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "John Deacon" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ad7ca0a-1247-448d-ab45-d44acdc876e1>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "256600" ;
+        pm:hasTitle         "More of That Jazz" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3>
+        rdf:type         pm:Band ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Queen" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "Freddie Mercury" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "Brian May" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Roy Thomas Baker" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d538e7c-9261-46ec-bde9-cae13e42372c>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "257000" ;
+        pm:hasTitle         "Fat Bottomed Girls" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Release/04fa4243-e37c-479c-ab0e-b981b0be63da>
+        rdf:type               pm:Release ;
+        pm:containsRecordings  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/085c26e0-678a-4d40-9dc7-4a66e86093ab> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4009c09-a339-4b89-bc45-d91ab649acb6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/baeb8ea6-1970-4198-bd51-fc4200d2dfd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9dcb8979-72c2-4381-bbd3-31da8408afb9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/087b1dc8-6386-4be4-8e40-656458c3089a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cca05c80-3941-4e26-a855-d4316c9cad6d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef3b7b77-6fca-48bf-b094-09dafc763a74> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6913253e-f3ad-4fc5-8a2a-470239b1c357> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4ad7ca0a-1247-448d-ab45-d44acdc876e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/135214af-6058-4705-9f17-18d396f36191> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0ba8001-b17d-4b52-9396-6fde70c830da> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2a178e6-45b4-4509-bba7-1e98abd1a4bb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d538e7c-9261-46ec-bde9-cae13e42372c> ;
+        pm:hasCreditArtist     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasDate             "1988-02-03" ;
+        pm:hasPackaging        "Jewel Case" ;
+        pm:hasPlace            "JP" ;
+        pm:hasTitle            "Jazz" ;
+        pm:hasType             "Album" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/135214af-6058-4705-9f17-18d396f36191>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "182000" ;
+        pm:hasTitle         "Bicycle Race" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4009c09-a339-4b89-bc45-d91ab649acb6>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "210146" ;
+        pm:hasTitle         "Don’t Stop Me Now" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "Geoff Workman" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasName       "John Etchells" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9dcb8979-72c2-4381-bbd3-31da8408afb9>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "209826" ;
+        pm:hasTitle         "Fun It" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b0ba8001-b17d-4b52-9396-6fde70c830da>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "181626" ;
+        pm:hasTitle         "Mustapha" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/087b1dc8-6386-4be4-8e40-656458c3089a>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "203333" ;
+        pm:hasTitle         "Dead on Time" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef3b7b77-6fca-48bf-b094-09dafc763a74>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "150266" ;
+        pm:hasTitle         "In Only Seven Days" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/baeb8ea6-1970-4198-bd51-fc4200d2dfd3>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "210773" ;
+        pm:hasTitle         "Dreamer’s Ball" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cca05c80-3941-4e26-a855-d4316c9cad6d>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "193600" ;
+        pm:hasTitle         "Jealousy" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "Roger Taylor" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6913253e-f3ad-4fc5-8a2a-470239b1c357>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "182000" ;
+        pm:hasTitle         "Let Me Entertain You" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2a178e6-45b4-4509-bba7-1e98abd1a4bb>
+        rdf:type            pm:Recording ;
+        pm:hasCreditArtist  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Band/0383dadf-2a4e-4d10-a46a-e9e041da8eb3> ;
+        pm:hasLength        "195200" ;
+        pm:hasTitle         "Leaving Home Ain’t Easy" ;
+        pm:isPlayedBy       <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/a0b77a10-ecff-4b84-b1f3-008391038d67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/558302b1-07ae-4be1-9edb-2a2b1f036313> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/022589ac-7177-460d-a178-9976cf70e29f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/574579db-bff6-4ba9-be08-28cff77e8980> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4a528447-cf46-481b-9520-28a484608995> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/3dcbbb17-c0ee-4068-8ccb-4560a2ad28e7> .

@@ -1,0 +1,528 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7554191-d692-4cc2-a570-d8e2d264dfe3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c94c8cb-67bc-4286-acd9-5b190cac8633>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "400000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef158aab-5a47-4105-bdde-443d92d13d09>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "202173" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ccbde6f-8ddb-485b-8c44-bd07f8902d00>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218266" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4178ca3f-40a8-4411-ad21-e08bb323d795>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "174000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acb30654-b5a1-4ed8-90aa-0944e33b911b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45d4bd31-239a-4891-bd6a-7bfd30d25c2e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-27: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "330000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "We Will Rock You" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4298520c-7e58-4055-bd9a-d3cb38c52b8f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "237546" ;
+        pm:hasTitle   "Fat Bottomed Girls (backing)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Don’t Stop Them Now" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4dc1879-8e42-4e9a-bda7-480cc6d6f3db>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-01-24: Deutschlandhalle, Berlin, Germany" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d5b7294-256f-45e1-b030-0e4d6f16ca18>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "276333" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2b1e0c7-9eaf-4e81-a29e-9d65ec14498a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls (Malouf mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db5200cd-3890-4e4a-b1d2-2166983b0d9f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "272680" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9834da00-9118-4190-a183-9bcf07d436a9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "218000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50f7aaed-3fbe-4561-95a3-8f07d5bd1109>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-26: Via Funchal, São Paulo, Brazil" ;
+        pm:hasLength          "351000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebd61b8c-7831-4606-a20e-ad4e1554bbdf>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom" ;
+        pm:hasLength          "348440" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc38abfa-dd13-48e7-8cfe-4a10741d4035>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "252000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d68f8467-0b36-4b2e-b0d0-1fc0ee7dfaeb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/543f643f-0cec-49df-830c-dc78065a9529>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "187000" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb4bf16d-f8e8-4686-a1df-f48f4d860290>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "193333" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a290c8ec-7365-480b-b5ec-dd04574d38ad>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dca865cc-e631-448c-a643-1a120362b5c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "201000" ;
+        pm:hasTitle   "Fat Bottomed Girls (single version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5704f56f-006b-4174-ad59-321aa867e1ae>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "266000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a359adc9-c9b3-4a67-93e1-d3649946d0cc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1998-10-31: Apollo, Manchester, England, UK" ;
+        pm:hasTitle           "[White Man intro] / Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de7a81f4-322b-4825-ad32-e28cee93e15d>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1998-11-10: Sun Plaza Hall, Nakano, Tokyo, Japan" ;
+        pm:hasTitle           "[White Man intro] / Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/626e51cb-1ab7-4fdc-b885-478996024603>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2019: American Airlines Center, Dallas, USA" ;
+        pm:hasLength          "327386" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d17c18f-2c65-4f11-abe6-67e94eba9272>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fc35aa4-0df0-434f-b147-de8a6bd9b4a6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "198000" ;
+        pm:hasTitle   "Fat Bottomed Girls (first take 1979)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7eaabe1-3afc-422e-89bd-5e07f12b8213>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "290000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df1c5e60-fc25-4263-984b-5fc4a2a78e0f>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-07-02: Estádio do Restelo, Lisbon, Lisboa, Portugal" ;
+        pm:hasLength          "361000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d525b4ac-0aea-4a45-a3d6-2e16904475bc>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom" ;
+        pm:hasLength          "347933" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/1ca8512c-2208-3e92-8b0b-9dc44eb25b62>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRate        "5" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5704f56f-006b-4174-ad59-321aa867e1ae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4dc1879-8e42-4e9a-bda7-480cc6d6f3db> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d158c26-84e1-4e8d-b4bd-83b777691c98> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d7cb559-d48b-4c4f-afb8-dd99b00acde0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eab2a796-b692-4c95-97ee-092517da0345> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/157837e7-f04e-42d4-9b39-07af6584d63d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9834da00-9118-4190-a183-9bcf07d436a9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83637c21-c85f-4b7b-825c-f135b4f680e9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef482b29-d870-420c-91ba-f1aebc4168a2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45230ae2-c30e-4018-b55e-f547ffa98571> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ccbde6f-8ddb-485b-8c44-bd07f8902d00> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2e56d61-b51c-413d-84cf-677a53d2d078> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a359adc9-c9b3-4a67-93e1-d3649946d0cc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4298520c-7e58-4055-bd9a-d3cb38c52b8f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cf68779-25d2-4698-8890-0a562ff8ac0a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/de7a81f4-322b-4825-ad32-e28cee93e15d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc38abfa-dd13-48e7-8cfe-4a10741d4035> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45d4bd31-239a-4891-bd6a-7bfd30d25c2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/351c9abc-516c-42d4-8257-bc79deb50a58> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef07957e-0908-495c-9e3a-8d51ff02244e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7415cc2c-05b3-4c23-8308-c85081581ed3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbb3f0fc-65d7-4a76-b29b-2040107004e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65849d2c-b69d-41b9-a1a5-860592a809eb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d68f8467-0b36-4b2e-b0d0-1fc0ee7dfaeb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce46f4dc-3970-4f8f-8ef0-fce882ca1156> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5c94c8cb-67bc-4286-acd9-5b190cac8633> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b4618af-4f97-4524-a7d0-0256c1072d00> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c2b1e0c7-9eaf-4e81-a29e-9d65ec14498a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5f4d676-c209-4255-abd1-e694e43ddf9e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d67ce2b-7f53-4c0e-afab-f21bc6ab981e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebd61b8c-7831-4606-a20e-ad4e1554bbdf> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2997c28a-0700-4c1f-b405-ff5f2e92e0d1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37c177d6-8c49-407e-babe-be1234602690> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d525b4ac-0aea-4a45-a3d6-2e16904475bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57f9bf9c-354a-4f2a-a18a-ad48dcff7e97> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/feab81b0-a07b-4c6e-899d-362322493e08> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/022469fe-3727-472e-b6d6-15c91c7abab0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f186751-794f-4082-859c-0d932c0c33f1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b144931d-9978-4bcb-bbb1-503690d0393c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a290c8ec-7365-480b-b5ec-dd04574d38ad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecfcd1d0-2302-4803-9cae-02a95456742c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35cfa1f9-4176-44b2-aee9-bbfc966b6931> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/acb30654-b5a1-4ed8-90aa-0944e33b911b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af8554f8-91d9-460c-bc09-4f44957c4621> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f6f4410-e80e-448b-a030-bfae3ae64732> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3d5b7294-256f-45e1-b030-0e4d6f16ca18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d4f0ba8-e7eb-4c7a-987b-ab890a5b5b3b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6bec61ae-14c9-4f59-9640-62402846bc2e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d114ab42-3ebc-4561-98ff-e996b4ecbb4f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef158aab-5a47-4105-bdde-443d92d13d09> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c08b53b-99fb-4389-93e1-37d7b29603e3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/626e51cb-1ab7-4fdc-b885-478996024603> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd695788-3290-48f0-8649-a6117e6fd032> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4695d07a-590a-4494-8dd9-319128210974> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f02c9d8b-dec6-4923-80ed-b4e194ee31ba> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bb4bf16d-f8e8-4686-a1df-f48f4d860290> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c182caaa-732a-413a-beca-e200e2488a6b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1be82e71-7062-472b-a1e2-b4be6a9bd009> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1657bd4e-5aa9-456d-bd6a-48c4e91f0593> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25cd109f-5595-4ed8-9702-155a9a92b035> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/703343b0-1485-4cc0-af6c-d04de28296c5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b113250a-230d-4979-8c6e-9a470c88119b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c7eaabe1-3afc-422e-89bd-5e07f12b8213> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e147221c-2f85-4abb-9a52-55fbf5d9d8e4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d331a858-9704-448d-baba-1012f2162254> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4178ca3f-40a8-4411-ad21-e08bb323d795> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a68c6ae-7a23-4a28-b10a-a7d5baf562d5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1ccc084-0ba2-471b-bb2c-8158fb2cef19> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/df1c5e60-fc25-4263-984b-5fc4a2a78e0f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f18da50-5abf-457e-ae66-6801f8ac7cad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a0d69c1-486f-4162-893b-9076ef9366d4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/db5200cd-3890-4e4a-b1d2-2166983b0d9f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70f1790a-18ba-4620-9ff6-1f043af123d2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02a308d0-f3f8-4b10-9fb6-4b37d74565c2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9fc35aa4-0df0-434f-b147-de8a6bd9b4a6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d538e7c-9261-46ec-bde9-cae13e42372c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ba31925-561b-448a-8f03-1e0c686ca908> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58a3acd0-9a72-431b-a3a0-896114f314ca> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c6e8a40-d863-4dca-8bd8-6e7e8e8fbdf8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/50f7aaed-3fbe-4561-95a3-8f07d5bd1109> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/543f643f-0cec-49df-830c-dc78065a9529> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/238bdadc-00cf-495f-9dae-9da98f408a17> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f6e0be23-7dbd-406b-a594-9db28dd58c53> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dca865cc-e631-448c-a643-1a120362b5c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65d6e66e-fa14-4151-9007-8e16ef598dd3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c924bef-5d74-44da-8fdf-03657c5ebc15> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01f90e6f-6ff0-40d7-9bef-7e79563a1612> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f7554191-d692-4cc2-a570-d8e2d264dfe3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d17c18f-2c65-4f11-abe6-67e94eba9272> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8c229c1-27cc-4dc2-bef3-4d3475de238f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3227534e-2ce9-45ff-97c5-663fbf1616cd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1f8a1dc-2fef-4ee6-bd5a-65fc6cd94881> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/333d634d-c8d5-4fe1-9583-a31645c516a1> ;
+        pm:hasTitle       "Fat Bottomed Girls" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/c8e57387-f1b3-466e-98e8-8c9d4c65614b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/3bc30f3c-dd6d-4d20-b368-2253afc050fe> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/703343b0-1485-4cc0-af6c-d04de28296c5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, England" ;
+        pm:hasLength          "275133" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/eab2a796-b692-4c95-97ee-092517da0345>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "203000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1c924bef-5d74-44da-8fdf-03657c5ebc15>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d331a858-9704-448d-baba-1012f2162254>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "226013" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/70f1790a-18ba-4620-9ff6-1f043af123d2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "425000" ;
+        pm:hasTitle   "Fat Bottom Girls (Roman Pushkin main mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef07957e-0908-495c-9e3a-8d51ff02244e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "198840" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c5f4d676-c209-4255-abd1-e694e43ddf9e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-27: Saitama Super Arena, Saitama New Urban Center, Saitama, Japan" ;
+        pm:hasLength          "321000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0f18da50-5abf-457e-ae66-6801f8ac7cad>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-04: Metro Radio Arena, Newcastle upon Tyne, Tyne and Wear, England, United Kingdom" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2ba31925-561b-448a-8f03-1e0c686ca908>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "182000" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1f8a1dc-2fef-4ee6-bd5a-65fc6cd94881>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live; Paris, France" ;
+        pm:hasLength          "277706" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c6e8a40-d863-4dca-8bd8-6e7e8e8fbdf8>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-12: Freedom Square, Kharkiv, Kharkivs'ka Oblast', Ukraine" ;
+        pm:hasLength          "300826" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/351c9abc-516c-42d4-8257-bc79deb50a58>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK" ;
+        pm:hasLength          "353792" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/25cd109f-5595-4ed8-9702-155a9a92b035>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada" ;
+        pm:hasLength          "206326" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6bec61ae-14c9-4f59-9640-62402846bc2e>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-29: Hokkaidoritso Sangyo, Osaka, Japan" ;
+        pm:hasTitle           "Take Me Home" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f6e0be23-7dbd-406b-a594-9db28dd58c53>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65d6e66e-fa14-4151-9007-8e16ef598dd3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "202000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f02c9d8b-dec6-4923-80ed-b4e194ee31ba>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "271520" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1be82e71-7062-472b-a1e2-b4be6a9bd009>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2007-04-14: Hückeswagen, Germany" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2997c28a-0700-4c1f-b405-ff5f2e92e0d1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "209000" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b144931d-9978-4bcb-bbb1-503690d0393c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, Buckinghamshire, England, UK)" ;
+        pm:hasLength          "281000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ce46f4dc-3970-4f8f-8ef0-fce882ca1156>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "240000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b4618af-4f97-4524-a7d0-0256c1072d00>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-08: Wembley Arena, Wembley, Brent, London, England, United Kingdom" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/0a815e3e-c710-4d60-a1af-4935b72ffb52>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Queen Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cf68779-25d2-4698-8890-0a562ff8ac0a>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9d7cb559-d48b-4c4f-afb8-dd99b00acde0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-04-28: Color Line Arena, Hamburg, Germany" ;
+        pm:hasLength          "345000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4695d07a-590a-4494-8dd9-319128210974>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-11-21: Estadio Velez Sarsfield, Buenos Aires, Argentina" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3a0d69c1-486f-4162-893b-9076ef9366d4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116320" ;
+        pm:hasTitle   "Fat Bottomed Girls (Digital Remaster)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7415cc2c-05b3-4c23-8308-c85081581ed3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "193760" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d114ab42-3ebc-4561-98ff-e996b4ecbb4f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "214000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d67ce2b-7f53-4c0e-afab-f21bc6ab981e>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottom Girls (Roman Pushkin dub)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/35cfa1f9-4176-44b2-aee9-bbfc966b6931>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-04-16: Hallenstadion, Zürich, Switzerland" ;
+        pm:hasLength          "254000" ;
+        pm:hasTitle           "Mustapha / Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e147221c-2f85-4abb-9a52-55fbf5d9d8e4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "188840" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/6d24f102-5c43-453a-8664-4ee092f441cf>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1978-07" ;
+        pm:hasEndDate    "1978-10" ;
+        pm:hasName       "Brian May" ;
+        pm:hasRole       "lyricist" , "composer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/238bdadc-00cf-495f-9dae-9da98f408a17>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "karaoke version" ;
+        pm:hasLength          "198213" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef482b29-d870-420c-91ba-f1aebc4168a2>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2011-06: Izod Center, East Rutherford, USA" ;
+        pm:hasLength          "141000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/57f9bf9c-354a-4f2a-a18a-ad48dcff7e97>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "236627" ;
+        pm:hasTitle   "More to Love" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c1ccc084-0ba2-471b-bb2c-8158fb2cef19>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada" ;
+        pm:hasLength          "291000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/83637c21-c85f-4b7b-825c-f135b4f680e9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "244000" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/01f90e6f-6ff0-40d7-9bef-7e79563a1612>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "236773" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/022469fe-3727-472e-b6d6-15c91c7abab0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1981: Morumbi, São Paulo, Brazil" ;
+        pm:hasLength          "272000" ;
+        pm:hasTitle           "Fat Bottomed Girls (live)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/157837e7-f04e-42d4-9b39-07af6584d63d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "215346" ;
+        pm:hasTitle   "Fat Bottom Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbb3f0fc-65d7-4a76-b29b-2040107004e0>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3227534e-2ce9-45ff-97c5-663fbf1616cd>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/333d634d-c8d5-4fe1-9583-a31645c516a1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "203000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c182caaa-732a-413a-beca-e200e2488a6b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK" ;
+        pm:hasLength          "325146" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4a68c6ae-7a23-4a28-b10a-a7d5baf562d5>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "We Will Rock You, 2005 Köln cast" ;
+        pm:hasLength          "149000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d8c229c1-27cc-4dc2-bef3-4d3475de238f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "261000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02a308d0-f3f8-4b10-9fb6-4b37d74565c2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "204000" ;
+        pm:hasTitle   "Fat Bottomed Girls (single version)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/58a3acd0-9a72-431b-a3a0-896114f314ca>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "265000" ;
+        pm:hasTitle   "Fat Bottomed Girls (remix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2e56d61-b51c-413d-84cf-677a53d2d078>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-29: Yokohama Arena, Shin-Yokohama, Yokohama, Kanagawa, Japan" ;
+        pm:hasLength          "362000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/97ef6a28-dfed-4eda-bd24-17a45c792d29>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "EMI Music Publishing Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65849d2c-b69d-41b9-a1a5-860592a809eb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "194000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b113250a-230d-4979-8c6e-9a470c88119b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "185266" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/45230ae2-c30e-4018-b55e-f547ffa98571>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada" ;
+        pm:hasLength          "319320" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/feab81b0-a07b-4c6e-899d-362322493e08>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213760" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0d538e7c-9261-46ec-bde9-cae13e42372c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "257000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/af8554f8-91d9-460c-bc09-4f44957c4621>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "221000" ;
+        pm:hasTitle   "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "イーエムアイ音楽出版 ソニー事業部" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9f186751-794f-4082-859c-0d932c0c33f1>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan" ;
+        pm:hasLength          "298133" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8d4f0ba8-e7eb-4c7a-987b-ab890a5b5b3b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bd695788-3290-48f0-8649-a6117e6fd032>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom" ;
+        pm:hasLength          "345933" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1d158c26-84e1-4e8d-b4bd-83b777691c98>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8c08b53b-99fb-4389-93e1-37d7b29603e3>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2006-04-05: HP Pavilion, San Jose, California, United States" ;
+        pm:hasLength          "349010" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ecfcd1d0-2302-4803-9cae-02a95456742c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2019-08-03: Wells Fargo Center, Philadelphia, PA, USA" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8f6f4410-e80e-448b-a030-bfae3ae64732>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "single version" ;
+        pm:hasLength          "202000" ;
+        pm:hasTitle           "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/37c177d6-8c49-407e-babe-be1234602690>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Fat Bottomed Girls" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1657bd4e-5aa9-456d-bd6a-48c4e91f0593>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "115000" ;
+        pm:hasTitle   "Fat-Bottomed Girls" .

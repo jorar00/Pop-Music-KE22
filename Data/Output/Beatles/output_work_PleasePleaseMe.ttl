@@ -1,0 +1,750 @@
+@prefix fx:   <http://sparql.xyz/facade-x/ns/> .
+@prefix pm:   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org./2000/01/rdf-schema#> .
+@prefix xyz:  <http://sparql.xyz/facade-x/data/> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e150a53b-350f-4e26-8570-51e4c5a6ec73>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (RM takes unknown)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9334090-1241-4334-b569-e844e517f936>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121320" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b06eac4-db67-4b03-a9b1-d8568f4b1660>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (take??)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/722fa8ad-32de-45ce-9435-7252eb4e1591>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005" ;
+        pm:hasTitle           "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3dbd55d-91bb-47a0-988e-ce4a21343917>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118000" ;
+        pm:hasTitle   "Please Please Me (1962-11-26) (takes 16, 17, 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/460bf5e0-fa6e-4a30-bd9c-26b97b8120c4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (1963-03-06)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a39b3e-6d43-4440-861e-e8972901845b>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me / There's a Place" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/911e976e-2c5c-4ace-b63d-a5b9d52231d9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aec8ca24-deb0-4f95-b7c4-fcda0dbcd8b5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06a8411b-ab78-45f0-9bcb-591a9fe0d5e4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "107946" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4b50321-c48a-413d-b08f-c09e8eab2f80>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33d98a11-d2b4-4ba4-9b9b-251284b76d49>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Polygram Music" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd0a218d-fc59-4d2d-800a-2138af18b7c7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "117000" ;
+        pm:hasTitle   "Please Please Me (live at BBC for “Here We Go” / 12th March, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13dd0ed7-f5f8-41f8-afff-64c1c04d3760>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462dea1b-8092-4384-bc61-e28004b553de>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "mono" ;
+        pm:hasLength          "141000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/783ae7aa-ea6d-4521-88ed-7673bd9d26e0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-06-07" ;
+        pm:hasEndDate    "1962-06-08" ;
+        pm:hasName       "John Lennon" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf3a717a-6ba0-428e-8da5-8778066e210d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/502d4986-0c2e-4eaf-8d15-964e90cd3840>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4861c79b-33e9-469d-85e5-acb47ab533f0>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "117000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e0c4062-d08c-450b-905a-076475244aa8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "135000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/72ab8e29-68bd-34bd-a376-2bd4be0392b8>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "fra" ;
+        pm:hasTitle     "Tu perds ton temps" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45b0694c-8461-452a-af1b-f0fe960f18a7>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "eng" ;
+        pm:hasTitle     "Beatles Medley" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/760de8e7-1c3c-4e22-bc3e-a200d91f5fd1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0011ef33-a089-49ad-bfa9-4e1fdf67f8e6>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121120" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71474e8b-c1a8-4640-bb0f-583fbf2a1873>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/434a19e1-a205-4708-994b-d0ccbcb16b25>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-10: Air Canada Centre, Toronto, Ontario, CA" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81362807-b82a-4195-9748-4b9479ed4626>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "132000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/497ef013-20e4-4b10-aa85-8692bcfb1d63>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "137000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d0d07581-b036-41b2-a3b4-4284bf0bcd83>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "203093" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c8e317b-4f7f-4827-b9b0-088dd50a0f3e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "213827" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d857d23a-434c-4298-a82e-6f275ad3f8a1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b3d74ba-18f8-49c7-94aa-f89b52c7e5cd>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1964: Washington, D.C., USA" ;
+        pm:hasLength          "156000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ec9634b-ed39-457d-8934-2e72a06e288f>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Dick James Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20c3c59b-3034-4982-a3b7-988bf9c8996b>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-10-26: Xcel Energy Center, St. Paul, MN, USA" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24b80bdd-ab03-4b27-97f5-10e4b51e4d36>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "60000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/030c121d-6a67-4791-bef2-df34c3f48005>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "171160" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b72c5e08-7335-4d9f-99c9-a416095648c3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/649223c8-5c3b-4909-94d8-37079b79f053>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "spa" ;
+        pm:hasTitle     "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8e5945a-b401-4310-9c2d-728cfcb73904>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119560" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a609bc0-c759-4870-b7d3-9ba3b7f0faa1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "114346" ;
+        pm:hasTitle   "Please Please Me (1963-03-16)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0b53f664-9ea7-4d7c-addd-b06e129fb7a1>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "jpn" ;
+        pm:hasTitle     "プリーズ・プリーズ・ミー" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b97f03b3-0e67-4e66-a635-5afd488a7bae>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live" ;
+        pm:hasLength          "125640" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c55e5275-bfda-4e99-bba2-a6bc9e745aeb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "113867" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222e9d4b-a8dd-4d92-943e-87e1c6311476>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "155773" ;
+        pm:hasTitle   "Please Please Me/It Won’t Be Long" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3fdec34-05ae-484e-803b-676092632470>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "141000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5455be43-be13-442f-b225-91c5025d5347>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "195000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98575a3d-de06-4beb-9181-2f302abdc073>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63d12c54-94dc-4389-8855-ea0b77cf38d4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "449026" ;
+        pm:hasTitle   "Please Me: Please Please Me / All My Loving / Eight Days a Week / A Hard Day's Night / Can't Buy Me Love" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/748e999e-3022-4850-8e4c-85e5e9c7e4d4>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02156510-0b62-48e6-b65d-a378445642bc>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (RS takes 16, 17 & 18)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9f95e004-1d81-4fca-802b-a443e91ac0f5>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Concertone Songs, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a29badff-1c87-4c65-9ae9-f1b4cb3d2260>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live: Washington" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9732d69f-4540-43ed-bcb3-ab895211c896>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "45000" ;
+        pm:hasTitle   "Please Please Me 23.82" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42af84ab-1547-4889-8d87-c270cc3ae174>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/62ff2535-9e13-4fe2-8b8a-b2137ec01900>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/724c65a8-68bb-4a63-881b-9ea6208ee585>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Dick James Music, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/587d2ed6-bffd-44ae-a721-9d7ddd03fcd2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120226" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbcfefe5-cc23-403f-b626-41301c98f3aa>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118693" ;
+        pm:hasTitle   "Plis plis mi" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2cf668ab-bef4-4ebc-a9e4-28a46d4df351>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26a40e13-7f09-4b6e-83d9-2b6ef2cd2048>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a9cdd1e-ef1c-4ce8-b4c1-7e4a7223ab56>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5bc530ef-9279-43b9-8deb-4ffb18fe30f1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "150000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27cfca78-dbdc-4491-9629-cba565496e00>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc282ce4-c66d-4322-9793-cdd4beca1ef8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27ffff5d-ee7a-49da-b597-fef89f8e6015>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e9de601-935e-4217-b9d2-1e6f3223e803>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "108851" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b720b11f-2c00-4f48-83b9-4aa9d3207e8c>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original stereo studio mix" ;
+        pm:hasLength          "122000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6e19e55-a9f9-48a7-bdb8-282451da312d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119360" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/51d4b603-1192-488f-b0fb-db4ef7ed6556>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d597af9f-1efb-43df-9321-8babf532c2a8>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122773" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61cd9082-c9be-4819-a88d-cecec7d226d2>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126466" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/941acb26-3b67-43fb-baee-dcf8203686ed>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af>
+        rdf:type         pm:Musician ;
+        rdfs:subClassOf  pm:Artist ;
+        pm:hasBeginDate  "1962-06-07" ;
+        pm:hasEndDate    "1962-06-08" ;
+        pm:hasName       "Paul McCartney" ;
+        pm:hasRole       "writer" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/48bb25ce-f74c-4f18-9cb4-e1fc1bb7f9c4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "156000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49425ff2-5b29-49f3-acf3-632733f72087>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "124000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/528b14f8-5352-45d3-83d0-888b97998685>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 2005-09-22: Wachovia Center, Philadelphia, PA, USA" ;
+        pm:hasLength          "134000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec32f5b3-d920-4811-b5f5-aa0dec351835>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32e39be4-c02d-4c43-b214-8a53abbd3d7a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "352000" ;
+        pm:hasTitle   "Chorus: \"Last Night I Said\" (Please Please Me)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e355812f-d06d-4f4c-b424-3c61b429b9f5>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbbad06b-77d0-4296-af9c-f6d1071e338b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "128000" ;
+        pm:hasTitle   "Please Please Me (live at BBC for “Easy Beat” / 20th October, 1963)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13e4375b-afc7-4d95-9db2-5e87b0f4d067>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐03‐06: Playhouse Theatre, Manchester, UK" ;
+        pm:hasLength          "141000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a0c732a-b9ab-496d-bc0c-0117058fdb91>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7974b10-4f3e-42fa-9a2f-3ff1f1d63dad>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "30226" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebe4c1dc-0d97-400b-9803-34a0812d6d0f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "292000" ;
+        pm:hasTitle   "Please, Please Me / A Hard Day’s Night" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6574e0f6-3540-4cfb-9674-9211250d9269>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "118000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/11f9a729-88e5-48ae-8bb9-ea1fa4b76537>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Universal/Dick James Music Ltd." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef290190-af93-487c-b01a-4e4126cb861b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/065e6658-36f8-431e-8258-601b5330d740>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (1963-03-16)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7474f452-d508-4f85-a90b-069f1f288ff9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "315000" ;
+        pm:hasTitle   "Love Me Do / Please Please Me / From Me to You / Twist and Shout" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/668a48b5-314b-4d8e-a1c0-8e05153e54a3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5af5e82e-6a37-4830-83bf-aaea50e244f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/979570fc-c373-4dd4-8d89-dc0efdf68712>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9b57e9e-4800-4b6f-a0af-22aebe04fa33>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "117840" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21ada716-be61-415e-9633-0e59d2cd471f>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08c5ef1f-c9cc-4833-b7c8-4fd487598df5>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "117000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e1be00e-066e-4e37-a8dd-3c4cf56ce24c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "95146" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffe37d31-4045-4fe5-9ae0-f1ab3f370299>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "1965 Capitol stereo remix" ;
+        pm:hasLength          "120000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/681a7a2b-c816-4633-99f4-79625dce01e1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/062a12ac-61e7-4dde-9ff7-c9f8c03b7349>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c76fabc3-23a2-4f16-b20c-14975ab74ff4>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "168000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9c93d373-8a43-4ed1-8fa2-8375eb9a2dc3>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "116000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b754f7e-10f9-4f9d-b4e0-ce1f19c98cdb>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b8473c4a-e6be-4368-ade2-d529d71961e7>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "110466" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8019e9e3-8fe9-4c6b-b924-e375483d979d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bb85779-2a8f-4007-adc3-1b7e7f9efdd1>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da3de0d9-181b-4afb-bcd2-72bc8c2ae6f9>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "121000" ;
+        pm:hasTitle   "Please Please Me (stereo)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65ce90e8-ee7e-4c27-ab5e-57427e9cfa68>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2d348bb-518e-4116-bbef-7f1caff31435>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ff5d46a-8377-4817-8e34-06c82154ba00>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120960" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc170081-fef5-4ae6-918d-cad56764090e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134733" ;
+        pm:hasTitle   "Please Please Me (プリーズ・プリーズ・ミー)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59c53f8a-c26f-4b5a-9ff8-1be69e34442d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "173226" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c8107a4-36e0-4735-a6e1-9f688db0df18>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (The Ed Sullivan Show)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6dc4026c-091d-4987-8a49-434737105975>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/1ec8e18b-6203-489c-9d6f-2dda2768393a>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Criterion Music Corp." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/054c1b09-50f6-431b-9d73-4bab78287eb1>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "119000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/85b087da-68d2-431f-a46a-e88515dd0674>
+        rdf:type        pm:Version ;
+        pm:hasLanguage  "deu" ;
+        pm:hasTitle     "Susi" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d946c47e-47e6-47f3-878f-19b9d2229256>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "129000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d12b705e-b404-46a9-9b27-1669aeef403e>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "117986" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/181b263b-9425-427d-9154-6d0f44ce035a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/846a047d-d3f8-4350-879c-a644e66a8c3b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "157000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e44d9c94-0af8-484e-b148-836783aed3d0>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐03‐16: Broadcasting House, London, UK" ;
+        pm:hasLength          "112986" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Song/c4bb79ce-b942-3939-bfb1-9b57cc74ea5b>
+        rdf:type          pm:Song ;
+        pm:hasLanguage    "eng" ;
+        pm:hasRecording   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0c8e317b-4f7f-4827-b9b0-088dd50a0f3e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8019e9e3-8fe9-4c6b-b924-e375483d979d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d946c47e-47e6-47f3-878f-19b9d2229256> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ef290190-af93-487c-b01a-4e4126cb861b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c26c0c02-244e-4489-b2dc-2072c236a34d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/846a047d-d3f8-4350-879c-a644e66a8c3b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d3fdec34-05ae-484e-803b-676092632470> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cfe448b-5c6e-4de4-a07d-e2a4f795ae11> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68361520-774c-4182-88e7-f4de9d659a83> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fcddd2a0-7719-449a-ae10-61c92743865c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9a0c732a-b9ab-496d-bc0c-0117058fdb91> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0437c2cb-0311-4e43-b9e4-35ef4ac17b7b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/181b263b-9425-427d-9154-6d0f44ce035a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b97f03b3-0e67-4e66-a635-5afd488a7bae> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b8473c4a-e6be-4368-ade2-d529d71961e7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/20c3c59b-3034-4982-a3b7-988bf9c8996b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9c93d373-8a43-4ed1-8fa2-8375eb9a2dc3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dd0a218d-fc59-4d2d-800a-2138af18b7c7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/587d2ed6-bffd-44ae-a721-9d7ddd03fcd2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/26a40e13-7f09-4b6e-83d9-2b6ef2cd2048> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/3ff5d46a-8377-4817-8e34-06c82154ba00> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e9b57e9e-4800-4b6f-a0af-22aebe04fa33> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0011ef33-a089-49ad-bfa9-4e1fdf67f8e6> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a9cdd1e-ef1c-4ce8-b4c1-7e4a7223ab56> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bbbad06b-77d0-4296-af9c-f6d1071e338b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/062a12ac-61e7-4dde-9ff7-c9f8c03b7349> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/668a48b5-314b-4d8e-a1c0-8e05153e54a3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ebe4c1dc-0d97-400b-9803-34a0812d6d0f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a29badff-1c87-4c65-9ae9-f1b4cb3d2260> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/62ff2535-9e13-4fe2-8b8a-b2137ec01900> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d0d07581-b036-41b2-a3b4-4284bf0bcd83> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8db706bc-ba3c-413d-a1fe-d017c76afd2a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97244f23-7f41-4966-aed9-5b8f11552206> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5bc530ef-9279-43b9-8deb-4ffb18fe30f1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/49425ff2-5b29-49f3-acf3-632733f72087> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/222e9d4b-a8dd-4d92-943e-87e1c6311476> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71474e8b-c1a8-4640-bb0f-583fbf2a1873> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d24edc5e-fdf8-4ec9-83c5-26fded104d71> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/aec8ca24-deb0-4f95-b7c4-fcda0dbcd8b5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d857d23a-434c-4298-a82e-6f275ad3f8a1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/462dea1b-8092-4384-bc61-e28004b553de> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71c7d6f9-790e-4b8e-84b4-4f4925b00561> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0b06eac4-db67-4b03-a9b1-d8568f4b1660> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/054c1b09-50f6-431b-9d73-4bab78287eb1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/748e999e-3022-4850-8e4c-85e5e9c7e4d4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6574e0f6-3540-4cfb-9674-9211250d9269> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d12b705e-b404-46a9-9b27-1669aeef403e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d7974b10-4f3e-42fa-9a2f-3ff1f1d63dad> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/722fa8ad-32de-45ce-9435-7252eb4e1591> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/f9334090-1241-4334-b569-e844e517f936> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/06a8411b-ab78-45f0-9bcb-591a9fe0d5e4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/21ada716-be61-415e-9633-0e59d2cd471f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dc170081-fef5-4ae6-918d-cad56764090e> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/02156510-0b62-48e6-b65d-a378445642bc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44ebc663-2a58-4ff1-aa57-c89f3b5fb250> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2c8107a4-36e0-4735-a6e1-9f688db0df18> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/32e39be4-c02d-4c43-b214-8a53abbd3d7a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e2d348bb-518e-4116-bbef-7f1caff31435> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/81362807-b82a-4195-9748-4b9479ed4626> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13dd0ed7-f5f8-41f8-afff-64c1c04d3760> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/030c121d-6a67-4791-bef2-df34c3f48005> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d4b50321-c48a-413d-b08f-c09e8eab2f80> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d597af9f-1efb-43df-9321-8babf532c2a8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2cf668ab-bef4-4ebc-a9e4-28a46d4df351> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4bb85779-2a8f-4007-adc3-1b7e7f9efdd1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e44d9c94-0af8-484e-b148-836783aed3d0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e610c239-4a17-4bed-9aca-5ac3d477d465> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b3fa7b5-fa82-4349-9f6e-1a6d9d104a1d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/528b14f8-5352-45d3-83d0-888b97998685> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/783ae7aa-ea6d-4521-88ed-7673bd9d26e0> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/42af84ab-1547-4889-8d87-c270cc3ae174> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1a609bc0-c759-4870-b7d3-9ba3b7f0faa1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1c8f7d7-5ffe-4fce-b811-f9cd9e899d3b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6219a396-9e93-40e8-9c87-ad7eb70bc2cb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5455be43-be13-442f-b225-91c5025d5347> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2234c2a6-9c48-4a85-a615-4e0a6fdebdce> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f12ae96-4b56-4ce4-a72c-c286afa141cc> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/08c5ef1f-c9cc-4833-b7c8-4fd487598df5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/98575a3d-de06-4beb-9181-2f302abdc073> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ec32f5b3-d920-4811-b5f5-aa0dec351835> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7e1be00e-066e-4e37-a8dd-3c4cf56ce24c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e150a53b-350f-4e26-8570-51e4c5a6ec73> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/dbcfefe5-cc23-403f-b626-41301c98f3aa> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61078c51-9ea6-4562-ab4b-3d387aaa6d70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59c53f8a-c26f-4b5a-9ff8-1be69e34442d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/065e6658-36f8-431e-8258-601b5330d740> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27cfca78-dbdc-4491-9629-cba565496e00> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b1a39b3e-6d43-4440-861e-e8972901845b> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/48bb25ce-f74c-4f18-9cb4-e1fc1bb7f9c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/681a7a2b-c816-4633-99f4-79625dce01e1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53d52599-5cb3-45b3-8af5-3d0521169e38> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/51d4b603-1192-488f-b0fb-db4ef7ed6556> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99cfc006-1cd4-47ce-8bed-fd88579cc707> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bc282ce4-c66d-4322-9793-cdd4beca1ef8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c55e5275-bfda-4e99-bba2-a6bc9e745aeb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6e0c4062-d08c-450b-905a-076475244aa8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59c395c4-2b86-4073-ba63-6b7a928d198a> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/434a19e1-a205-4708-994b-d0ccbcb16b25> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/911e976e-2c5c-4ace-b63d-a5b9d52231d9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/24b80bdd-ab03-4b27-97f5-10e4b51e4d36> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2e9de601-935e-4217-b9d2-1e6f3223e803> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a6e19e55-a9f9-48a7-bdb8-282451da312d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2b3d74ba-18f8-49c7-94aa-f89b52c7e5cd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6dc4026c-091d-4987-8a49-434737105975> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9b754f7e-10f9-4f9d-b4e0-ce1f19c98cdb> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e355812f-d06d-4f4c-b424-3c61b429b9f5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/760de8e7-1c3c-4e22-bc3e-a200d91f5fd1> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/bf3a717a-6ba0-428e-8da5-8778066e210d> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/502d4986-0c2e-4eaf-8d15-964e90cd3840> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5af5e82e-6a37-4830-83bf-aaea50e244f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/7474f452-d508-4f85-a90b-069f1f288ff9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/65ce90e8-ee7e-4c27-ab5e-57427e9cfa68> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/941acb26-3b67-43fb-baee-dcf8203686ed> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/da3de0d9-181b-4afb-bcd2-72bc8c2ae6f9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e8e5945a-b401-4310-9c2d-728cfcb73904> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/63d12c54-94dc-4389-8855-ea0b77cf38d4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd5ed74c-1d14-44e8-985c-562dab4c5828> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9732d69f-4540-43ed-bcb3-ab895211c896> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b72c5e08-7335-4d9f-99c9-a416095648c3> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/497ef013-20e4-4b10-aa85-8692bcfb1d63> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ece1ec6-6e16-4699-9560-3629fdeb01bd> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61cd9082-c9be-4819-a88d-cecec7d226d2> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4d0867d-e76f-4b47-843d-ab6ca500cd67> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/27ffff5d-ee7a-49da-b597-fef89f8e6015> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c76fabc3-23a2-4f16-b20c-14975ab74ff4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/460bf5e0-fa6e-4a30-bd9c-26b97b8120c4> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/979570fc-c373-4dd4-8d89-dc0efdf68712> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d642371-de8a-4dc8-96be-1652409524ac> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/07909132-0904-45bd-be0b-bb48b6a55974> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/13e4375b-afc7-4d95-9db2-5e87b0f4d067> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c3dbd55d-91bb-47a0-988e-ce4a21343917> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/ffe37d31-4045-4fe5-9ae0-f1ab3f370299> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b720b11f-2c00-4f48-83b9-4aa9d3207e8c> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77f4cc07-84e6-4ec6-b57f-6db413e77c70> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4861c79b-33e9-469d-85e5-acb47ab533f0> ;
+        pm:hasTitle       "Please Please Me" ;
+        pm:hasVersion     <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/649223c8-5c3b-4909-94d8-37079b79f053> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/85b087da-68d2-431f-a46a-e88515dd0674> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/45b0694c-8461-452a-af1b-f0fe960f18a7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/72ab8e29-68bd-34bd-a376-2bd4be0392b8> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Version/0b53f664-9ea7-4d7c-addd-b06e129fb7a1> ;
+        pm:isComposedBy   <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/4d5447d7-c61c-4120-ba1b-d7f471d385b9> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Musician/ba550d0e-adac-4864-b88b-407cab5e76af> ;
+        pm:isPublishedBy  <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/724c65a8-68bb-4a63-881b-9ea6208ee585> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f62edea0-e48a-492b-8894-c6bfc350adf7> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/9f95e004-1d81-4fca-802b-a443e91ac0f5> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/11f9a729-88e5-48ae-8bb9-ea1fa4b76537> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/33d98a11-d2b4-4ba4-9b9b-251284b76d49> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/2ec9634b-ed39-457d-8934-2e72a06e288f> , <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/1ec8e18b-6203-489c-9d6f-2dda2768393a> .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/97244f23-7f41-4966-aed9-5b8f11552206>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "175733" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/4b3fa7b5-fa82-4349-9f6e-1a6d9d104a1d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "127000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/61078c51-9ea6-4562-ab4b-3d387aaa6d70>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "live, 1963‐07‐16: Paris Theatre, London, UK" ;
+        pm:hasLength          "115440" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/68361520-774c-4182-88e7-f4de9d659a83>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/71c7d6f9-790e-4b8e-84b4-4f4925b00561>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133973" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/0437c2cb-0311-4e43-b9e4-35ef4ac17b7b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/1f12ae96-4b56-4ce4-a72c-c286afa141cc>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "She Loves You / Yesterday / From Me to You / Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/a1c8f7d7-5ffe-4fce-b811-f9cd9e899d3b>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/53d52599-5cb3-45b3-8af5-3d0521169e38>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "Anthology 1 version" ;
+        pm:hasLength          "119160" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/6219a396-9e93-40e8-9c87-ad7eb70bc2cb>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125426" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/2234c2a6-9c48-4a85-a615-4e0a6fdebdce>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "149773" ;
+        pm:hasTitle   "Please Please Me (BBC Saturdays Club)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/875c1cf7-f568-4f0d-b5e3-bc8a7614269a>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "original mono studio mix" ;
+        pm:hasLength          "121333" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/c26c0c02-244e-4489-b2dc-2072c236a34d>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "168000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/fcddd2a0-7719-449a-ae10-61c92743865c>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "134000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/44ebc663-2a58-4ff1-aa57-c89f3b5fb250>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "120000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/77f4cc07-84e6-4ec6-b57f-6db413e77c70>
+        rdf:type              pm:Recording ;
+        pm:hasDisambiguation  "stereo" ;
+        pm:hasLength          "141000" ;
+        pm:hasTitle           "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/d24edc5e-fdf8-4ec9-83c5-26fded104d71>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/59c395c4-2b86-4073-ba63-6b7a928d198a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/cd5ed74c-1d14-44e8-985c-562dab4c5828>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "125173" ;
+        pm:hasTitle   "Please Please Me (Ed Sullivan Show)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Publicator/f62edea0-e48a-492b-8894-c6bfc350adf7>
+        rdf:type    pm:Publicator ;
+        pm:hasName  "Songs of PolyGram International, Inc." .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/b4d0867d-e76f-4b47-843d-ab6ca500cd67>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "126600" ;
+        pm:hasTitle   "Please, Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5cfe448b-5c6e-4de4-a07d-e2a4f795ae11>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me (7\" mix)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/5d642371-de8a-4dc8-96be-1652409524ac>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "133000" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/99cfc006-1cd4-47ce-8bed-fd88579cc707>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "136680" ;
+        pm:hasTitle   "Please Please Me (1963-03-06)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/07909132-0904-45bd-be0b-bb48b6a55974>
+        rdf:type     pm:Recording ;
+        pm:hasTitle  "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/8db706bc-ba3c-413d-a1fe-d017c76afd2a>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "122093" ;
+        pm:hasTitle   "Please Please Me" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/9ece1ec6-6e16-4699-9560-3629fdeb01bd>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "123000" ;
+        pm:hasTitle   "Please Please Me (karaoke)" .
+
+<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owlresource/Recording/e610c239-4a17-4bed-9aca-5ac3d477d465>
+        rdf:type      pm:Recording ;
+        pm:hasLength  "290200" ;
+        pm:hasTitle   "Please, Please Me / A Hard Day's Night" .
