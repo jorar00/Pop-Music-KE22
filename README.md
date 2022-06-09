@@ -4,4 +4,4 @@
 
 ## RDF graph
 
-![/RDF Schema/Schema.png]
+![RDF graph of the designed ontolofy](/RDF Schema/Schema.png)
