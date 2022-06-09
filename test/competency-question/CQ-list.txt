@@ -1,9 +1,13 @@
 Competency Questions used to model the Ontology:
 
-- CQ1:
-- CQ2:
-- CQ3:
-- CQ4:
-- CQ5:
-- CQ6:
-
+CQ1: Who publishes a certain song?
+CQ3: What is the original language of a certain song?
+CQ4: When was a certain Record released?
+CQ5: What is the title of a version of a certain song? 
+CQ6: What is the language of a version of a certain song? 
+CQ7: Which is the length of a Recording?
+CQ8: What is the rate of a Recording? 
+CQ9: Who is the Artist that plays a certain song? 
+CQ10: When did a Artist start his career?
+CQ11: Where was a Band born?
+CQ12: What is the begin date of a Band?
