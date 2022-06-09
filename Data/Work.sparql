@@ -38,7 +38,7 @@ CONSTRUCT {
 
 }WHERE{
     SERVICE <x-sparql-anything:>{ 
-        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Queen/Work/work_8f217f03-fd55-366c-b80e-66424027dc29.json" .
+        fx:properties fx:location "https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Data/Input/Queen/Work/work_8f217f03-fd55-366c-b80e-66424027dc29.json" .
 
         ?root rdf:type fx:root;
             xyz:work ?Song_NS.
@@ -75,8 +75,8 @@ CONSTRUCT {
         OPTIONAL {?Recording xyz:disambiguation ?recordingDisambiguation .}
 
         OPTIONAL {?Song_NS xyz:work-relation-list/fx:anySlot ?Version_NS .}
-        ?Version_NS xyz:target ?versionID .
-        BIND(fx:entity (pm:, "resource/Version/", ?versionID) as ?VersionMyNS) .
+        OPTIONAL {?Version_NS xyz:target ?versionID .}
+        OPTIONAL { BIND(fx:entity (pm:, "resource/Version/", ?versionID) as ?VersionMyNS) .}
         OPTIONAL {?Version_NS xyz:work ?version_work .}
         OPTIONAL {?version_work xyz:title ?versionTitle .}
         OPTIONAL {?version_work xyz:language ?versionLanguage .}

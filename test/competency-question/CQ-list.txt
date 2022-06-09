@@ -1,0 +1,9 @@
+Competency Questions used to model the Ontology:
+
+- CQ1:
+- CQ2:
+- CQ3:
+- CQ4:
+- CQ5:
+- CQ6:
+

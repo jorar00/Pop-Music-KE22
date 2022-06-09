@@ -28,7 +28,7 @@ CONSTRUCT {
 
 }WHERE{
     SERVICE <x-sparql-anything:>{
-        fx:properties fx:location "D:/Pop-Music-KE22/Data/Input/Queen/Artist/artist_d4009c09-a339-4b89-bc45-d91ab649acb6_1.json" .
+        fx:properties fx:location "https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Data/Input/Queen/Artist/artist_d4009c09-a339-4b89-bc45-d91ab649acb6_1.json" .
 
         ?root rdf:type fx:root;
             xyz:artist ?Band_NS.
