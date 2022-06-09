@@ -1,6 +1,0 @@
-@prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-
-td:Band pm:hasBeginDate "2015-04-11"^^xsd:dateTime .
