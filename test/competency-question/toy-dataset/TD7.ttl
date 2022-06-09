@@ -1,5 +1,5 @@
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 td:recording pm:hasLength "3.42"^^xsd:double .

@@ -1,12 +1,12 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
 @prefix tc: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/> .
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl#> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl#> .
 
 
 tc:CQ8.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "What is the rate of a recording?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT DISTINCT ?rate WHERE{ ?recording pm:hasRate ?rate . }" ;
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> SELECT DISTINCT ?rate WHERE{ ?recording pm:hasRate ?rate . }" ;
 	owlunit:hasInputData td:TD8.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"rate\" ] } ,  \"results\": {  \"bindings\": [ {  \"rate\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#double\" , \"type\":  \"literal\", \"value\": \"4.7\" } } ] } }";

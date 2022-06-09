@@ -10,3 +10,4 @@ tc:CQ3.ttl a owlunit:CompetencyQuestionVerification ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"language\" ] } ,  \"results\": {  \"bindings\": [ {  \"language\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#language\" , \"type\":  \"literal\", \"value\": \"fr\" } } ] } }";
 	owlunit:testsOntology pm: .
+	

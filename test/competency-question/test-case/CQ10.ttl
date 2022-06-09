@@ -1,12 +1,12 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
 @prefix tc: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/test-case/> .
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
 
 
 tc:CQ10.ttl a owlunit:CompetencyQuestionVerification ;
  	owlunit:hasCompetencyQuestion "When did a Musician start his career?" ;
- 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> SELECT ?date WHERE{ ?Musician pm:hasBeginDate ?date . }";
+ 	owlunit:hasSPARQLUnitTest "PREFIX pm:<https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> SELECT ?date WHERE{ ?Musician pm:hasBeginDate ?date . }";
 	owlunit:hasInputData td:TD10.ttl ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"date\" ] } ,  \"results\": {  \"bindings\": [ {  \"date\": {  \"datatype\":  \"http://www.w3.org/2001/XMLSchema#dateTime\" , \"type\":  \"literal\", \"value\": \"2015-04-11\" } } ] } }";

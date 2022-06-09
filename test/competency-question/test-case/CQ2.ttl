@@ -10,3 +10,4 @@ tc:CQ2.ttl a owlunit:CompetencyQuestionVerification ;
 	owlunit:hasInputTestDataCategory owlunit:ToyDataset ;
 	owlunit:hasExpectedResult "{  \"head\": {  \"vars\": [  \"place\" ] } ,  \"results\": {  \"bindings\": [ {  \"place\": {  \"type\":  \"literal\" ,  \"value\": \"U.S\" } } ] } }";
 	owlunit:testsOntology pm: .
+	
