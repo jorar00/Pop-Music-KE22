@@ -1,7 +1,7 @@
 # Pop-Music-KE22
  Pop music Ontology designed by Irene Herrero, María Sánchez and Jorge Arranz for the Knowledge Engineering course. 
 
-For further the information read the [Report](/report.pdf)
+For further the information read the [Report](/Report.pdf)
 
 ## RDF graph
 We have designed an ontology where the following information has been included:
