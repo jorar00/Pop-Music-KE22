@@ -1,5 +1,5 @@
 @prefix td: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/test/competency-question/toy-dataset/> .
-@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/PopMusic_New.owl> .
+@prefix pm: <https://raw.githubusercontent.com/jorge-arranz/Pop-Music-KE22/main/Ontology/popMusic.owl> .
 
 
 td:Band_02 pm:hasPlace "U.S" .
