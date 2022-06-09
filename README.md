@@ -4,4 +4,4 @@
 
 ## RDF graph
 
-[/RDF Schema/Schema.png]
+![/RDF Schema/Schema.png]
