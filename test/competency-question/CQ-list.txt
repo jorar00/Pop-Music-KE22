@@ -11,4 +11,3 @@ CQ8: What is the rate of a Recording?
 CQ9: Who is the Artist that plays a certain song? 
 CQ10: When did a Artist start his career?
 CQ11: Where was a Band born?
-
