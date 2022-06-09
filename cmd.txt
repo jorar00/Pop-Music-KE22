@@ -1,3 +1,0 @@
-java -jar sparql-anything-0.7.0.jar -q D:\Isophonics\Work.sparql -o D:\Isophonics\output\output_Work.ttl -f TTL
-
-java -jar sparql-anything-0.7.0.jar -q .\Github\Pop-Music-KE22\Data\Work.sparql -o .\Github\Pop-Music-KE22\Data\Output\prueba.ttl -f TTL
