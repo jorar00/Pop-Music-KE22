@@ -5,7 +5,7 @@
 ## RDF graph
 We have designed an ontology where the following information has been included:
 
-<img width="1001" alt="RDF-graph" src="https://github.com/jorge-arranz/Pop-Music-KE22/blob/f959e35137feca5030be1c709aae34ffcf5a1be5/RDF%20Schema/Schema.png">
+<img width="1001" alt="RDF-graph" src="https://github.com/jorge-arranz/Pop-Music-KE22/blob/main/RDF%20Schema/Schema.png">
 
 ## Competency Questions
 
